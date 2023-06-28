@@ -21,7 +21,7 @@
 }
 //点击朋友圈显示详情
 {   
-    'indexCode':'string', //unique 索引
+    'indexCode':'string', //unique 索引, wm开头
     'postPerson':'string', //发post的人称（查理苏）
     'postText':'string', //查丽苏主动发朋友圈文本
     'postImg' :'string', //'hasImg' true 时给path
@@ -33,10 +33,10 @@
             'choiceContent':'string',//选项内容
             'reply':{
                 'person':'string',//回复人
-                'content':'string', //回复内容
+                'content':'string' //回复内容
               }
         }
-    ]
+    ],
     'otherComment':[
         {
             'name':'string',
