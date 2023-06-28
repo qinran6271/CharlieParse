@@ -1,0 +1,46 @@
+[
+    {
+        "indexCode": "wm0001",
+        "postPerson": "查理苏",
+        "postText": "欢迎优秀的室内设计师自荐，来负责我和我未婚妻的新房。",
+        "postImg": "",
+        "hasImg": false,
+        "commentPerson": "我",
+        "commentChoices": [
+            {
+                "index": 0,
+                "choiceContent": "你不是装修好了吗？",
+                "reply": {
+                    "person": "查理苏",
+                    "content": "那两套没装修的也是我们的新房，我知道了，你一定想自己来设计。"
+                }
+            },
+            {
+                "index": 1,
+                "choiceContent": "万恶的甲方",
+                "reply": {
+                    "person": "查理苏",
+                    "content": "不如你告诉我那些折磨你的甲方，我这就去把他们变成乙方。"
+                }
+            },
+            {
+                "index": 2,
+                "choiceContent": "别装修了，听说房价要跌，赶紧卖掉吧。",
+                "reply": {
+                    "person": "查理苏",
+                    "content": "虽然我不在意，不过既然未婚妻这么关心我，我就去卖掉吧。"
+                }
+            }
+        ],
+        "otherComment": [
+            {
+                "name": "安安",
+                "content": "你们己经到这个地步了吗……"
+            },
+            {
+                "name": "安2",
+                "content": "你们己经到这个地步了！！！！"
+            }
+        ]
+    }
+]

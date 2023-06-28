@@ -1,0 +1,46 @@
+//to earse error 
+{} //ignore 
+{} //ignore
+//导航栏点击朋友圈发送灵犀总览请求-朋友圈总览通用接口
+{
+    'type':'string', //类型: lingXi（灵犀）、xieHou（邂逅）、activities（活动）、truthorDare（真话冒险）、teaParty（茶歇）、mainStory（主线）
+    
+    'data':[
+        {
+            'className':'string', //大类名称 主线：第x章
+            'items':[
+                {
+                    'name':'string', //获取途径
+                    'content':'string', //朋友圈简介内容
+                    'indexCode':'wmstring' //朋友圈索引
+                }
+            ]
+        }
+    ],
+
+}
+//点击朋友圈显示详情
+{   
+    'indexCode':'string', //unique 索引
+    'postPerson':'string', //发post的人称（查理苏）
+    'postText':'string', //查丽苏主动发朋友圈文本
+    'postImg' :'string', //'hasImg' true 时给path
+    'hasImg': bool, 
+    'commentPerson': 'string', //回复人（我）
+    'commentChoices': [ // "我" 的回复选项及其内容
+        {
+            'index': int (0), //选项索引值 0为第一个选项
+            'choiceContent':'string',//选项内容
+            'reply':{
+                'person':'string',//回复人
+                'content':'string', //回复内容
+              }
+        }
+    ]
+    'otherComment':[
+        {
+            'name':'string',
+            'content':'string'
+        }
+    ]
+}

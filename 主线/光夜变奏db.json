@@ -1,0 +1,54 @@
+//to earse error 
+{} //ignore 
+{} //ignore 
+
+//version 1 
+//main_chapters
+{
+    "name" : "string", 
+    "chap_num" : "int", 
+    "chap_name" : "string", //第x章
+    "intro" : "string", //简介
+    "image" : "string", //照片路径
+    "video" : "string", //视频链接
+    "behind" : [ //幕后内容
+        {
+            "behind_name" : "string",
+            "content" : [ "string ..." ]
+        }
+    ], 
+    "subChap": ["string"] //所有小节名称
+}
+
+
+//sub_chapters
+{
+    "_id" : "objectId",
+    "subchap_name" : "string",
+    "subchap_type" : "stirng", //普通，光结局，夜结局
+    "para" : [ //根据type来判断 （diaContent）
+        { //正常对话
+            "para_type" : "string", //normal，choice
+            "speaker" : "string",
+            "content" : [ "string ..." ],
+            "tag" : "string" //me，charlie，pb, others
+        }... ,
+        //当有选项的情况发生
+        {
+            "para_type": "choice",//选项内容
+            "xuanxiang": [//选项数组
+              {
+                "para_type" : "string", //light, night
+                "choice_name" : "string", //选项名称
+                "choice_para" : [ //选项对话内容
+                    {
+                        "speaker" : "string",
+                        "content" : [ "string ..." ],
+                        "tag" : "string" //me，charlie，pb, others
+                    } ... 
+                ]
+              },
+            ]
+        }...
+    ]
+}
