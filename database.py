@@ -1,9 +1,10 @@
 import pymongo 
 import json
+import config
 
 # 获取MongoDB Atlas连接字符串
 #手动输入url
-connection_string = client = ""
+connection_string = client = config.ENCRYPTED_MONGODB_URL
 
 # 创建MongoDB客户端
 client = pymongo.MongoClient(connection_string)
@@ -12,8 +13,11 @@ client = pymongo.MongoClient(connection_string)
 # db = client.Charlie
 db = client.CharlieDB
 
-# 真心话大冒险collection
+#collections
 truth_dare = db.truth_or_dare
+day_night_chaps = db.day_and_night_chaps
+day_night_subchaps = db.day_and_night_subchaps
+
 
 # # 插入数据
 # collection.insert_one(data)
@@ -31,5 +35,5 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(truth_dare,'./真心话/tod.json')
+    read_many(day_night_subchaps,'./主线/subchaps.json')
     # delete_all( truth_dare)
