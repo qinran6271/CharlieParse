@@ -31,5 +31,5 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(truth_dare,'./tod.json')
-    delete_all( truth_dare)
+    read_many(truth_dare,'./真心话/tod.json')
+    # delete_all( truth_dare)
