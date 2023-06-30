@@ -5,7 +5,7 @@
 //chat history overview 
 //para - type
 {
-    "totalNum" : "int", //总聊天记录数
+    "totalNum" : "int", //某一个type聊天记录的总数
     "type" : "string", // lingXi（灵犀）、xieHou（邂逅）、activities（活动）、truthorDare（真话冒险）、teaParty（茶歇）、mainStory（主线）
     "data" : [
         {
@@ -19,42 +19,61 @@
 
 //datails 
 //para - indexcode
+
 {
     "indexCode": "string", // 聊天记录索引值，ch开头
-    "type": "nomarl", // normal无选项，choice有选项
-    "name":"string", //说话人
-    "content": [ // normal
+    "history": [ //相同说话人的内容都在一个obj里面
         {
-            "ifVoice": "boolean",//是否含有语音
-            "ifVideo": "boolean",//是否含有通话
-            "ifImg": "boolean",//是否含有图片
-            "selfContent": "string"//对话内容
-        }
-    ],
-    "content": [ //choice
-        {
-          "ifVoice": "boolean",
-          "ifVideo":"boolean",
-          "ifImg": "boolean", // true
-          "selfContent": "string",
-          "img": "string",// 当含有图片为真时显示的图片链接地址
-          "reply": [
-            {
-              "content": "string",//当type字段为choice时查理苏回复的内容（只含文本）
-            }
-          ]
-        }
-    ],
-    "content": [ // video-plain text
-        {
-            "ifVoice": "boolean", // true
-            "ifVideo":"boolean",
-            "ifImg": "boolean",
-            "video": {//当ifVideo为真时返回的video内容
-                "name":"string",//video名称
-                "url":"string",//video链接地址
-                "code":"string"//video索引值,v开头
-            }
+            "type": "nomarl", // normal无选项，choice有选项
+            "name":"string", //说话人
+            "content": [ // normal - text only
+                {
+                    "ifVoice": "boolean",//是否含有语音
+                    "ifVideo": "boolean",//是否含有通话
+                    "ifImg": "boolean",//是否含有图片
+                    "selfContent": "string",//对话内容
+                }
+            ],
+            "content": [ //has image - doesnt need "selfContent"
+                {
+                "ifVoice": "boolean",
+                "ifVideo":"boolean",
+                "ifImg": "boolean", // true
+                "img": "string"// 当含有图片为真时显示的图片链接地址
+                }
+            ],
+            "content": [ // video-plain text
+                {
+                    "ifVoice": "boolean", 
+                    "ifVideo":"boolean", // true
+                    "ifImg": "boolean",
+                    "video": {//当ifVideo为真时返回的video内容
+                        "name":"string",//聊天记录名称
+                        "url":"string",//video链接地址
+                        "code":"string"//video索引值,v开头
+                    }
+                }
+            ],
+            "content": [ //choice 我回复的选项
+                {
+                "ifVoice": "boolean",
+                "ifVideo":"boolean",
+                "ifImg": "boolean",
+                "selfContent": "string",
+                "img": "string",// 当含有图片为真时显示的图片链接地址
+                "reply": [
+                    {
+                        "speaker" : "string", //回复人：我 or 查理苏
+                        "ifVoice": "boolean",//是否含有语音
+                        "ifImg": "boolean",//是否含有图片
+                        "selfContent": "string",//对话内容
+                        //如果有照片
+                        "img": "string"
+
+                    }
+                ]
+                }
+            ]
         }
     ]
 }
@@ -63,5 +82,7 @@
 //para - indexcode
 {
     "name": "string",//说话人名称
-    "content": "string" //说话内容数组
+    "content":[ //说话内容数组
+        "selfContent" : "string"
+    ] 
 }
