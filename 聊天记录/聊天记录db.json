@@ -1,0 +1,67 @@
+//to earse error 
+{} //ignore 
+{} //ignore 
+
+//chat history overview 
+//para - type
+{
+    "totalNum" : "int", //总聊天记录数
+    "type" : "string", // lingXi（灵犀）、xieHou（邂逅）、activities（活动）、truthorDare（真话冒险）、teaParty（茶歇）、mainStory（主线）
+    "data" : [
+        {
+            "dtype" : "string", //聊天记录类型: videocalls-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
+            "name" : "string", //聊天记录名称
+            "content":"string", //聊天记录简介内容
+            "indexCode": "string" // 聊天记录索引值，ch开头
+        }
+    ]
+}
+
+//datails 
+//para - indexcode
+{
+    "indexCode": "string", // 聊天记录索引值，ch开头
+    "type": "nomarl", // normal无选项，choice有选项
+    "name":"string", //说话人
+    "content": [ // normal
+        {
+            "ifVoice": "boolean",//是否含有语音
+            "ifVideo": "boolean",//是否含有通话
+            "ifImg": "boolean",//是否含有图片
+            "selfContent": "string"//对话内容
+        }
+    ],
+    "content": [ //choice
+        {
+          "ifVoice": "boolean",
+          "ifVideo":"boolean",
+          "ifImg": "boolean", // true
+          "selfContent": "string",
+          "img": "string",// 当含有图片为真时显示的图片链接地址
+          "reply": [
+            {
+              "content": "string",//当type字段为choice时查理苏回复的内容（只含文本）
+            }
+          ]
+        }
+    ],
+    "content": [ // video-plain text
+        {
+            "ifVoice": "boolean", // true
+            "ifVideo":"boolean",
+            "ifImg": "boolean",
+            "video": {//当ifVideo为真时返回的video内容
+                "name":"string",//video名称
+                "url":"string",//video链接地址
+                "code":"string"//video索引值,v开头
+            }
+        }
+    ]
+}
+
+//video deatils 
+//para - indexcode
+{
+    "name": "string",//说话人名称
+    "content": "string" //说话内容数组
+}
