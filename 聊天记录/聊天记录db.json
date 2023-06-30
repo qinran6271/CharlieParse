@@ -11,7 +11,7 @@
         {
             "dtype" : "string", //聊天记录类型: videocalls-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
             "name" : "string", //聊天记录名称
-            "content":"string", //聊天记录简介内容
+            "intro":"string", //聊天记录简介内容
             "indexCode": "string" // 聊天记录索引值，ch开头
         }
     ]
@@ -19,57 +19,58 @@
 
 //datails 
 //para - indexcode
-
 {
     "indexCode": "string", // 聊天记录索引值，ch开头
-    "history": [ //相同说话人的内容都在一个obj里面
+    "chatHistory": [ //相同说话人的内容都在一个obj里面
         {
             "type": "nomarl", // normal无选项，choice有选项
-            "name":"string", //说话人
+            "speaker":"string", //说话人
             "content": [ // normal - text only
                 {
                     "ifVoice": "boolean",//是否含有语音
-                    "ifVideo": "boolean",//是否含有通话
+                    "ifCall": "boolean",//是否含有通话
                     "ifImg": "boolean",//是否含有图片
-                    "selfContent": "string",//对话内容
+                    "contentText": "string"//对话内容
                 }
             ],
-            "content": [ //has image - doesnt need "selfContent"
+            "content": [ //has image - doesnt need "contentText"
                 {
                 "ifVoice": "boolean",
-                "ifVideo":"boolean",
+                "ifCall":"boolean",
                 "ifImg": "boolean", // true
-                "img": "string"// 当含有图片为真时显示的图片链接地址
+                "imgName" : "string",
+                "imgPath": "string"// 当含有图片为真时显示的图片链接地址
                 }
             ],
-            "content": [ // video-plain text
+            "content": [ // call-plain text
                 {
                     "ifVoice": "boolean", 
-                    "ifVideo":"boolean", // true
+                    "ifCall":"boolean", // true
                     "ifImg": "boolean",
-                    "video": {//当ifVideo为真时返回的video内容
-                        "name":"string",//聊天记录名称
-                        "url":"string",//video链接地址
-                        "code":"string"//video索引值,v开头
+                    "imgName" : "string",
+                    "call": {//当ifCall为真时返回的call内容
+                        "title":"string",//聊天记录名称
+                        "url":"string",//call链接地址
+                        "callCode":"string"//call索引值,v开头
                     }
                 }
             ],
             "content": [ //choice 我回复的选项
                 {
                 "ifVoice": "boolean",
-                "ifVideo":"boolean",
+                "ifCall":"boolean",
                 "ifImg": "boolean",
-                "selfContent": "string",
-                "img": "string",// 当含有图片为真时显示的图片链接地址
+                "contentText": "string",
+                "imgPath": "string",// 当含有图片为真时显示的图片链接地址
                 "reply": [
                     {
-                        "speaker" : "string", //回复人：我 or 查理苏
+                        "replySpeaker" : "string", //回复人：我 or 查理苏
                         "ifVoice": "boolean",//是否含有语音
                         "ifImg": "boolean",//是否含有图片
-                        "selfContent": "string",//对话内容
+                        "replyContent": "string",//对话内容
                         //如果有照片
-                        "img": "string"
-
+                        "imgName" : "string",
+                        "imgPath": "string"
                     }
                 ]
                 }
@@ -78,11 +79,14 @@
     ]
 }
 
-//video deatils 
-//para - indexcode
+//call deatils 
+//para - callCode
 {
-    "name": "string",//说话人名称
+    "callCode":"string",//call索引值,v开头
+    "speaker": "string",//说话人名称
     "content":[ //说话内容数组
-        "selfContent" : "string"
+        {
+            "contentText" : "string"
+        }
     ] 
 }
