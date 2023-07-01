@@ -197,11 +197,10 @@ def sort_by_integer(filename):
     if match:
         number = int(match.group(1))
         return number
-    return 0  # 如果文件名不符合格式要求，则返回 0 进行排序
-
+    return 10000  # 如果文件名不符合格式要求，则返回 0 进行排序
 
 def main():
-    os.chdir('./主线文本') #mark data as root dir
+    os.chdir('./主线/主线文本') #mark data as root dir
 
     chapters = sorted(os.listdir(),key=sort_by_integer) #find all subdirs / chapters & sort
 
@@ -221,6 +220,7 @@ def main():
         }
         print(chaps)
         subchap_nums = [] # 储存当前所有小节的编号
+        ending= []
 
         for item in os.listdir(chap_path): #每章节里面的所有文档/文件夹
             sub_path = os.path.join(chap_path, item) 
@@ -230,7 +230,7 @@ def main():
                 subchaps = os.listdir(sub_path) #所在文件夹的所有小节
                 
                 
-                if item == "光夜选择" or item == "普通主线":
+                if item == "光夜选择" or item == "普通主线" or item == "其他主线":
                     for sub in subchaps: #每小节文档
                         curr_path = os.path.join(sub_path, sub) 
                         subchap_nums.append(extract_content(chap_num, '普通', curr_path, json_path))
@@ -239,13 +239,16 @@ def main():
                 elif item == "光夜结局":
                     for sub in subchaps: #每小节文档
                         curr_path = os.path.join(sub_path, sub) 
-                        subchap_nums.append(extract_content(chap_num, sub.split(".")[0], curr_path, json_path))
+                        ending.append(extract_content(chap_num, sub.split(".")[0], curr_path, json_path))
 
             elif os.path.isfile(sub_path): #docs 
                 json_path = "../chaps.json"
                 data = extract_chap(sub_path, item, data)
-                # 把subchap list加入data
-                data["subchap"] = subchap_nums
+            
+        # 把subchap list加入data
+        subchap_nums = sorted(subchap_nums, key=lambda x: int(x.split('-')[1]))
+        subchap_nums = subchap_nums + ending
+        data["subchap"] = subchap_nums
 
         # 生成大章节json文件
         chap_data_list.append(data)

@@ -2868,372 +2868,6 @@
         ]
     },
     {
-        "subchap_name": "7-1",
-        "subchap_type": "普通",
-        "para": [
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "酷暑将尽的傍晚，太阳渐隐于高楼背后，天色昏暗。",
-                    "橘黄色的路灯在呼啸的风中一盏盏苏醒，像舞台上肃穆的追光，显得我的房间晦暗无比。",
-                    "我失神地盯着天花板，脑袋昏昏，仿佛刚从一次长久又深沉的睡眠里醒来。",
-                    "很快，思绪渐渐回笼，回忆不由分说地侵袭了过来。",
-                    "诡异的胶囊，生死攸关的游戏，以及那个自称是我未婚夫的男人。",
-                    "我终于看清了那个人的脸。眉目很深，笑容轻佻，却掩盖不住神色中的冷漠。",
-                    "刚才他说他是我的未婚夫？可对方不是个风流成性、五十多岁的暴躁男人吗？怎么看都和眼前的这个人无关。",
-                    "不过这不是重点，我已经明确拒绝了那场婚约，所以根本不算数。",
-                    "时隔数月，他突然出现，还把我困在这儿，究竟是为了什么？我从床上坐起，警惕地看着他。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "？？",
-                "content": [
-                    "查理苏。"
-                ],
-                "tag": "others"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "什么？"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "？？",
-                "content": [
-                    "我的名字。作为未婚妻，你应该牢牢记住。"
-                ],
-                "tag": "others"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "这是什么奇怪的名字？我只听说过玛丽苏和杰克苏？我刚想问他怎么写，转念一想，算了，反正以后也不会再见面。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "抱歉查先生，我不是你的未婚妻，那场订婚宴并非出自我意愿。",
-                    "当初，对不起。"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "回国以来，我一直对那个未曾谋面的\"未婚夫\"怀有歉意，毕竟或许他和我一样也是联姻的牺牲品。",
-                    "虽然我不后悔逃跑，但这么做的确伤害了他的自尊。况且他应该也与我那个父亲达成了约定。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "伤害到你的地方，我向你道歉。"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "查理苏盯着我的脸看了好一会儿，表情变得有些怪，目光中还有深深的不解，仿佛全然不知我在说什么。",
-                    "我也不禁迷惑起来，是刚才说得不够明白吗？刚想解释，他已经出声打断了我。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "不得不说，你吸引人注意的招式很老土。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "?"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "可惜我不吃欲擒故纵这一套。下次换点别的。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "我愣了好几秒才反应过来。他认为我刚才是故意那样说的？就为了吸引他？怎么会有这种脑回路？！",
-                    "我按下心头冒出的怒火，用力深呼吸。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "这位先生，我没有在跟你欲擒故纵，订婚不是我的意愿。请你放了我。"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "我觉得自己已经说得够清楚了，可查理苏却依旧是一副听到天方夜谭的表情。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "刚才和你在一起的男人是谁？"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "choice",
-                "xuanxiang": [
-                    {
-                        "para_type": "light",
-                        "choice_name": "回答他",
-                        "choice_para": [
-                            {
-                                "speaker": "旁白",
-                                "content": [
-                                    "刚才，他指的是萧逸？",
-                                    "想起那则被掐断的新闻，我的声音不自觉提高了几分。"
-                                ],
-                                "tag": "pb"
-                            },
-                            {
-                                "speaker": "我",
-                                "content": [
-                                    "他是我很重要的朋友！",
-                                    "你是不是知道他在哪？他有没有出事？！"
-                                ],
-                                "tag": "me"
-                            },
-                            {
-                                "speaker": "查理苏",
-                                "content": [
-                                    "你好像搞反了，现在是我在问你问题。"
-                                ],
-                                "tag": "charlie"
-                            },
-                            {
-                                "speaker": "我",
-                                "content": [
-                                    "……你！",
-                                    "我要下飞机！"
-                                ],
-                                "tag": "me"
-                            }
-                        ]
-                    },
-                    {
-                        "para_type": "night",
-                        "choice_name": "拒绝回答",
-                        "choice_para": [
-                            {
-                                "speaker": "我",
-                                "content": [
-                                    "这和你没关系"
-                                ],
-                                "tag": "me"
-                            },
-                            {
-                                "speaker": "查理苏",
-                                "content": [
-                                    "但你表现得很心疼。作为未婚夫，我好奇了。"
-                                ],
-                                "tag": "charlie"
-                            },
-                            {
-                                "speaker": "旁白",
-                                "content": [
-                                    "他倚靠在沙发旁，看着我笑。可我觉得那个笑里一点好奇都没有，有的只是明目张胆的挑衅。",
-                                    "这种直白的眼神让本来就不想回答的我更加不爽。我转过头，闭口不言。"
-                                ],
-                                "tag": "pb"
-                            },
-                            {
-                                "speaker": "查理苏",
-                                "content": [
-                                    "同样的把戏玩太多次就没意思了。我还是更喜欢直接的人。"
-                                ],
-                                "tag": "charlie"
-                            },
-                            {
-                                "speaker": "旁白",
-                                "content": [
-                                    "他不会又以为我是在欲擒故纵吧？到底是谁给他的自信？！"
-                                ],
-                                "tag": "pb"
-                            },
-                            {
-                                "speaker": "我",
-                                "content": [
-                                    "我要下飞机！"
-                                ],
-                                "tag": "me"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "那要看你答不答应我的要求了。",
-                    "不对，怎么可能拒绝。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "他笑着摇摇头，拉开床头柜，一顶白色头纱在我眼前轻飘飘地落下。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "我的要求很简单。和我结婚。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "？？？"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "我目瞪口呆，一瞬间觉得他在说梦话。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "这是激动得说不出话了？"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "……"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "虽然我并不想和你结婚，但鉴于你这么激动，我就勉为其难和你定三年婚期吧。",
-                    "一天都不能更多了。",
-                    "三年后我就会对外宣布我们感情破裂离婚。",
-                    "但你放心，该你的赡养费我一分都不会少。",
-                    "这么划算的事，你这辈子都不会碰到第二次了。简直是撞了大运。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "他慢悠悠地在沙发上坐下，双手拢在一起，搭在腿上，像在谈一桩再正常不过的生意，脸上明晃晃地写着\"我对你本人没兴趣\"几个字。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "除此之外，还有最重要的一点。",
-                    "你，不可以爱上我。"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "说着他居然无奈地耸耸肩，好像这是个绝不可能完成的任务。"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "我知道这对你来说太难了，毕竟面对一个完美的男人没有谁会不心动。",
-                    "所以我必须提前和你说清楚，以免你陷入迷途。",
-                    "明白了吗？"
-                ],
-                "tag": "charlie"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "旁白",
-                "content": [
-                    "他沉浸在自己的思路中，完全没在意我脸上错愕的表情。",
-                    "世界上怎么会有这么自说自话又自命不凡的人？和他说话也太费劲了！"
-                ],
-                "tag": "pb"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "我",
-                "content": [
-                    "你是不是听不懂人话？我一点都不想——"
-                ],
-                "tag": "me"
-            },
-            {
-                "para_type": "normal",
-                "speaker": "查理苏",
-                "content": [
-                    "飞机落地后就会举行订婚仪式，好好准备吧，未婚妻。"
-                ],
-                "tag": "charlie"
-            }
-        ]
-    },
-    {
         "subchap_name": "7-6",
         "subchap_type": "普通",
         "para": [
@@ -4686,6 +4320,372 @@
                 "speaker": "查理苏",
                 "content": [
                     "这位小姐刚才是要对我投怀送抱吗？"
+                ],
+                "tag": "charlie"
+            }
+        ]
+    },
+    {
+        "subchap_name": "7-1",
+        "subchap_type": "普通",
+        "para": [
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "酷暑将尽的傍晚，太阳渐隐于高楼背后，天色昏暗。",
+                    "橘黄色的路灯在呼啸的风中一盏盏苏醒，像舞台上肃穆的追光，显得我的房间晦暗无比。",
+                    "我失神地盯着天花板，脑袋昏昏，仿佛刚从一次长久又深沉的睡眠里醒来。",
+                    "很快，思绪渐渐回笼，回忆不由分说地侵袭了过来。",
+                    "诡异的胶囊，生死攸关的游戏，以及那个自称是我未婚夫的男人。",
+                    "我终于看清了那个人的脸。眉目很深，笑容轻佻，却掩盖不住神色中的冷漠。",
+                    "刚才他说他是我的未婚夫？可对方不是个风流成性、五十多岁的暴躁男人吗？怎么看都和眼前的这个人无关。",
+                    "不过这不是重点，我已经明确拒绝了那场婚约，所以根本不算数。",
+                    "时隔数月，他突然出现，还把我困在这儿，究竟是为了什么？我从床上坐起，警惕地看着他。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "？？",
+                "content": [
+                    "查理苏。"
+                ],
+                "tag": "others"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "什么？"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "？？",
+                "content": [
+                    "我的名字。作为未婚妻，你应该牢牢记住。"
+                ],
+                "tag": "others"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "这是什么奇怪的名字？我只听说过玛丽苏和杰克苏？我刚想问他怎么写，转念一想，算了，反正以后也不会再见面。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "抱歉查先生，我不是你的未婚妻，那场订婚宴并非出自我意愿。",
+                    "当初，对不起。"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "回国以来，我一直对那个未曾谋面的\"未婚夫\"怀有歉意，毕竟或许他和我一样也是联姻的牺牲品。",
+                    "虽然我不后悔逃跑，但这么做的确伤害了他的自尊。况且他应该也与我那个父亲达成了约定。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "伤害到你的地方，我向你道歉。"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "查理苏盯着我的脸看了好一会儿，表情变得有些怪，目光中还有深深的不解，仿佛全然不知我在说什么。",
+                    "我也不禁迷惑起来，是刚才说得不够明白吗？刚想解释，他已经出声打断了我。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "不得不说，你吸引人注意的招式很老土。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "?"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "可惜我不吃欲擒故纵这一套。下次换点别的。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "我愣了好几秒才反应过来。他认为我刚才是故意那样说的？就为了吸引他？怎么会有这种脑回路？！",
+                    "我按下心头冒出的怒火，用力深呼吸。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "这位先生，我没有在跟你欲擒故纵，订婚不是我的意愿。请你放了我。"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "我觉得自己已经说得够清楚了，可查理苏却依旧是一副听到天方夜谭的表情。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "刚才和你在一起的男人是谁？"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "choice",
+                "xuanxiang": [
+                    {
+                        "para_type": "light",
+                        "choice_name": "回答他",
+                        "choice_para": [
+                            {
+                                "speaker": "旁白",
+                                "content": [
+                                    "刚才，他指的是萧逸？",
+                                    "想起那则被掐断的新闻，我的声音不自觉提高了几分。"
+                                ],
+                                "tag": "pb"
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "他是我很重要的朋友！",
+                                    "你是不是知道他在哪？他有没有出事？！"
+                                ],
+                                "tag": "me"
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "你好像搞反了，现在是我在问你问题。"
+                                ],
+                                "tag": "charlie"
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "……你！",
+                                    "我要下飞机！"
+                                ],
+                                "tag": "me"
+                            }
+                        ]
+                    },
+                    {
+                        "para_type": "night",
+                        "choice_name": "拒绝回答",
+                        "choice_para": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "这和你没关系"
+                                ],
+                                "tag": "me"
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "但你表现得很心疼。作为未婚夫，我好奇了。"
+                                ],
+                                "tag": "charlie"
+                            },
+                            {
+                                "speaker": "旁白",
+                                "content": [
+                                    "他倚靠在沙发旁，看着我笑。可我觉得那个笑里一点好奇都没有，有的只是明目张胆的挑衅。",
+                                    "这种直白的眼神让本来就不想回答的我更加不爽。我转过头，闭口不言。"
+                                ],
+                                "tag": "pb"
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "同样的把戏玩太多次就没意思了。我还是更喜欢直接的人。"
+                                ],
+                                "tag": "charlie"
+                            },
+                            {
+                                "speaker": "旁白",
+                                "content": [
+                                    "他不会又以为我是在欲擒故纵吧？到底是谁给他的自信？！"
+                                ],
+                                "tag": "pb"
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "我要下飞机！"
+                                ],
+                                "tag": "me"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "那要看你答不答应我的要求了。",
+                    "不对，怎么可能拒绝。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "他笑着摇摇头，拉开床头柜，一顶白色头纱在我眼前轻飘飘地落下。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "我的要求很简单。和我结婚。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "？？？"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "我目瞪口呆，一瞬间觉得他在说梦话。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "这是激动得说不出话了？"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "……"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "虽然我并不想和你结婚，但鉴于你这么激动，我就勉为其难和你定三年婚期吧。",
+                    "一天都不能更多了。",
+                    "三年后我就会对外宣布我们感情破裂离婚。",
+                    "但你放心，该你的赡养费我一分都不会少。",
+                    "这么划算的事，你这辈子都不会碰到第二次了。简直是撞了大运。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "他慢悠悠地在沙发上坐下，双手拢在一起，搭在腿上，像在谈一桩再正常不过的生意，脸上明晃晃地写着\"我对你本人没兴趣\"几个字。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "除此之外，还有最重要的一点。",
+                    "你，不可以爱上我。"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "说着他居然无奈地耸耸肩，好像这是个绝不可能完成的任务。"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "我知道这对你来说太难了，毕竟面对一个完美的男人没有谁会不心动。",
+                    "所以我必须提前和你说清楚，以免你陷入迷途。",
+                    "明白了吗？"
+                ],
+                "tag": "charlie"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "旁白",
+                "content": [
+                    "他沉浸在自己的思路中，完全没在意我脸上错愕的表情。",
+                    "世界上怎么会有这么自说自话又自命不凡的人？和他说话也太费劲了！"
+                ],
+                "tag": "pb"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "我",
+                "content": [
+                    "你是不是听不懂人话？我一点都不想——"
+                ],
+                "tag": "me"
+            },
+            {
+                "para_type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "飞机落地后就会举行订婚仪式，好好准备吧，未婚妻。"
                 ],
                 "tag": "charlie"
             }
