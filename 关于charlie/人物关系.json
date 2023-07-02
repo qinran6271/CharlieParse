@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Benson Steven",
+        "img": "Benson Steven.jpg",
+        "details": {
+            "identities": [
+                "查理苏同学"
+            ],
+            "overview": [
+                "Benson是查理苏大学同学。",
+                "Steven与查理苏是7年同学，主攻兽医方向，曾为雪莉酒诊治。"
+            ]
+        }
+    },
+    {
+        "name": "Alan",
+        "img": "Alan.jpg",
+        "details": {
+            "identities": [
+                "查理苏心理医生",
+                "心理医生"
+            ],
+            "overview": [
+                "是查理苏最信任的心理医生，曾多次咨询Alan。",
+                "Alan的儿子Paul与查理苏关系不错。",
+                "是一个健谈和煦的心理医师。"
+            ]
+        }
+    }
+]
