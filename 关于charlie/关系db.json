@@ -1,0 +1,15 @@
+//to earse error 
+{} //ignore 
+{} //ignore
+//导航栏点击朋友圈发送灵犀总览请求-朋友圈总览通用接口
+
+{
+    "name" : "string", //角色名字
+    "img" : "string", //照片路径
+    "details" : [
+        {
+            "identities" : ["string"], //身份
+            "overview" : ["string"] //简介
+        }
+    ]
+}
