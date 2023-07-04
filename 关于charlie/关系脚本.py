@@ -82,7 +82,7 @@ def extract_details(docx_path, json_path):
 
 
 def main():
-    os.chdir('./关于charlie/charlie关系')
+    os.chdir('./关于charlie/charlie关系梳理')
 
     relationships = os.listdir()
     for re in relationships:
