@@ -17,7 +17,7 @@ db = client.CharlieDB
 truth_dare = db.truth_or_dare
 day_night_chaps = db.day_and_night_chaps
 day_night_subchaps = db.day_and_night_subchaps
-
+dream_weaving = db.dream_weaving
 
 # # 插入数据
 # collection.insert_one(data)
@@ -35,5 +35,5 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(day_night_subchaps,'./主线/subchaps.json')
-    # delete_all( truth_dare)
+    read_many(dream_weaving,'./织梦/zhimeng.json')
+    # delete_all(day_night_chaps)
