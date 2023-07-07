@@ -17,10 +17,15 @@ db = client.CharlieDB
 truth_dare = db.truth_or_dare
 day_night_chaps = db.day_and_night_chaps
 day_night_subchaps = db.day_and_night_subchaps
-
+dream_weaving = db.dream_weaving
+guzi = db.guzi
+furniture = db.furniture
 
 # # 插入数据
-# collection.insert_one(data)
+def read_one(collection, file_name):
+    with open(file_name, 'r') as f:
+        data = json.load(f)
+    collection.insert_one(data)
 
 # 多个json文档读取
 def read_many(collection, file_name):
@@ -35,5 +40,6 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(day_night_subchaps,'./主线/subchaps.json')
-    # delete_all( truth_dare)
+    # read_many(guzi,'./谷子/谷子.json')
+    # delete_all(day_night_chaps)
+    read_one(furniture,'./家具/工作室家具.json')
