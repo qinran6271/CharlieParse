@@ -9,7 +9,7 @@
     "type" : "string", // lingXi（灵犀）、xieHou（邂逅）、activities（活动）、truthorDare（真话冒险）、teaParty（茶歇）、mainStory（主线）
     "data" : [
         {
-            "dtype" : "string", //聊天记录类型: videocalls-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
+            "dtype" : "string", //聊天记录类型: call-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
             "name" : "string", //聊天记录名称
             "intro":"string", //聊天记录简介内容
             "indexCode": "string" // 聊天记录索引值，ch开头
@@ -47,7 +47,6 @@
                     "ifVoice": "boolean", 
                     "ifCall":"boolean", // true
                     "ifImg": "boolean",
-                    "imgName" : "string",
                     "call": {//当ifCall为真时返回的call内容
                         "title":"string",//聊天记录名称
                         "url":"string",//call链接地址
@@ -57,22 +56,22 @@
             ],
             "content": [ //choice 我回复的选项
                 {
-                "ifVoice": "boolean",
-                "ifCall":"boolean",
-                "ifImg": "boolean",
-                "contentText": "string",
-                "imgPath": "string",// 当含有图片为真时显示的图片链接地址
-                "reply": [
-                    {
-                        "replySpeaker" : "string", //回复人：我 or 查理苏
-                        "ifVoice": "boolean",//是否含有语音
-                        "ifImg": "boolean",//是否含有图片
-                        "replyContent": "string",//对话内容
-                        //如果有照片
-                        "imgName" : "string",
-                        "imgPath": "string"
-                    }
-                ]
+                    "ifVoice": "boolean",
+                    "ifCall":"boolean",
+                    "ifImg": "boolean",
+                    "contentText": "string",
+                    "imgPath": "string",// 当含有图片为真时显示的图片链接地址
+                    "reply": [
+                        {
+                            "replySpeaker" : "string", //回复人：我 or 查理苏
+                            "ifVoice": "boolean",//是否含有语音
+                            "ifImg": "boolean",//是否含有图片
+                            "replyContent": "string",//对话内容
+                            //如果有照片
+                            "imgName" : "string",
+                            "imgPath": "string"
+                        }
+                    ]
                 }
             ]
         }
@@ -83,10 +82,12 @@
 //para - callCode
 {
     "callCode":"string",//call索引值,v开头
-    "speaker": "string",//说话人名称
-    "content":[ //说话内容数组
-        {
-            "contentText" : "string"
-        }
-    ] 
+    "callHistory" : [
+        "speaker": "string",//说话人名称
+        "content":[ //说话内容数组
+            {
+                "contentText" : "string"
+            }
+        ] 
+    ]  
 }

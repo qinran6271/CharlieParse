@@ -1,0 +1,753 @@
+[
+    {
+        "indexCode": "ch1ebc81e7-91d6-4dd7-b46b-34a5568be16c",
+        "chatHistory": [
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "未婚妻，你到元宵灯会入口了吗？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我到了，你在哪里呀？",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "不错，想不想玩个游戏？",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "游戏？这里人山人海的，能玩什么游戏？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "当然能玩。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "还是说你想玩一些两个人才能玩的游戏？",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": true,
+                        "ifImg": false,
+                        "call": {
+                            "title": "2022 元宵 寻宝游戏",
+                            "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=18&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
+                            "callCode": "v68a653f6-1385-4428-9bd2-5323f06df999"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "indexCode": "chaeb5ca7a-167f-403c-9a4a-a304ad97a316",
+        "chatHistory": [
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "未婚妻，今天真是个不错的日子，你猜我在来见你的路上遇到了什么有趣的事。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "只有这么一点线索，我猜不到欸。",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "以我们的心有灵犀，你肯定已经有了些想法。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没关系，我再多给你一点提示。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": true,
+                                "imgName": "红包周年快乐",
+                                "imgPath": "红包周年快乐.png",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你是不是又抽中彩票了？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "当然不是。彩票只是我的个人趣味，但这次是你也会欣赏的事情。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我可以再多给你一点提示，这关乎到我的决定。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": true,
+                                "imgName": "红包周年快乐",
+                                "imgPath": "红包周年快乐.png",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "“周年快乐”——所以你遇见的东西和今天有关，难道是我们之前遇见过的？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "与我们的相遇有关，也与我们的未来有关。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我遇见了一支不错的街头乐队，然后有了个绝妙的想法。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你说得我开始有点好奇了，这支乐队是摇滚、流行还是民谣？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "如果只是这样，他们还不够特别。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "你知道快闪演出吗？他们最擅长的那首歌——《Marry you》。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "再过几分钟，你就可以听到了。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你是想......让他们来现场表演吗？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "果然还是未婚妻最了解我。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我邀请了这支乐队。今天，他们将为我们的纪念日在街头进行快闪演出，演唱年度冠军单曲 《Marry you》。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "Marry you是求婚的意思欸......为什么是这首歌呀？",
+                        "reply": [
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "你看这个歌词，它多应景。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "晴空如此美丽，让我们做些有趣的事吧。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "未婚妻，只要你说好，我就带着你立马出发。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等等，我还没做好心理准备！",
+                        "reply": [
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没关系，我会给你一首歌的时间。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": " If you 're readv like I'm ready，我就立刻带你出发。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": true,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "快说我愿意。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "indexCode": "che934ca0d-82bd-481a-9dc1-13b34436df65",
+        "chatHistory": [
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "查理苏新年快乐！下夜班了吗？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "刚脱下白大褂就收到了未婚妻的问候，瞬间精神百倍。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你看这个歌词，它多应景。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "晴空如此美丽，让我们做些有趣的事吧。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你看这个歌词，它多应景。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "晴空如此美丽，让我们做些有趣的事吧。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "未婚妻，只要你说好，我就带着你立马出发。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你看这个歌词，它多应景。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": true,
+                        "imgName": "红包查医生辛苦了",
+                        "imgPath": "红包查医生辛苦了.png"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你看这个歌词，它多应景。"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "没想到未婚妻为我准备了这样的惊喜。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我的红包才是回礼啦……等等，这不重要，豪华晚宴又是怎么回事？",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我在光启市最好的餐厅预订了好的新年时光。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "出席晚宴的礼服会在五分钟内送到你家楼下，未婚妻记得签收。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等等，我没有看错吧，豪华晚宴？！",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "未婚妻一定是太兴奋了，是的，你没有看错。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我会派人来接你，出席晚宴的礼服也会在五分钟内送到你家楼下。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "这太突然了，你不能在没有事先通知我的情况下就决定！",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "哪有突然，我上周可是特地问过你的。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "要不要在过年期间和我吃顿饭——你说没问题，时间随我定。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "难道这么快就忘记了？",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等等，你才刚下夜班，还没有好好休息呢！",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没关系，从现在到晚宴开始，我有足够的时间可以休息。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "况且，能和未婚妻一起吃饭，再多疲惫也能一扫而空。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "这太突然了，我需要冷静一下……",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "晚宴是很平常的事，我们不是一起出席过很多次了吗？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "烛光与礼服，也只不过是想为我们光启市第一模范夫妻的新春晚宴，增添一些仪式感罢了。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那我去准备一下。等等，门铃响了，是礼服到了吗？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没错，放心开门吧。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我先去睡一会儿，亲爱的未婚妻，我们晚上见。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那好吧，我先去化个妆，一会来和你见面。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没问题，你的未婚夫现在要先去睡一会儿了。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "期待我的完美未婚妻，晚宴上光彩照人的亮相。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "indexCode": "chcd8b06e4-b582-4158-abda-fd72d37adf81",
+        "chatHistory": [
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "快递到了，出来拿一下。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "麻烦先放在门口吧。"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "不行。你不在家？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "什么意思，是什么东西需要我着急签收？你真的是快递吗？",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "没想到你能识破，看来上次的防范意识不是偶然。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "什么东西？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "是你的未婚夫要去找你，满怀期待地等着吧。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等等，这是上次诈骗电话的号码。跟你说了，我是不会上当的！",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我也说了，完美的人还需要诈骗吗？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "特别是对你，就算你现在不相信，迟早有一天会被我的魅力折服。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "你是……查理苏？！这是你的号码？！",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "哦？知道就好。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "置顶存到手机里吧。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "太想我的时候可以打个电话。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我为什么要存？之前我已经说得很清楚了，我只想要自由和尊严，不想要什么婚约。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我确实看到了你想要自由和尊严。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "但结婚是双赢，相信你会想明白。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "想都别想，我马上删掉，我们老死不相往来。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我这样完美的通讯录好友，你失去了会可惜的。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "当你需要朋友圈集赞的时候，就知道我的好处了。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

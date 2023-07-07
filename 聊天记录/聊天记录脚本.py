@@ -5,11 +5,14 @@ import json
 import re
 import uuid
 
-global subchap_data_list 
-subchap_data_list  = []
+global details_data_list 
+details_data_list  = []
 
 global type_data_list
 type_data_list = []
+
+global call_data_list
+call_data_list = []
 
 # 提炼小节文本
 def extract_content(docx_path):
@@ -40,61 +43,7 @@ def extract_content(docx_path):
             "chatHistory": []
             }
 
-    chatHistory = #相同说话人的内容都在一个obj里面 
-    {
-            "type": "nomarl", # normal无选项，choice有选项
-            "speaker":"string", #说话人
-            "content": [ # normal - text only
-                {
-                    "ifVoice": "boolean",#是否含有语音
-                    "ifCall": "boolean",#是否含有通话
-                    "ifImg": "boolean",#是否含有图片
-                    "contentText": "string"#对话内容
-                }
-            ],
-            "content": [ #has image - doesnt need "contentText"
-                {
-                "ifVoice": "boolean",
-                "ifCall":"boolean",
-                "ifImg": "boolean", # true
-                "imgName" : "string",
-                "imgPath": "string"# 当含有图片为真时显示的图片链接地址
-                }
-            ],
-            "content": [ # call-plain text
-                {
-                    "ifVoice": "boolean", 
-                    "ifCall":"boolean", # true
-                    "ifImg": "boolean",
-                    "imgName" : "string",
-                    "call": {#当ifCall为真时返回的call内容
-                        "title":"string",#聊天记录名称
-                        "url":"string",#call链接地址
-                        "callCode":"string"#call索引值,v开头
-                    }
-                }
-            ],
-            "content": [ #choice 我回复的选项
-                {
-                "ifVoice": "boolean",
-                "ifCall":"boolean",
-                "ifImg": "boolean",
-                "contentText": "string",
-                "imgPath": "string",# 当含有图片为真时显示的图片链接地址
-                "reply": [
-                    {
-                        "replySpeaker" : "string", #回复人：我 or 查理苏
-                        "ifVoice": "boolean",#是否含有语音
-                        "ifImg": "boolean",#是否含有图片
-                        "replyContent": "string",#对话内容
-                        #如果有照片
-                        "imgName" : "string",
-                        "imgPath": "string"
-                    }
-                ]
-                }
-            ]
-        }
+    
     
     call_details = {
         "callCode":callCode, #call索引值,v开头
@@ -103,45 +52,58 @@ def extract_content(docx_path):
 
 
     speaker = ""
+    person = ""
     content = []
     call_content = []
-    current_list = data["para"]
+    choice_content = []
     regular = True 
     call_url = ""
     if_call = False
+    if_choice = False
+    if_reply = False
+    choice_obj = {}
 
     for paragraph in document.paragraphs:
         line = paragraph.text.strip()
+        print(line)
 
         if not line:
             continue
 
         if ":" in line:
-            if (speaker == "查理苏" or speaker == "我" )and content: #reached start of next dialogue 
+            if ("查理苏:" in line or "我:" in line) and content: #reached start of next dialogue 
                 
                 if if_call:
                     call_details["call_history"].append({
-                        "speaker": speaker, #说话人名称
+                        "speaker": person, #说话人名称
                         "content": call_content
                     })
 
                     call_content = []
- 
-                else:
-                    if regular:
-                        details_data["chatHistory"].append({
-                            "type": "nomarl", # normal无选项，choice有选项
-                            "speaker":speaker, #说话人
-                            "content": content
-                        })
-                    else:
-                        details_data["chatHistory"].append({
-                            "type": "choice", # normal无选项，choice有选项
-                            "speaker":speaker, #说话人
-                            "content": content
-                        })
+
+                elif if_choice and not if_reply:
+                    choice_obj = content[0]
+                    choice_obj["reply"] = []
+                    if_reply = True
+                    content = []
+    
+                elif regular:
+                    details_data["chatHistory"].append({
+                        "type": "nomarl", # normal无选项，choice有选项
+                        "speaker":person, #说话人
+                        "content": content
+                    })
                     content = []
             
+
+            if "查理苏:" in line:
+                person = "查理苏"
+            elif "我:" in line:
+                person = "我"
+            # else:
+            #     if not if_reply:
+            #         person = ""
+
             speaker,choice_name = line.split(":")[0], line.split(":")[1]
 
             if speaker == "类型": #call-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
@@ -155,7 +117,7 @@ def extract_content(docx_path):
                     overview_inner_data["dtype"] = "call"
 
             elif speaker == "简介":
-                overview_inner_data["intro"] = choice_name
+                overview_inner_data["intro"] = line[3:]
 
             elif speaker == "https":
                 call_url = line
@@ -165,29 +127,53 @@ def extract_content(docx_path):
 
             elif speaker == "Choice":
                 if_choice = True
+                if_reply = False
+                if int(choice_name) > 1:
+                    choice_content.append(choice_obj)
 
             
         
             
             # 当前对话是语音
             elif speaker == "语音":
-                data = {
-                    "ifVoice": True,#是否含有语音
-                    "ifCall": False,#是否含有通话
-                    "ifImg": False,#是否含有图片
-                    "contentText": choice_name#对话内容
-                }
-                content.append(data)
+                if if_reply:
+                    data = {
+                        "ifVoice": True,#是否含有语音
+                        "ifCall": False,#是否含有通话
+                        "ifImg": False,#是否含有图片
+                        "contentText": choice_name, #对话内容
+                        "replySpeaker" : person
+                    }
+                    choice_obj["reply"].append(data)
+                else:
+                    data = {
+                        "ifVoice": True,#是否含有语音
+                        "ifCall": False,#是否含有通话
+                        "ifImg": False,#是否含有图片
+                        "contentText": choice_name#对话内容
+                    }
+                    content.append(data)
             
             elif speaker == "照片":
-                data = {
-                    "ifVoice": False,
-                    "ifCall":False,
-                    "ifImg":True, # true
-                    "imgName" : choice_name,
-                    "imgPath": choice_name + ".png"# 当含有图片为真时显示的图片链接地址 记得改
-                }
-                content.append(data)
+                if if_reply:
+                    data = {
+                        "ifVoice": False,
+                        "ifCall":False,
+                        "ifImg":True, # true
+                        "imgName" : choice_name,
+                        "imgPath": choice_name + ".png",# 当含有图片为真时显示的图片链接地址 记得改
+                        "replySpeaker" : person
+                    }
+                    choice_obj["reply"].append(data)
+                else:
+                    data = {
+                        "ifVoice": False,
+                        "ifCall":False,
+                        "ifImg":True, # true
+                        "imgName" : choice_name,
+                        "imgPath": choice_name + ".png"# 当含有图片为真时显示的图片链接地址 记得改
+                    }
+                    content.append(data)
             
             elif speaker == "通话开始":
                 data = {
@@ -204,15 +190,25 @@ def extract_content(docx_path):
                 content.append(data)
                 if_call = True
 
-        
-
 
             
         elif "区域结束" in line:
-            regular = True    
+            if_choice = False
+            if_reply = False
+            regular = True  
+            choice_content.append(choice_obj)
+            details_data["chatHistory"].append({
+                "type": "choice",
+                "speaker": "我", #说话人名称
+                "content": choice_content
+            })
+            choice_content = []  
+            choice_obj = {}
+
 
         elif "通话结束" in line:
             if_call = False
+
 
         # 普通 or 通话
         else:
@@ -222,7 +218,15 @@ def extract_content(docx_path):
                 }
                 call_content.append(data)
                 
-
+            elif if_reply:
+                data = {
+                    "ifVoice": False,#是否含有语音
+                    "ifCall": False,#是否含有通话
+                    "ifImg": False,#是否含有图片
+                    "contentText": line, #对话内容
+                    "replySpeaker" : person
+                }
+                choice_obj["reply"].append(data)
             else:
                 data = {
                     "ifVoice": False,#是否含有语音
@@ -233,37 +237,47 @@ def extract_content(docx_path):
                 content.append(data)
             
 
-           
             
-               
-       
-            
-    if speaker and content: #end of doc
-        if regular:
-            current_list.append({
-                "para_type": "normal",
-                "speaker": speaker,
-                "content": content,
-                "tag": tag
-            })    
-        else:
-            current_list.append({
-                "speaker": speaker,
-                "content": content,
-                "tag": tag
-            })    
+    if person and content: #reached start of next dialogue 
+                
+        if if_call:
+            call_details["call_history"].append({
+                "speaker": person, #说话人名称
+                "content": call_content
+            })
 
-    # json_data = json.dumps(data, ensure_ascii=False).encode('utf-8')
-    subchap_data_list.append(data)
+            call_content = []
 
-    # with open(json_path, "w", encoding="utf-8") as json_file:
-    #     json.dump(subchap_data_list, json_file, ensure_ascii=False, indent=4)
+        elif if_choice and not if_reply:
+            choice_obj = content[0]
+            choice_obj["reply"] = []
+            if_reply = True
+            content = []
+
+        elif regular:
+            details_data["chatHistory"].append({
+                "type": "nomarl", # normal无选项，choice有选项
+                "speaker":person, #说话人
+                "content": content
+            })
+            content = []
+
+
+    details_data_list.append(details_data)
+    deatils_json = "../deatils.json"
+
+    if call_url != "":
+        call_data_list.append(call_details)
+    calls_json = "../calls.json"
+
+    with open(deatils_json, "w", encoding="utf-8") as json_file:
+        json.dump(details_data_list, json_file, ensure_ascii=False, indent=4)
+
+    with open(calls_json, "w", encoding="utf-8") as json_file:
+        json.dump(call_data_list, json_file, ensure_ascii=False, indent=4)
 
     return overview_inner_data
 
-    # print(json_data.decode('utf-8'))
-
-    # return data
 
 
    
@@ -277,7 +291,7 @@ def sort_by_integer(filename):
     return 10000  # 如果文件名不符合格式要求，则返回 0 进行排序
 
 def main():
-    os.chdir('./聊天记录/聊天记录文本') #mark data as root dir
+    os.chdir('./聊天记录/已修改') #mark data as root dir
 
     # types = sorted(os.listdir(),key=sort_by_integer) #find all subdirs / chapters & sort
     types = os.listdir()
