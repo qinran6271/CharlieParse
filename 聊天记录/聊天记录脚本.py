@@ -58,6 +58,7 @@ def extract_content(docx_path):
     choice_content = []
     regular = True 
     call_url = ""
+    caller = ""
     if_call = False
     if_choice = False
     if_reply = False
@@ -65,7 +66,6 @@ def extract_content(docx_path):
 
     for paragraph in document.paragraphs:
         line = paragraph.text.strip()
-        print(line)
 
         if not line:
             continue
@@ -74,12 +74,16 @@ def extract_content(docx_path):
             if ("查理苏:" in line or "我:" in line) and content: #reached start of next dialogue 
                 
                 if if_call:
-                    call_details["call_history"].append({
-                        "speaker": person, #说话人名称
-                        "content": call_content
-                    })
+                    
+                    if caller == "":
+                        caller = person
 
-                    call_content = []
+                    if call_content != []:
+                        call_details["call_history"].append({
+                            "speaker": person, #说话人名称
+                            "content": call_content
+                        })
+                        call_content = []
 
                 elif if_choice and not if_reply:
                     choice_obj = content[0]
@@ -160,8 +164,7 @@ def extract_content(docx_path):
                         "ifVoice": False,
                         "ifCall":False,
                         "ifImg":True, # true
-                        "imgName" : choice_name,
-                        "imgPath": choice_name + ".png",# 当含有图片为真时显示的图片链接地址 记得改
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png",# 当含有图片为真时显示的图片链接地址 记得改
                         "replySpeaker" : person
                     }
                     choice_obj["reply"].append(data)
@@ -170,8 +173,7 @@ def extract_content(docx_path):
                         "ifVoice": False,
                         "ifCall":False,
                         "ifImg":True, # true
-                        "imgName" : choice_name,
-                        "imgPath": choice_name + ".png"# 当含有图片为真时显示的图片链接地址 记得改
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png"# 当含有图片为真时显示的图片链接地址 记得改
                     }
                     content.append(data)
             
@@ -207,6 +209,18 @@ def extract_content(docx_path):
 
 
         elif "通话结束" in line:
+            call_details["call_history"].append({
+                            "speaker": person, #说话人名称
+                            "content": call_content
+                        })
+            call_content = []
+
+            details_data["chatHistory"].append({
+                        "type": "nomarl", # normal无选项，choice有选项
+                        "speaker":caller, 
+                        "content": content
+                    })
+            content = []
             if_call = False
 
 
@@ -238,7 +252,7 @@ def extract_content(docx_path):
             
 
             
-    if person and content: #reached start of next dialogue 
+    if person and content:
                 
         if if_call:
             call_details["call_history"].append({
@@ -298,12 +312,13 @@ def main():
     # print(types)
     for type_name in types: 
         type_path = './' + type_name
+
         # "照片" 记得改
-        if type_name == "照片":
-            continue
+        # if type_name == "照片":
+        #     continue
 
         # 替换成英语名称
-        elif type_name == "灵犀":
+        if type_name == "灵犀":
             type_name = "lingXi"
         elif type_name == "邂逅":
             type_name = "xieHou"

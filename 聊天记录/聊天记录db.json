@@ -9,7 +9,7 @@
     "type" : "string", // lingXi（灵犀）、xieHou（邂逅）、activities（活动）、truthorDare（真话冒险）、teaParty（茶歇）、mainStory（主线）
     "data" : [
         {
-            "dtype" : "string", //聊天记录类型: call-含视频通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
+            "dtype" : "string", //聊天记录类型: call-含通话, normal-普通聊天记录, voicemessage-含语音, redenvelope-含红包
             "name" : "string", //聊天记录名称
             "intro":"string", //聊天记录简介内容
             "indexCode": "string" // 聊天记录索引值，ch开头
@@ -68,7 +68,6 @@
                             "ifImg": "boolean",//是否含有图片
                             "replyContent": "string",//对话内容
                             //如果有照片
-                            "imgName" : "string",
                             "imgPath": "string"
                         }
                     ]

@@ -87,7 +87,7 @@ def extract_details(indexCode, docx_path, json_path):
                 if choice_name == "是":
                     data["hasImg"] = True
                     # 需要改照片名字和postImg
-                    data["postImg"] = ""
+                    data["postImg"] = "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/moments/" + file_name_without_extension +".png"
                 else:
                     data["hasImg"] = False
             

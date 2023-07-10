@@ -1,6 +1,6 @@
 [
     {
-        "indexCode": "ch1ebc81e7-91d6-4dd7-b46b-34a5568be16c",
+        "indexCode": "ch76bd035a-7e74-4855-98c8-1bcee2fe1571",
         "chatHistory": [
             {
                 "type": "choice",
@@ -63,15 +63,81 @@
                         "call": {
                             "title": "2022 元宵 寻宝游戏",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=18&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v68a653f6-1385-4428-9bd2-5323f06df999"
+                            "callCode": "vbd172567-301a-4d11-b5fe-71022082b981"
                         }
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "听说元宵节有个习俗，要在河边桥上游走，叫“走百病”，寓意一年平安健康。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我能想到对你最好的祝福，就是平安健康，开心快乐。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "毕竟，我的优秀和完美，已经足够我们两人分享了。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "谢谢你，查理苏。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "谢什么？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "谢谢你愿意和我分享优秀和完美？"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "还有，谢谢你的祝福和那么用心的准备。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "chaeb5ca7a-167f-403c-9a4a-a304ad97a316",
+        "indexCode": "cha7460057-a027-4605-88ce-0ab43a960643",
         "chatHistory": [
             {
                 "type": "choice",
@@ -108,8 +174,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgName": "红包周年快乐",
-                                "imgPath": "红包周年快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包周年快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -138,8 +203,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgName": "红包周年快乐",
-                                "imgPath": "红包周年快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包周年快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -298,7 +362,7 @@
         ]
     },
     {
-        "indexCode": "che934ca0d-82bd-481a-9dc1-13b34436df65",
+        "indexCode": "ch08ffac22-44bc-4f3a-a0e7-31530f5b1d28",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -380,8 +444,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgName": "红包查医生辛苦了",
-                        "imgPath": "红包查医生辛苦了.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包查医生辛苦了.png"
                     },
                     {
                         "ifVoice": false,
@@ -580,7 +643,274 @@
         ]
     },
     {
-        "indexCode": "chcd8b06e4-b582-4158-abda-fd72d37adf81",
+        "indexCode": "che0278a97-cca1-40bd-be38-fcd436238771",
+        "chatHistory": [
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "查医生，夜班结束了吗？"
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "刚值完夜班。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "就想跟你分享一件事嘛。我刚刚在我家附近的商场通道里，发现了一件匪夷所思的事！",
+                                "replySpeaker": "我"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "商场、通道、匪夷所思——你也看到了商场通道里的\"小心滑倒\"告示牌？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "Slip ......Slip carefully ......",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "在我家附近的商场看到一块超级无厘头的告示牌，想与您分享！",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "是不是商场那块\"小心滑倒\"的英文告示牌？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "Slip carefully .",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "少不正经，只是分享一个迷惑事件而已。你猜我家附近的商场把\"小心滑倒\"翻译成了什么？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "Watch your step ?......不对，不会这么简单。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "不会是...... Slip carefully 吧？我以前确实见过这样的翻译......",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "对！太好笑了，这简直就是\"反向翻译\"。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "谢谢，有笑到。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "这么\"精致\"的英文翻译，足以称为世界第九大奇迹。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "你居然知道！这块告示牌上周才挂到商场的。",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我敏锐的洞察力，你还没习惯吗？",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "未婚妻身边哪怕再小的事情，我都有义务了解，更何况是这种堪称\"世界第九大奇迹\"的英文翻译。",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "第九大奇迹？那第八大奇迹不会是......",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "谢谢未婚妻的肯定。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": true,
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/摸摸头.png",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "......你是不是跳过了世界第八大奇迹？",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "第八大是谁？未婚妻，你不用假装不知道吧。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": true,
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/西瓜.png",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那第八大奇迹有没有想到一个问题？万一告示牌迷惑了外国友人怎么办，我突然有点担心......",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "都在我的预料之中，未婚妻。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我上周已经派人联系了商场，新的告示牌这周日就能换上。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "不过未婚妻，我也是外国友人，你是在担心我么？",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等等，我突然想到一个问题！这个翻译不会迷惑到外国友人吧，有点担心......",
+                        "reply": [
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "不用担心。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "置身事外、袖手旁观不符合我完美的道德形象。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "我早就派人联系了商场，这周日前他们就会换上新的告示牌。",
+                                "replySpeaker": "查理苏"
+                            },
+                            {
+                                "ifVoice": false,
+                                "ifCall": false,
+                                "ifImg": false,
+                                "contentText": "有这么靠谱的未婚夫，高兴不？",
+                                "replySpeaker": "查理苏"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "indexCode": "cha421168f-f12e-4275-bd02-db9b9218dff2",
         "chatHistory": [
             {
                 "type": "nomarl",
