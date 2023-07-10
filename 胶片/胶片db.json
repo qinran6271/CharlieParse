@@ -1,0 +1,19 @@
+//to earse error 
+{} //ignore 
+{} //ignore 
+
+{
+    "card_name" : "string", 
+    "chap_num" : "int", 
+    "chap_name" : "string",
+    "total_num" : "int", //小节总数
+    "part" : "string", //罗马数字
+    "video" : "string", //视频链接
+    "para" : [ 
+        { 
+            "speaker" : "string",
+            "content" : [ "string ..." ],
+            "tag" : "string" //me，charlie，pb, others
+        }
+    ]
+}
