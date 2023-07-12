@@ -43,5 +43,5 @@ def delete_all(collection):
 
 if __name__ == '__main__':
     # read_many(guzi,'./谷子/谷子.json')
-    # delete_all(day_night_chaps)
-    read_one(furniture,'./家具/工作室家具.json')
+    # delete_all(furniture)
+    # read_one(furniture,'./家具/furniture.json')
