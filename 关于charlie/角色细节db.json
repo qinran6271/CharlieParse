@@ -1,0 +1,9 @@
+//to earse error 
+{} //ignore 
+{} //ignore
+
+{
+    "id" : "int",
+    "card" : "string", // [] 
+    "more" : "string"
+}
