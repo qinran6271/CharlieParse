@@ -2,14 +2,22 @@
 {} //ignore 
 {} //ignore 
 
+//胶片卡片
 {
     "card_name" : "string", 
-    "chap_num" : "int", 
-    "chap_name" : "string",
+    "total_num" : "int", //小节总数
+    "chaps" : ["string"] //#所有小节文件名
+}
+
+//胶片小节
+{
+    "card_name" : "string", 
+    "chap_num" : "int", //小节数
+    "chap_name" : "string", //小节名
     "total_num" : "int", //小节总数
     "part" : "string", //罗马数字
     "video" : "string", //视频链接
-    "para" : [ 
+    "para" : [
         { 
             "speaker" : "string",
             "content" : [ "string ..." ],
