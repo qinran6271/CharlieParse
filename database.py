@@ -20,6 +20,10 @@ day_night_subchaps = db.day_and_night_subchaps
 dream_weaving = db.dream_weaving
 guzi = db.guzi
 furniture = db.furniture
+volume = db.volume
+profile_detail = db.profile_detail 
+rewind = db.rewind
+track = db.track
 
 # # 插入数据
 def read_one(collection, file_name):
@@ -40,6 +44,6 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    # read_many(guzi,'./谷子/谷子.json')
-    # delete_all(furniture)
+    read_many(track,'./轨迹/轨迹DB.json')
+    # delete_all(dream_weaving)
     # read_one(furniture,'./家具/furniture.json')
