@@ -7,7 +7,7 @@
     
     'data':[
         {
-            'className':'string', //大类名称 主线：第x章
+            'className':'string', //大类名称 子文件夹名称 如：光夜变奏
             'items':[
                 {
                     'name':'string', //获取途径
