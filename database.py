@@ -18,12 +18,15 @@ truth_dare = db.truth_or_dare
 day_night_chaps = db.day_and_night_chaps
 day_night_subchaps = db.day_and_night_subchaps
 dream_weaving = db.dream_weaving
-guzi = db.guzi
+merch = db.merch
 furniture = db.furniture
 volume = db.volume
 profile_detail = db.profile_detail 
 rewind = db.rewind
 track = db.track
+film_cards = db.film_cards
+film_chaps = db.film_chaps
+
 
 # # 插入数据
 def read_one(collection, file_name):
