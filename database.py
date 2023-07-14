@@ -27,6 +27,10 @@ track = db.track
 film_cards = db.film_cards
 film_chaps = db.film_chaps
 memories_album = db.memories_album
+chat_calls = db.chat_calls
+chat_overview = db.chat_overview
+chat_details= db.chat_details
+
 
 
 # # 插入数据
