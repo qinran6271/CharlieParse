@@ -26,6 +26,7 @@ rewind = db.rewind
 track = db.track
 film_cards = db.film_cards
 film_chaps = db.film_chaps
+memories_album = db.memories_album
 
 
 # # 插入数据
@@ -47,6 +48,6 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(track,'./轨迹/轨迹DB.json')
-    # delete_all(dream_weaving)
+    read_many(memories_album,'./灵犀相册/灵犀.json')
+    # delete_all(merch)
     # read_one(furniture,'./家具/furniture.json')
