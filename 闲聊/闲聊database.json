@@ -1,0 +1,32 @@
+//to earse error 
+{} //ignore 
+{} //ignore 
+
+{
+    "chat_name": "string" , //闲聊名称
+    "video" : "string",
+    "chat_content":[
+        // normal
+        {
+            "type": "normal",
+            "speaker": "string", //我 or 查理苏
+            "content": [] //讲话内容
+        }...,
+        //choice_region
+        {
+            "type": "choice",
+            "region_content": [
+                {
+                    "choice_name": "string", // 选项名称
+                    "choice_content": [
+                        {
+                            "speaker":"string", //我 or 查理苏
+                            "content":[] //对话内容
+                        }
+                    ]
+                }
+            ]
+        }...
+    ]
+
+}

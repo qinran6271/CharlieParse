@@ -1,0 +1,102 @@
+[
+    {
+        "chat_name": "闲聊demo",
+        "video": "https://www.bilibili.com/index.html",
+        "chat_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，今天晚上怎么吃这么清淡？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "为了刮油",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "之前熬夜工作的时候总是吃泡面，我担心高血脂，所以做点沙拉来刮刮油。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "确实，泡面里面油盐比较重，吃多了对身体不好。",
+                                    "不过沙拉的味道比较清淡，未婚妻吃得惯吗？"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "重油重盐不健康",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "以前我吃饭总是喜欢重油重盐，感觉不太健康。",
+                                    "所以想吃点沙拉刮刮油，今天委屈查医生啦。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "不委屈。",
+                                    "和未婚妻一起吃饭，吃什么都开心。",
+                                    "不过沙拉的味道比较清淡，未婚妻吃得惯吗？"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "我放了特制料汁",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "我放了特制的料汁，口感还不错。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "是你特意从邻市带回来的那瓶吗？",
+                                    "上次煮面的时候我加了一点，味道非常不错。",
+                                    "看来今晚的沙拉也会很美味。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "里面有肉的",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "放心，里面不会一点肉都没有的，我加了北极甜虾。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "高端的食材，往往采用最朴素的烹饪方式。",
+                                    "今晚，让我们一起回忆最原始的食材滋味。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
