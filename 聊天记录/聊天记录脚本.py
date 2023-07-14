@@ -278,7 +278,7 @@ def extract_content(docx_path):
 
 
     details_data_list.append(details_data)
-    deatils_json = "../deatils.json"
+    deatils_json = "../details.json"
 
     if call_url != "":
         call_data_list.append(call_details)
@@ -305,7 +305,7 @@ def sort_by_integer(filename):
     return 10000  # 如果文件名不符合格式要求，则返回 0 进行排序
 
 def main():
-    os.chdir('./聊天记录/已修改') #mark data as root dir
+    os.chdir('./聊天记录/聊天记录文本新') #mark data as root dir
 
     # types = sorted(os.listdir(),key=sort_by_integer) #find all subdirs / chapters & sort
     types = os.listdir()
