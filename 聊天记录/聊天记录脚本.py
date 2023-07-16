@@ -159,12 +159,13 @@ def extract_content(docx_path):
                     content.append(data)
             
             elif speaker == "照片":
+                # 因为现在所有照片都是png格式，所以写死了。如果以后有jpg格式，记得修改（可以参考朋友圈）
                 if if_reply:
                     data = {
                         "ifVoice": False,
                         "ifCall":False,
                         "ifImg":True, # true
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png",# 当含有图片为真时显示的图片链接地址 记得改
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png",# 当含有图片为真时显示的图片链接地址
                         "replySpeaker" : person
                     }
                     choice_obj["reply"].append(data)
@@ -173,7 +174,7 @@ def extract_content(docx_path):
                         "ifVoice": False,
                         "ifCall":False,
                         "ifImg":True, # true
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png"# 当含有图片为真时显示的图片链接地址 记得改
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/"+choice_name + ".png"# 当含有图片为真时显示的图片链接地址
                     }
                     content.append(data)
             

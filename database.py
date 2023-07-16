@@ -30,6 +30,10 @@ memories_album = db.memories_album
 chat_calls = db.chat_calls
 chat_overview = db.chat_overview
 chat_details= db.chat_details
+moments_details = db.moments_details
+moments_overview = db.moments_overview
+talk = db.talk
+vinyl = db.vinyl
 
 
 
@@ -52,10 +56,10 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(chat_calls,'./聊天记录/calls.json')
-    read_many(chat_overview,'./聊天记录/overview.json')
-    read_many(chat_details,'./聊天记录/details.json')
-    # delete_all(chat_calls)
-    # delete_all(chat_overview)
+    read_many(vinyl,'./工作室-唱片/唱片.json')
+    # read_many(moments_overview,'./朋友圈/朋友圈overview.json')
+    # read_many(chat_details,'./聊天记录/details.json')
+    # delete_all(moments_details)
+    # delete_all(moments_overview)
     # delete_all(chat_details)
     # read_one(furniture,'./家具/furniture.json')

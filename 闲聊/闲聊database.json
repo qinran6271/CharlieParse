@@ -4,7 +4,6 @@
 
 {
     "chat_name": "string" , //闲聊名称
-    "video" : "string",
     "chat_content":[
         // normal
         {

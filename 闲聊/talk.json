@@ -1,0 +1,1249 @@
+[
+    {
+        "talk_name": "松鼠鳜鱼",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "嗯，今天的松鼠鳜鱼好像……"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": " 怎么了",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "怎么了，不好吃吗？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "不，酸酸甜甜的，很开胃。",
+                                    "其他的菜品也很不错。",
+                                    "不过听起来，未婚妻以前没有尝过这家店吗？"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "味道怎么样",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "味道怎么样，还可以吗？"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "酸酸甜甜的，很好吃。",
+                                    "不过听起来，未婚妻以前没有尝过这家店吗？"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "尝过的",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "我也尝过啦，就是吃过觉得还不错，所以给你也点了~"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "这道菜的味道很想和未婚妻的爱情，回味悠长，我很喜欢。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "还没呢",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "还没呢~为了督促自己赶快完成工作，就忍着没吃。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "那么还有一种方式。",
+                                    "未婚妻可以继续工作，我喂你吃。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "挑战活动",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "要和我一起参加活动吗？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "是挑战活动吗",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "让我猜猜看，你说的该不会是21天挑战活动吧？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "不愧是我的未婚妻，永远和我这么心有灵犀。",
+                                    "挑战的种类很丰富，我看到里面还有“早睡挑战”。",
+                                    "简直就像为我们量身定制的。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "什么活动（暂无",
+                        "choice_content": [
+                            {
+                                "type": "normal",
+                                "speaker": "Choice",
+                                "content": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "听起来很有挑战（暂无",
+                        "choice_content": []
+                    },
+                    {
+                        "choice_name": " 《甜蜜共枕》已经很有效了",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "你之前的《甜蜜共枕》计划已经很有效啦，感觉不参加这个活动也行？"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "一起入眠确实对未婚妻的睡眠质量有所帮助。",
+                                    "但最近我们双方加班频率都比以前高很多，很难在同一个时间入睡。",
+                                    "这个打卡活动，正好可以额外起到一些强制作用。",
+                                    "放心，这个挑战对于我们来说不过是小儿科。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "沙拉",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，今天晚上怎么吃这么清淡？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "为了刮油",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "之前熬夜工作的时候总是吃泡面，我担心高血脂，所以做点沙拉来刮刮油。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "确实，泡面里面油盐比较重，吃多了对身体不好。",
+                                    "不过沙拉的味道比较清淡，未婚妻吃得惯吗？"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "重油重盐不健康",
+                        "choice_content": [
+                            {
+                                "type": "normal",
+                                "speaker": "我",
+                                "content": [
+                                    "以前我吃饭总是喜欢重油重盐，感觉不太健康。",
+                                    "所以想吃点沙拉刮刮油，今天委屈查医生啦。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "我放了特制料汁",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "我放了特制的料汁，口感还不错。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "是你特意从邻市带回来的那瓶吗？",
+                                    "上次煮面的时候我加了一点，味道非常不错。",
+                                    "看来今晚的沙拉也会很美味。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "里面有肉的",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "放心，里面不会一点肉都没有的，我加了北极甜虾。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "高端的食材，往往采用最朴素的烹饪方式。",
+                                    "今晚，让我们一起回忆最原始的食材滋味。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "蛋糕",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "入口即化，甜而不腻，未婚妻今天买的蛋糕真不错。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "登登登登，现在揭晓大厨身份~",
+                    "这个蛋糕是我跟着美食教程做的。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "果然，我说里面怎么能感受到一种特别的甜蜜。",
+                    "原来是未婚妻爱的蜜意。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "小馄炖",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "猜猜我在路上看到什么了。友情提示：就在这附近的。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "这个点能出现在附近的，除了饭团就只有小馄饨了。",
+                    "值得你特意发消息给我，我猜是很久没营业的小馄饨。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "不愧是我的未婚妻，真聪明。",
+                    "今天老板重新开业，我猜未婚妻一定想念它的味道了。"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "是的",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "是的！真的好久都没吃了，我那份要大碗的！"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "没问题，未婚妻的需求，一定满足。",
+                                    "说起来，这家店原本还是你带我来的，现在我们两个人都爱上了。",
+                                    "你说，这算不算是一种缘分呢？"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "你好聪明",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "你好聪明呀！好久没吃到小馄饨了，我都快馋死了。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "在和未婚妻的默契挑战上，我可是能拿满分的人。",
+                                    "两碗小馄饨，不要葱，多放紫菜和醋。",
+                                    "我们的固定套餐，我可是一直铭记在心。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "雪莉酒云",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "你看那朵云，像不像雪莉酒？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "你这么一说还真像。",
+                    "那它边上那朵是不是雪莉酒的男朋友呀？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "嗯，雪莉酒和它的男朋友在一起，我和我的未婚妻在一起。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "借账号",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻的账号可以借我一下吗？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "什么账号",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "你指的是那个账号呀？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "就是你经常登陆的视频平台的账号。",
+                                    "没记错的话，应该是鹅鹅视频。",
+                                    "最近新出了一部剧，医院的护士们都在讨论，我也有点好奇。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "该不会是",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "你说的该不会是……我的外网账号吧？"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "不是。",
+                                    "只是想和未婚妻借一下鹅鹅视频的会员账号。",
+                                    "最近新出了一部剧，医院的护士们都在讨论，我也有点好奇。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "《总裁的契约情人》吗",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "难道是那部《总裁的契约情人》？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "咳，听护士们说这部剧是很典型的“先婚后爱”。",
+                                    "男主角后面“追妻”的桥段很让观众“上头”。",
+                                    "看完让人很有想恋爱的冲动。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "《蜜爱百分百》吗",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "最近新出的好像就只有《蜜爱百分百》了，难道是这部？"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "没错。",
+                                    "听护士们说，这部剧剧情很甜。",
+                                    "看完让人很有想恋爱的冲动。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "没想到你还会看这种剧",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "没看出来，查医生还会看这种剧啊。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "称不上是喜欢，不过未婚妻难道不觉得，这部剧的剧情很像我们的故事吗？",
+                                    "一开始由误会认识，后来却开始甜蜜篇章。",
+                                    "我相信，我和未婚妻的未来也会像这部剧一样甜蜜。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "终于知道查医生的喜好了。",
+                        "choice_content": [
+                            {
+                                "type": "normal",
+                                "speaker": "我",
+                                "content": [
+                                    "直到今天，我才知道查医生看剧的喜好。",
+                                    "也不算是喜好，只是大家都说很甜，所以我也想了解一下。",
+                                    "毕竟，让我的未婚妻每天开开心心，甜甜蜜蜜，才是我看剧的宗旨。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "中暑",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "你的脸怎么这么红？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "啊，是吗？",
+                    "我说怎么感觉脸一直热热的，脑袋也晕晕的……"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "应该是中暑了。你先坐下，我给你冲杯淡盐水。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "唔，好~"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "欠债",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，我必须和你坦白一件事。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "这么严肃，什么事啊？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "我欠了一笔巨额的债务。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "？！"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "——你的情债。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "最甜的西瓜",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻快来。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "怎么啦？",
+                    "查理苏;",
+                    "刚刚切好西瓜，中间这口最甜的留给你。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "哇！谢谢你，果然很甜~"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "土味情话",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，你今天好像和平时有点不一样。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "哪里不一样？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "有点好看。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "……"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "蟹黄生煎",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻今天怎么醒得这么早？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "想给你露一手",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "嘿嘿，因为想给你露一手~我做了蟹黄馅的生煎，不知道你喜不喜欢吃。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "未婚妻怎么知道我喜欢这个口味？",
+                                    "看来我们的默契又进了一步。",
+                                    "我已经洗漱好了，马上就来品尝。"
+                                ]
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "别着急，慢慢来~"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "睡不着了",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "不知道为什么，今天醒得特别早，索性就起来做早饭啦。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "未婚妻亲手做的早餐，一定非常美味。",
+                                    "我已经洗漱好了，马上就来品尝。"
+                                ]
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "别着急，慢慢来~"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "未婚妻的爱心早餐，我一秒也不想等待了。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "彩虹蛋糕",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，看到天上的彩虹了吗？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "看到啦，好像庆祝生日的彩带呀。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "听起来，未婚妻似乎想吃生日蛋糕了？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "哈哈被你发现啦，想给生活来点甜。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "好。现在我就给吉叔打电话，让他准备蛋糕。",
+                    "不过……有我在未婚妻的身边，难道还不够甜吗？"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "新牛蛙店",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "附近新开了一家牛蛙店，未婚妻想去尝尝吗？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "想",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "想！新开的店哪有不去拔草的道理，冲冲。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我就知道未婚妻一定感兴趣，已经提前预约好位置了。"
+                                ]
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "说起来，都是你问我想不想吃，那你自己呢？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "虽然有时候，牛蛙会让我想到实验室里的小白鼠。",
+                                    "不过只要未婚妻开心，这点奇怪的联想可以忽略不计。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "当然要去",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "当然要去！上次就错过了牛蛙，这次可不能再错过了。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我就知道未婚妻一定感兴趣，已经提前预约好位置了。"
+                                ]
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "说起来，都是你问我想不想吃，那你自己呢？"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "虽然有时候，牛蛙会让我想到实验室里的小白鼠。",
+                                    "不过只要未婚妻开心，这点奇怪的联想可以忽略不计。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "今天的发型",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻，我今天的发型怎么样？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "很帅！不过……真的有变化吗？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "其实，没有。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "那你还问？幼稚鬼！"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "可是你知道吗，每天我都想呈现给你焕然一新的我。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "雨天",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "今天雨很大，未婚妻没淋到雨吧。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "多亏了你提醒我带伞。",
+                    "不然我就要淋成落汤鸡了。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "一个合格的未婚夫必定会时刻关注天气预报。",
+                    "为我的未婚妻及时送上温馨提示。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "阴天",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "今天阴沉沉的，好像要下雨了。",
+                    "看来晚上遛雪莉酒的计划要暂时取消了。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "人家都是白天遛鸟，怎么你是晚上遛啊？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "毕竟雪莉酒和它的女主人一样，喜欢睡懒觉。",
+                    "早上不能吵醒它，只好晚上带它出门了。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "奶茶",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "怎么了未婚妻，你看起来好像有些苦恼。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "呜呜，新开的奶茶店有好几种口味我都想喝，但是一个人喝不完，太浪费了。"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "这有什么苦恼的。",
+                    "未婚妻想喝什么随便点，喝不完的交给我。",
+                    "保证一杯都不浪费。"
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "红豆粥",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "未婚妻在做什么，空气里怎么弥漫着一股甜味？"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "我",
+                "content": [
+                    "查医生的鼻子这么灵，一定能猜到我在做什么吧！"
+                ]
+            },
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "这是未婚妻对我们之间的默契考验小游戏吗？",
+                    "放心，我一定会猜对的。",
+                    "有豆子的香甜，还有小米的香气，我猜是红豆粥。"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "猜对啦",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "恭喜查医生猜对啦！我正在煮红豆粥呢！不知道你喜不喜欢喝？"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "只要是未婚妻做的，我全都爱喝。",
+                                    "不过特意做“红豆”粥，未婚妻是不是有什么话像对我说？"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "你好聪明",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "哇，不愧是查医生，也太聪明了！"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "和未婚妻在一起这么久，这点小默契还是有的。",
+                                    "不过特意做“红豆”粥，未婚妻是不是有什么话像对我说？"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "没有",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "没有没有，就是随便做的，请查医生不要过度解读。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "是吗？",
+                                    "我还以为未婚妻在“托物言志”。",
+                                    "毕竟有一句古诗叫“愿君多采撷，此物最相思。”"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "你想多了",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "没有呀，查医生不要想这么多。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "真的吗？",
+                                    "我还以为未婚妻在“借物抒情”。",
+                                    "毕竟有一句古诗叫“愿君多采撷，此物最相思。”"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "我坦白",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "好吧，我坦白，之前出差和你分开这么久，我想你啦。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我就知道，未婚妻心里一定有我。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "被你发现了",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "唉，还是被你发现了。虽然每天都能见到面，但感觉还是特别想你。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我懂这种感觉，毕竟我每天也是这样想念未婚妻的。",
+                                    "今天晚上我们可以一起，共度浪漫的二人世界。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "talk_name": "油爆花蛤",
+        "talk_content": [
+            {
+                "type": "normal",
+                "speaker": "查理苏",
+                "content": [
+                    "你觉得今天那道油爆花蛤怎么样？"
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "食材不新鲜",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "虽然是很有名的餐厅，但我感觉食材稍微有点不新鲜了，吃起来怪怪的。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我也这样觉得。",
+                                    "可能是为了掩盖食材本身的不新鲜，厨师加了很多料酒。",
+                                    "反而让口味更加奇怪了。",
+                                    "用未婚妻的话来说，今天我们都“踩雷“了。"
+                                ]
+                            },
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "嗨，没事，味道好的餐厅还有很多，我们下次一定能吃到好吃的。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我的未婚妻总是这么乐观。我喜欢。",
+                                    "不过下次做攻略的时候，我会参考更多的美食网站评论。",
+                                    "一定会让未婚妻满意而归。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "要听实话吗",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "要听实话吗？虽然这道菜名气很大，但我感觉不太和我胃口欸……"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "看来我们的喜好非常一致。",
+                                    "用未婚妻的话来说，今天我们都“踩雷“了。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "choice",
+                "region_content": [
+                    {
+                        "choice_name": "下次一定能吃到好吃的",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "嗨，没事，味道好的餐厅还有很多，我们下次一定能吃到好吃的。"
+                                ]
+                            },
+                            {
+                                "speaker": "查理苏",
+                                "content": [
+                                    "我的未婚妻总是这么乐观，我喜欢。",
+                                    "不过下次做攻略的时候，我会参考更多的美食网站评论。",
+                                    "一定会让未婚妻满意而归。"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "choice_name": "运气守恒",
+                        "choice_content": [
+                            {
+                                "speaker": "我",
+                                "content": [
+                                    "根据“运气守恒“定律，今天我们踩雷了，下次一定能挖掘好吃的餐品。"
+                                ]
+                            },
+                            {
+                                "type": "normal",
+                                "speaker": "查理苏",
+                                "content": [
+                                    "嗯嗯，光启市还有很多家餐厅我们都没有尝过。",
+                                    "我相信下一家味道一定不会让我们失望。"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

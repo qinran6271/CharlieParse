@@ -5,7 +5,7 @@ import json
 import re
 import uuid
 
-global details_data_list 
+global data_list 
 data_list = []
 
 # 提炼小节文本
@@ -18,9 +18,8 @@ def extract_content(docx_path):
     file_name_without_extension = os.path.splitext(file_name)[0]
 
     data = {
-        "chat_name": file_name_without_extension, #闲聊名称
-        "video" : "",
-        "chat_content":[]
+        "talk_name": file_name_without_extension, #闲聊名称
+        "talk_content":[]
     }
 
     choice_region = {
@@ -31,11 +30,19 @@ def extract_content(docx_path):
 
     speaker = ""
     content = []
-    current_list = data["chat_content"]
+    current_list = data["talk_content"]
     regular = True 
 
+    paragraphs = [] 
+    
     for paragraph in document.paragraphs:
-        line = paragraph.text.strip()
+        text_parts = paragraph.text.split('\n')
+        # print(text_parts)
+        for text_part in text_parts:
+                # 忽略空文本部分
+            paragraphs.append(text_part.strip())
+
+    for line in paragraphs:
 
         if not line:
             continue
@@ -60,12 +67,7 @@ def extract_content(docx_path):
 
             speaker,choice_name = line.split(":")[0], line.split(":")[1]
 
-
-            if speaker == "https":
-                data["video"] = line
-
-
-            elif speaker == "区域开始":  
+            if speaker == "区域开始":  
                 regular = False
 
             elif speaker == "Choice":
@@ -81,20 +83,20 @@ def extract_content(docx_path):
                 #     choice_content.append(choice_obj)
 
         elif "区域结束" in line:
-            if speaker and content:
-                regular = True  
-                current_list.append({
-                        "type": "normal",
-                        "speaker": speaker, #我 or 查理苏
-                        "content": content #讲话内容
-                    })
-                data["chat_content"].append(choice_region)
-                choice_region = {
-                    "type": "choice",
-                    "region_content": []
-                }
-                content = [] 
-                current_list = data["chat_content"] 
+            # if speaker and content:
+            regular = True  
+            current_list.append({
+                    "type": "normal",
+                    "speaker": speaker, #我 or 查理苏
+                    "content": content #讲话内容
+                })
+            data["talk_content"].append(choice_region)
+            choice_region = {
+                "type": "choice",
+                "region_content": []
+            }
+            content = [] 
+            current_list = data["talk_content"] 
 
 
         else: #continuous paragraph 
@@ -120,7 +122,7 @@ def extract_content(docx_path):
 
 
     data_list.append(data)
-    data_json = "../chat.json"
+    data_json = "../talk.json"
 
 
     with open(data_json, "w", encoding="utf-8") as json_file:
@@ -138,26 +140,13 @@ def sort_by_integer(filename):
     return 10000  # 如果文件名不符合格式要求，则返回 0 进行排序
 
 def main():
-    os.chdir('./闲聊') #mark data as root dir
-    doc_path = './闲聊demo.docx'
+    os.chdir('./闲聊/闲聊文本') #mark data as root dir
+    # doc_path = './闲聊demo.docx'
 
-    # types = sorted(os.listdir(),key=sort_by_integer) #find all subdirs / chapters & sort
-    # types = os.listdir()
-    # # print(types)
-    # for type_name in types: 
-    #     type_path = './' + type_name
-       
-
-        # subchap_nums = [] # 储存当前所有小节的编号
-        # ending= []
-
-        # type_list = os.listdir(type_path)
-
-        # 填充type聊天记录的总数
-        # para_type_data["totalNum"] = len(type_list)
     
-
-    extract_content(doc_path)
+    for doc in os.listdir(): 
+        doc_path = './' + doc
+        extract_content(doc_path)
 
 
 

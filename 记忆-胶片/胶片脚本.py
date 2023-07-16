@@ -35,8 +35,16 @@ def extract_content(card_name, total_num, docx_path):
     content = []
     current_list = data["para"]
 
+    paragraphs = [] 
+    
     for paragraph in document.paragraphs:
-        line = paragraph.text.strip()
+        text_parts = paragraph.text.split('\n')
+        # print(text_parts)
+        for text_part in text_parts:
+                # 忽略空文本部分
+            paragraphs.append(text_part.strip())
+
+    for line in paragraphs:
 
         if not line:
             continue

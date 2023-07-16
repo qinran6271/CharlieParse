@@ -98,9 +98,18 @@ def extract_details(indexCode, docx_path, json_path):
 
             elif speaker == "照片":
                 if choice_name == "是":
+                    folder_path = '../照片'  # 替换为实际文件夹的路径
+
+                    for file in os.listdir(folder_path):
+                        # 提取文件名（不包含路径和后缀）
+                        base_name = os.path.splitext(os.path.basename(file))[0]
+
+                        if base_name == file_name_without_extension:
+                            data["postImg"] = "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/moments/" + file
+                            break
+
                     data["hasImg"] = True
-                    # 需要改照片名字和postImg
-                    data["postImg"] = "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/moments/" + file_name_without_extension +".png"
+                    
                 else:
                     data["hasImg"] = False
             
@@ -209,11 +218,16 @@ def main():
         type_list = sorted(os.listdir(type_path),key=sort_by_integer)
 
         for class_name  in type_list: #每章节里面的所有文档/文件夹
+
+            
             print(class_name)
             overview_data = {
                     'className':class_name, #大类名称 
                     'items':[]
                 }
+            
+            if '灵犀' in class_name:
+                overview_data["className"] = class_name[2:]
             
             sub_path = os.path.join(type_path, class_name) # sub_path 是每个type里面文件的路径
 

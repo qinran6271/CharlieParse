@@ -40,9 +40,18 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
     content = []
     current_list = data["para"]
     regular = True 
+    paragraphs = [] 
 
     for paragraph in document.paragraphs:
-        line = paragraph.text.strip()
+        text_parts = paragraph.text.split('\n')
+        # print(text_parts)
+        for text_part in text_parts:
+                # 忽略空文本部分
+            paragraphs.append(text_part.strip())
+
+
+    for line in paragraphs:
+        
 
         if not line:
             continue

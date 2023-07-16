@@ -1,0 +1,58 @@
+[
+    {
+        "num": "EP01",
+        "name":"生而有翼",
+        "music" : "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/studio/vinyl/%E7%94%9F%E8%80%8C%E6%9C%89%E7%BF%BC.mp3",
+        "details" : [
+            "Genre: Latin, Pop",
+            "Instruments: Sax, Violin",
+            "Mood: Passionate",
+            "Composer: Yuki Hayashi"
+        ]
+    },
+    {
+        "num": "EP02",
+        "name":"与你出逃",
+        "music" : "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/studio/vinyl/%E4%B8%8E%E4%BD%A0%E5%87%BA%E9%80%83.mp3",
+        "details":[
+            "Genre: Pop",
+            "Instruments: Piano",
+            "Mood: Bright",
+            "Composer: Asami Tachibana"
+
+        ]
+    },
+    {
+        "num": "EP03",
+        "name":"沐野拾趣",
+        "music" : "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/studio/vinyl/%E6%B2%90%E9%87%8E%E6%8B%BE%E8%B6%A3.mp3",
+        "details":[
+            "Genre: Pop",
+            "Instruments: Violin",
+            "Mood: Cheerful, Bright",
+            "Producer: Aurora Audio Studio"
+        ]
+    },
+    {
+        "num": "EP04",
+        "name":"异乡风赏",
+        "music" : "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/studio/vinyl/%E5%BC%82%E4%B9%A1%E9%A3%8E%E8%B5%8F.mp3",
+        "details":[
+            "Genre: World",
+            "Instruments: Kanun",
+            "Mood: Cheerful",
+            "Producer: Aurora Audio Studio"
+        ]
+    },
+    {
+        "num": "EP05",
+        "name":"Summer Delight",
+        "music" : "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/studio/vinyl/Summer%20Delight.mp3",
+        "details":[
+            "Genre: World, Fugue",
+            "Instruments: Piano, Strings",
+            "Mood: Playful, Romantic",
+            "Producer: Aurora Audio Studio"
+        ]
+    }
+]
