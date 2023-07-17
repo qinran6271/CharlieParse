@@ -83,13 +83,12 @@ def extract_content(docx_path):
                 #     choice_content.append(choice_obj)
 
         elif "区域结束" in line:
-            # if speaker and content:
-            regular = True  
-            current_list.append({
-                    "type": "normal",
-                    "speaker": speaker, #我 or 查理苏
-                    "content": content #讲话内容
-                })
+            regular = True 
+            if speaker and content: 
+                current_list.append({
+                        "speaker": speaker, #我 or 查理苏
+                        "content": content #讲话内容
+                    })
             data["talk_content"].append(choice_region)
             choice_region = {
                 "type": "choice",

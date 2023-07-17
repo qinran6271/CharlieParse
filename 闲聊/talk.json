@@ -41,7 +41,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "酸酸甜甜的，很好吃。",
@@ -82,7 +81,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "那么还有一种方式。",
@@ -129,13 +127,7 @@
                     },
                     {
                         "choice_name": "什么活动（暂无",
-                        "choice_content": [
-                            {
-                                "type": "normal",
-                                "speaker": "Choice",
-                                "content": []
-                            }
-                        ]
+                        "choice_content": []
                     }
                 ]
             },
@@ -156,7 +148,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "一起入眠确实对未婚妻的睡眠质量有所帮助。",
@@ -206,7 +197,6 @@
                         "choice_name": "重油重盐不健康",
                         "choice_content": [
                             {
-                                "type": "normal",
                                 "speaker": "我",
                                 "content": [
                                     "以前我吃饭总是喜欢重油重盐，感觉不太健康。",
@@ -249,7 +239,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "高端的食材，往往采用最朴素的烹饪方式。",
@@ -348,7 +337,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "在和未婚妻的默契挑战上，我可是能拿满分的人。",
@@ -431,7 +419,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "不是。",
@@ -475,7 +462,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "没错。",
@@ -513,7 +499,6 @@
                         "choice_name": "终于知道查医生的喜好了。",
                         "choice_content": [
                             {
-                                "type": "normal",
                                 "speaker": "我",
                                 "content": [
                                     "直到今天，我才知道查医生看剧的喜好。",
@@ -723,7 +708,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "未婚妻的爱心早餐，我一秒也不想等待了。"
@@ -841,7 +825,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "虽然有时候，牛蛙会让我想到实验室里的小白鼠。",
@@ -1035,7 +1018,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "和未婚妻在一起这么久，这点小默契还是有的。",
@@ -1078,7 +1060,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "真的吗？",
@@ -1120,7 +1101,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "我懂这种感觉，毕竟我每天也是这样想念未婚妻的。",
@@ -1190,7 +1170,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "看来我们的喜好非常一致。",
@@ -1233,7 +1212,6 @@
                                 ]
                             },
                             {
-                                "type": "normal",
                                 "speaker": "查理苏",
                                 "content": [
                                     "嗯嗯，光启市还有很多家餐厅我们都没有尝过。",
