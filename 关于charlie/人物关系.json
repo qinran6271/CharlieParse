@@ -1,6 +1,7 @@
 [
     {
         "name": "迪伦",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏少年时期结识的朋友",
@@ -14,6 +15,7 @@
     },
     {
         "name": "Benson Steven",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏同学"
@@ -26,6 +28,7 @@
     },
     {
         "name": "欧文",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友兼同事",
@@ -39,6 +42,7 @@
     },
     {
         "name": "羲和",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏母亲",
@@ -53,6 +57,7 @@
     },
     {
         "name": "马克（Mark Alexander）",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友",
@@ -67,6 +72,7 @@
     },
     {
         "name": "孟泽洋 Katy",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友"
@@ -78,6 +84,7 @@
     },
     {
         "name": "查理芬",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏堂姐",
@@ -92,6 +99,7 @@
     },
     {
         "name": "何国恒（老何）",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/%E8%80%81%E4%BD%95.png",
         "details": {
             "identities": [
                 "查理苏同事兼羲和旧友",
@@ -106,6 +114,7 @@
     },
     {
         "name": "西蒙",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友兼同事",
@@ -120,6 +129,7 @@
     },
     {
         "name": "查兆澎",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/%E6%9F%A5%E5%85%86%E9%B9%8F.png",
         "details": {
             "identities": [
                 "查理苏父亲",
@@ -134,6 +144,7 @@
     },
     {
         "name": "时晏",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏少年时期结识的朋友",
@@ -147,6 +158,7 @@
     },
     {
         "name": "莱昂",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友兼同事",
@@ -161,6 +173,7 @@
     },
     {
         "name": "Alan",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏心理医生",
@@ -175,6 +188,7 @@
     },
     {
         "name": "埃西诺",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏导师",
@@ -189,6 +203,7 @@
     },
     {
         "name": "吉叔（吉修）",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/%E5%90%89%E5%8F%94.png",
         "details": {
             "identities": [
                 "查理苏私人管家",
@@ -203,6 +218,7 @@
     },
     {
         "name": "丹尼医生",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏实习医生时期的导师",
@@ -215,6 +231,7 @@
     },
     {
         "name": "舒云",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏母亲灵族朋友",
@@ -229,6 +246,7 @@
     },
     {
         "name": "克勒曼",
+        "img": "",
         "details": {
             "identities": [
                 "查理苏朋友兼同事",
@@ -244,6 +262,7 @@
     },
     {
         "name": "雪莉酒",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/%E9%9B%AA%E5%88%A9%E9%85%92.png",
         "details": {
             "identities": [
                 "查理苏宠物",
@@ -258,6 +277,7 @@
     },
     {
         "name": "孙泰中（已故）",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/%E5%AD%99%E6%B3%B0%E4%B8%AD.png",
         "details": {
             "identities": [
                 "查理苏同事",

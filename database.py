@@ -34,6 +34,7 @@ moments_details = db.moments_details
 moments_overview = db.moments_overview
 talk = db.talk
 vinyl = db.vinyl
+characters = db.characters
 
 
 
@@ -56,7 +57,7 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(vinyl,'./工作室-唱片/唱片.json')
+    read_many(characters,'./关于charlie/人物关系.json')
     # read_many(moments_overview,'./朋友圈/朋友圈overview.json')
     # read_many(chat_details,'./聊天记录/details.json')
     # delete_all(moments_details)

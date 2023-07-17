@@ -26,7 +26,7 @@ def extract_details(docx_path, json_path):
 
     data = {
         "name" : file_name_without_extension,
-        # "img" : file_name_without_extension + ".jpg",
+        "img" : "",
         "details" : []
     } 
 
