@@ -3,8 +3,8 @@
 {} //ignore 
 
 {
-    "chat_name": "string" , //闲聊名称
-    "chat_content":[
+    "talk_name": "string" , //闲聊名称
+    "talk_content":[
         // normal
         {
             "type": "normal",

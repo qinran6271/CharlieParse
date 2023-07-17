@@ -51,7 +51,7 @@ def extract_details(docx_path, json_path):
 def main():
     os.chdir('./关于charlie')
 
-    extract_details("./细节sample.docx","./角色细节.json")
+    extract_details("./关于charlie-小知识.docx","./角色细节.json")
 
     
 
