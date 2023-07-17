@@ -19,13 +19,14 @@ def extract_details(docx_path, json_path):
     #提取file name, used for pics 
     file_name = os.path.basename(docx_path)
     file_name_without_extension = os.path.splitext(file_name)[0]
+    print(file_name_without_extension)
 
     # with open(json_path, 'r', encoding="utf-8") as file:
     #     json_data = json.load(file)
 
     data = {
         "name" : file_name_without_extension,
-        "img" : file_name_without_extension + ".jpg",
+        # "img" : file_name_without_extension + ".jpg",
         "details" : []
     } 
 
@@ -41,7 +42,7 @@ def extract_details(docx_path, json_path):
 
     for paragraph in document.paragraphs:
         line = paragraph.text.strip()
-        print(line)
+        # print(line)
 
         if not line:
             continue
