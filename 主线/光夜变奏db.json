@@ -24,6 +24,7 @@
 //sub_chapters
 {
     "_id" : "objectId",
+    "chap_num" : "int",
     "subchap_name" : "string",
     "subchap_type" : "stirng", //普通，光结局，夜结局
     "para" : [ //根据type来判断 （diaContent）

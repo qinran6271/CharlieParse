@@ -28,6 +28,7 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
     data = {
         "subchap_name": file_name_without_extension,
         "subchap_type": sub_type,
+        "chap_num" : int(chap_num),
         "para": []
     } 
 
