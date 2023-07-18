@@ -1,6 +1,6 @@
 [
     {
-        "callCode": "vfbf75ab9-e537-4793-9332-cef9db0d1c4e",
+        "callCode": "vb378af0f-e188-4b36-bb9c-84b821ac93b0",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "callCode": "v23b0f8e4-bac4-474b-bb74-8674f8eafd83",
+        "callCode": "vefbb01a8-12d0-4e11-a917-4044e0f6a1cf",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "callCode": "va434cde1-842b-44c8-896d-72b573c1698d",
+        "callCode": "ve23affe6-d077-44f5-8e27-bcc3e512bfbd",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -725,7 +725,7 @@
         ]
     },
     {
-        "callCode": "v2d846f05-f91c-429a-addd-925a19975511",
+        "callCode": "v50d96cad-1dac-4a7a-90b4-1c92cc298a35",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -957,7 +957,7 @@
         ]
     },
     {
-        "callCode": "v28da5e8c-bfd3-4e7c-8df2-22ce2e94f927",
+        "callCode": "v5ca3602d-f059-4555-b917-2323a1bed0bd",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1244,507 +1244,7 @@
         ]
     },
     {
-        "callCode": "v34f629d6-2262-498f-8b86-6bfa984e5acd",
-        "call_history": [
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "你醒了？"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "嗯，我醒过来发现你不在，吓了好一跳......刚想给你打电话来着。"
-                    },
-                    {
-                        "contentText": "你怎么出去了？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "别担心，我看你抱着攻略打瞌睡，就猜到是旅途太累了，没忍心打扰你休息。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "但我现在已经精神满满了！"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯，那就好。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "对了，你打我电话......是正好猜到我醒了吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯哼，没错。心有灵犀的力量，不容小觑。"
-                    },
-                    {
-                        "contentText": "我刚才走在庭院里，看到尼罗河上的夜航灯闪了十二下，突然就有一种预感——我亲爱的未婚妻应该已经醒了。"
-                    },
-                    {
-                        "contentText": "一回头，果然看见房间里的灯又亮了起来。"
-                    },
-                    {
-                        "contentText": "手指就不自觉按到了你的号码，想来求证一下我们的默契指数。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "猜到了我醒来的时间，我们的默契指数就足足有80分了！"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "80分？！剩下的20去哪儿了？"
-                    },
-                    {
-                        "contentText": "未婚妻，你这是要把一个完美主义者逼上绝路......"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "呸呸呸！今天不能提这个不吉利的词，快跟我说呸呸呸。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯，呸呸呸。"
-                    },
-                    {
-                        "contentText": "呸完了。好，未婚妻，现在我想知道，那剩下的20分......"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "剩下的20分，藏在一个不容易发现的地方。"
-                    },
-                    {
-                        "contentText": "给你一个提示，我们今天一起分享的二维码蛋糕？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "你是说，生日蛋糕上用奶油绘制的二维码么？"
-                    },
-                    {
-                        "contentText": "我当然注意到了。我不仅注意到了，我甚至还用手机扫了一扫。"
-                    },
-                    {
-                        "contentText": "里面，是一副星图。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "不过它和一般的实时星空图有点不一样......"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "它是7月24日的星图。"
-                    },
-                    {
-                        "contentText": "我猜对了吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "嗯，你又猜对了！"
-                    },
-                    {
-                        "contentText": "我有点好奇，你到底可以猜对多少次我的想法？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "都说过了，这叫心有灵犀。"
-                    },
-                    {
-                        "contentText": "或者说，我愿意把所有美好的猜测，都花费在与你有关的事上。"
-                    },
-                    {
-                        "contentText": "我相信你也是的，未婚妻。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "嗯当然。不过，不止是猜想，还包括我所有美好的祝愿。"
-                    },
-                    {
-                        "contentText": "就像这一副星图一样——"
-                    },
-                    {
-                        "contentText": "我希望，当你抬起头的时候，你能看到这片属于你的天空，正有人为你闪耀。"
-                    },
-                    {
-                        "contentText": "我希望，那颗闪耀的星星，可以是我。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯......是你，当然是你。"
-                    },
-                    {
-                        "contentText": "现在抬起头，我看到夜空，也看到你了。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "真的吗？"
-                    },
-                    {
-                        "contentText": "查理苏，你在这么多星星里都能找到“我”呀......"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "当然，都说了，这才是“心有灵犀”。"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "callCode": "vc6eee162-151d-4055-ab30-c2ac8fb905e6",
-        "call_history": [
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "知道今天是什么日子吗？"
-                    },
-                    {
-                        "contentText": "是你的生日，我的未婚妻。"
-                    },
-                    {
-                        "contentText": "特意去记？我这颗智商210的大脑根本不需要特意去记某些事情，你第一次告诉我的时候，我就记住了。"
-                    },
-                    {
-                        "contentText": "没办法，谁让我是一个称职的未婚夫呢。"
-                    },
-                    {
-                        "contentText": "说到生日，你今天就没有什么安排吗？"
-                    },
-                    {
-                        "contentText": "比如，生日宴会什么的。或者干脆借着这个机会举行一场慈善拍卖也不错。"
-                    },
-                    {
-                        "contentText": "之后以你的名义去帮助留守儿童或者在需要的地方建几座女校。"
-                    },
-                    {
-                        "contentText": "不像我说的话？"
-                    },
-                    {
-                        "contentText": "我在你眼里到底是什么暴发户？每天吃几吨羊排、24小时都在参加宴会的那种？"
-                    },
-                    {
-                        "contentText": "伤心了。"
-                    },
-                    {
-                        "contentText": "哄我也没用，除非你把接下来的生日都交给我操办。"
-                    },
-                    {
-                        "contentText": "你说的，不准耍赖。"
-                    },
-                    {
-                        "contentText": "为什么要举行慈善拍卖？"
-                    },
-                    {
-                        "contentText": "因为我认真地想了想，物质上的东西你有自己实现的能力，并不需要依靠我。"
-                    },
-                    {
-                        "contentText": "而且这些东西日常送就行了，作为生日礼物太敷衍。"
-                    },
-                    {
-                        "contentText": "至于一些什么让你永远开心、永远不受委屈、永远顺顺利利，都是场面话罢了。"
-                    },
-                    {
-                        "contentText": "永远谁都没法保证，但我可以确保只要有我在，绝对不会让你受委屈。"
-                    },
-                    {
-                        "contentText": "所以我想来想去，觉得我未婚妻那么好，值得让大家都看到。"
-                    },
-                    {
-                        "contentText": "有什么可低调的？"
-                    },
-                    {
-                        "contentText": "你什么都不用担心，按照自己的心意来，然后把其他的都交给我。"
-                    },
-                    {
-                        "contentText": "今天，我就勉强当一回配角吧。"
-                    },
-                    {
-                        "contentText": "我很快就到，你可以开始期待了。"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "callCode": "vc6045fc8-91f4-4cc9-8f83-5a7696355ae1",
-        "call_history": [
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "查理苏，你在我家楼下吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "中央广场的方向？好像......有什么东西正在飞起来。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "再仔细看。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "貌似是一个热气球。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "准确的说，是我为你放的热气球。一年到了，是时候把我们的感情公之于众了。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "欸，什么！我们还没......"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "你别急，看气球上的字。"
-                    },
-                    {
-                        "contentText": "“亲爱的未婚妻，在新年来临之际，本人查理苏向你郑重承诺——”"
-                    },
-                    {
-                        "contentText": "“未来的365天，我会一直陪伴在你的左右，给你带来365份的快乐......”"
-                    },
-                    {
-                        "contentText": "“直到你厌倦为止（虽然我知道这样的事情很难发生）。”"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "哇，好感动，这是你给我的新年祝福吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "不，这只是承诺，祝福在下面一行。"
-                    },
-                    {
-                        "contentText": "“祝我的未婚妻，在新的一年爱情美满，早日拥有全世界最完美的老公。”"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "瞧这春秋笔法，“全世界最完美的老公”还有别的人选吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "当然没有！"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "我就知道......\n不过，这事以后再说吧。嗯哼，现在我要先还一个祝福给你！"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯，我洗耳恭听。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "我要先祝查理苏，新年快乐！"
-                    },
-                    {
-                        "contentText": "然后，我要祝他，所有的梦想都能成真。"
-                    },
-                    {
-                        "contentText": "最后......"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "这么多祝福，未婚妻，你好贪心呀。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "这才不叫贪心，我觉得你非常需要它们。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "嗯嗯，未婚妻的祝福，我不嫌多。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "最后，我要祝查理苏在新的一年，拥有365份的阳光——"
-                    },
-                    {
-                        "contentText": "永远有人照亮你，直到你厌倦为止。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "未婚妻，我不会厌倦你的。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "唔，我又没说那个人一定是我！"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "但在我的好天气里，可不能没有你。"
-                    },
-                    {
-                        "contentText": "亲爱的未婚妻，新年快乐。"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "callCode": "vdd682070-8fae-48ab-95bf-fce52c3a9aeb",
+        "callCode": "v87ea137d-e6ee-4cad-91d0-ff59753bbaf5",
         "call_history": [
             {
                 "speaker": "我",
@@ -1981,7 +1481,518 @@
         ]
     },
     {
-        "callCode": "v79e37e9e-5c18-494e-83df-0819c046f6e2",
+        "callCode": "vf018e035-9349-4300-8405-32eaf04f5c0d",
+        "call_history": [
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "你醒了？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "嗯，我醒过来发现你不在，吓了好一跳......刚想给你打电话来着。"
+                    },
+                    {
+                        "contentText": "你怎么出去了？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "别担心，我看你抱着攻略打瞌睡，就猜到是旅途太累了，没忍心打扰你休息。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "但我现在已经精神满满了！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯，那就好。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "对了，你打我电话......是正好猜到我醒了吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯哼，没错。心有灵犀的力量，不容小觑。"
+                    },
+                    {
+                        "contentText": "我刚才走在庭院里，看到尼罗河上的夜航灯闪了十二下，突然就有一种预感——我亲爱的未婚妻应该已经醒了。"
+                    },
+                    {
+                        "contentText": "一回头，果然看见房间里的灯又亮了起来。"
+                    },
+                    {
+                        "contentText": "手指就不自觉按到了你的号码，想来求证一下我们的默契指数。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "猜到了我醒来的时间，我们的默契指数就足足有80分了！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "80分？！剩下的20去哪儿了？"
+                    },
+                    {
+                        "contentText": "未婚妻，你这是要把一个完美主义者逼上绝路......"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "呸呸呸！今天不能提这个不吉利的词，快跟我说呸呸呸。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯，呸呸呸。"
+                    },
+                    {
+                        "contentText": "呸完了。好，未婚妻，现在我想知道，那剩下的20分......"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "剩下的20分，藏在一个不容易发现的地方。"
+                    },
+                    {
+                        "contentText": "给你一个提示，我们今天一起分享的二维码蛋糕？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "你是说，生日蛋糕上用奶油绘制的二维码么？"
+                    },
+                    {
+                        "contentText": "我当然注意到了。我不仅注意到了，我甚至还用手机扫了一扫。"
+                    },
+                    {
+                        "contentText": "里面，是一副星图。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "不过它和一般的实时星空图有点不一样......"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "它是7月24日的星图。"
+                    },
+                    {
+                        "contentText": "我猜对了吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "嗯，你又猜对了！"
+                    },
+                    {
+                        "contentText": "我有点好奇，你到底可以猜对多少次我的想法？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "都说过了，这叫心有灵犀。"
+                    },
+                    {
+                        "contentText": "或者说，我愿意把所有美好的猜测，都花费在与你有关的事上。"
+                    },
+                    {
+                        "contentText": "我相信你也是的，未婚妻。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "嗯当然。不过，不止是猜想，还包括我所有美好的祝愿。"
+                    },
+                    {
+                        "contentText": "就像这一副星图一样——"
+                    },
+                    {
+                        "contentText": "我希望，当你抬起头的时候，你能看到这片属于你的天空，正有人为你闪耀。"
+                    },
+                    {
+                        "contentText": "我希望，那颗闪耀的星星，可以是我。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯......是你，当然是你。"
+                    },
+                    {
+                        "contentText": "现在抬起头，我看到夜空，也看到你了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "真的吗？"
+                    },
+                    {
+                        "contentText": "查理苏，你在这么多星星里都能找到“我”呀......"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然，都说了，这才是“心有灵犀”。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v08b06523-e939-4e49-a4a6-1a3a377afff8",
+        "call_history": [
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "知道今天是什么日子吗？"
+                    },
+                    {
+                        "contentText": "是你的生日，我的未婚妻。"
+                    },
+                    {
+                        "contentText": "特意去记？我这颗智商210的大脑根本不需要特意去记某些事情，你第一次告诉我的时候，我就记住了。"
+                    },
+                    {
+                        "contentText": "没办法，谁让我是一个称职的未婚夫呢。"
+                    },
+                    {
+                        "contentText": "说到生日，你今天就没有什么安排吗？"
+                    },
+                    {
+                        "contentText": "比如，生日宴会什么的。或者干脆借着这个机会举行一场慈善拍卖也不错。"
+                    },
+                    {
+                        "contentText": "之后以你的名义去帮助留守儿童或者在需要的地方建几座女校。"
+                    },
+                    {
+                        "contentText": "不像我说的话？"
+                    },
+                    {
+                        "contentText": "我在你眼里到底是什么暴发户？每天吃几吨羊排、24小时都在参加宴会的那种？"
+                    },
+                    {
+                        "contentText": "伤心了。"
+                    },
+                    {
+                        "contentText": "哄我也没用，除非你把接下来的生日都交给我操办。"
+                    },
+                    {
+                        "contentText": "你说的，不准耍赖。"
+                    },
+                    {
+                        "contentText": "为什么要举行慈善拍卖？"
+                    },
+                    {
+                        "contentText": "因为我认真地想了想，物质上的东西你有自己实现的能力，并不需要依靠我。"
+                    },
+                    {
+                        "contentText": "而且这些东西日常送就行了，作为生日礼物太敷衍。"
+                    },
+                    {
+                        "contentText": "至于一些什么让你永远开心、永远不受委屈、永远顺顺利利，都是场面话罢了。"
+                    },
+                    {
+                        "contentText": "永远谁都没法保证，但我可以确保只要有我在，绝对不会让你受委屈。"
+                    },
+                    {
+                        "contentText": "所以我想来想去，觉得我未婚妻那么好，值得让大家都看到。"
+                    },
+                    {
+                        "contentText": "有什么可低调的？"
+                    },
+                    {
+                        "contentText": "你什么都不用担心，按照自己的心意来，然后把其他的都交给我。"
+                    },
+                    {
+                        "contentText": "今天，我就勉强当一回配角吧。"
+                    },
+                    {
+                        "contentText": "我很快就到，你可以开始期待了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v64fd4256-81b4-4bed-9928-7260aea6e4df",
+        "call_history": [
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "查理苏，你在我家楼下吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嘘，看十点钟方向。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "中央广场的方向？好像......有什么东西正在飞起来。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "再仔细看。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "貌似是一个热气球。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "准确的说，是我为你放的热气球。一年到了，是时候把我们的感情公之于众了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "欸，什么！我们还没......"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "你别急，看气球上的字。"
+                    },
+                    {
+                        "contentText": "“亲爱的未婚妻，在新年来临之际，本人查理苏向你郑重承诺——”"
+                    },
+                    {
+                        "contentText": "“未来的365天，我会一直陪伴在你的左右，给你带来365份的快乐......”"
+                    },
+                    {
+                        "contentText": "“直到你厌倦为止（虽然我知道这样的事情很难发生）。”"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "哇，好感动，这是你给我的新年祝福吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "不，这只是承诺，祝福在下面一行。"
+                    },
+                    {
+                        "contentText": "“祝我的未婚妻，在新的一年爱情美满，早日拥有全世界最完美的老公。”"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "瞧这春秋笔法，“全世界最完美的老公”还有别的人选吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然没有！"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "我就知道......"
+                    },
+                    {
+                        "contentText": "不过，这事以后再说吧。嗯哼，现在我要先还一个祝福给你！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯，我洗耳恭听。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "我要先祝查理苏，新年快乐！"
+                    },
+                    {
+                        "contentText": "然后，我要祝他，所有的梦想都能成真。"
+                    },
+                    {
+                        "contentText": "最后......"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "这么多祝福，未婚妻，你好贪心呀。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "这才不叫贪心，我觉得你非常需要它们。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯嗯，未婚妻的祝福，我不嫌多。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "最后，我要祝查理苏在新的一年，拥有365份的阳光——"
+                    },
+                    {
+                        "contentText": "永远有人照亮你，直到你厌倦为止。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "未婚妻，我不会厌倦你的。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "唔，我又没说那个人一定是我！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "但在我的好天气里，可不能没有你。"
+                    },
+                    {
+                        "contentText": "亲爱的未婚妻，新年快乐。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v3ceaba30-f144-4d2d-80bc-4ca6515e6576",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2221,7 +2232,7 @@
         ]
     },
     {
-        "callCode": "v1b949084-76f9-4c99-a464-6185739f3c6a",
+        "callCode": "v8d66b8e9-a26b-4b11-aeb0-06cd5bbad7c0",
         "call_history": [
             {
                 "speaker": "我",
@@ -2417,7 +2428,7 @@
         ]
     },
     {
-        "callCode": "v4edd3852-f99d-4725-a9d0-cb8266c5698f",
+        "callCode": "v76e7c366-a723-41e3-9ffc-0a159934ca29",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2642,7 +2653,7 @@
         ]
     },
     {
-        "callCode": "vc36476a1-845d-4e6a-8719-6eccd330185b",
+        "callCode": "va45c23e6-114e-45a9-8f21-7e78de513fa7",
         "call_history": [
             {
                 "speaker": "我",
@@ -2841,7 +2852,7 @@
         ]
     },
     {
-        "callCode": "v915d2494-3cfb-4ab3-9e6c-fb0d28023df3",
+        "callCode": "v36af3909-0d09-44b3-91fd-40d96f4535dc",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3112,7 +3123,7 @@
         ]
     },
     {
-        "callCode": "v51411e21-fa22-4dd7-b8ec-3b57d9efdd5a",
+        "callCode": "v08671bb7-a81b-4430-9e9b-dd2c1c1a4f6e",
         "call_history": [
             {
                 "speaker": "我",
@@ -3368,7 +3379,7 @@
         ]
     },
     {
-        "callCode": "v3b5c64b8-289a-4368-8be4-fd2436b6b6d3",
+        "callCode": "v98892bd9-ecf4-4713-b0b9-8212d768161b",
         "call_history": [
             {
                 "speaker": "我",
@@ -3656,7 +3667,7 @@
         ]
     },
     {
-        "callCode": "v300a2080-fa29-4b47-9b43-068371a10655",
+        "callCode": "v8dc65543-c6cf-486c-99f2-012d4e31c0dc",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3962,7 +3973,7 @@
         ]
     },
     {
-        "callCode": "vcccdb639-c069-4fda-81d4-557d777c2646",
+        "callCode": "v3c7eb79e-425b-49be-b797-6d34c1b50337",
         "call_history": [
             {
                 "speaker": "我",
@@ -4210,7 +4221,7 @@
         ]
     },
     {
-        "callCode": "vc386bacb-85ce-4ab2-8f16-a0ff32f543e4",
+        "callCode": "v54b43a23-8b5a-42b3-984a-7efe593542c4",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4363,7 +4374,7 @@
         ]
     },
     {
-        "callCode": "va99cebf1-4d9a-4777-bcb4-95c2b2d4a4e7",
+        "callCode": "v3c24ec1d-53fa-4b34-873f-c661b5969b69",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4657,7 +4668,7 @@
         ]
     },
     {
-        "callCode": "vc8477f85-7359-4cf8-a106-9c41add013a6",
+        "callCode": "v5d34385f-4b24-4ccb-9bb3-c806cf840cda",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4882,7 +4893,7 @@
         ]
     },
     {
-        "callCode": "v42a6baa6-82a4-43d6-b54f-c823d44a6224",
+        "callCode": "ve610ba0c-5fc2-4f9e-88fd-3e154573164a",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5135,7 +5146,7 @@
         ]
     },
     {
-        "callCode": "vacf31e24-5190-4dac-bae0-871c78ad38d1",
+        "callCode": "v51a5b53c-664a-4989-b274-9b23650e4164",
         "call_history": [
             {
                 "speaker": "我",
@@ -5356,7 +5367,7 @@
         ]
     },
     {
-        "callCode": "vdf3376a8-a70b-48c4-8021-fe7eb3eedadf",
+        "callCode": "vbdee39eb-a180-442e-b0a3-5615c99e31f4",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5651,7 +5662,7 @@
         ]
     },
     {
-        "callCode": "v4ea94ea4-48fb-4a0d-aa6b-4011a8634ecf",
+        "callCode": "v3f367d65-e1b4-461f-9c7f-bc78c1022d2b",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5948,7 +5959,7 @@
         ]
     },
     {
-        "callCode": "v05b7a8d4-15ba-4ba3-b4ba-ae8ebb3f7d0e",
+        "callCode": "vba8b3c79-8a33-4522-8605-04299140bdcb",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6191,7 +6202,7 @@
         ]
     },
     {
-        "callCode": "vcd49ae8e-6db4-4ea6-bf4d-91a4c8eeda3a",
+        "callCode": "v1750b0f1-86a6-49d0-96e4-3c74ad7beba3",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6390,7 +6401,7 @@
         ]
     },
     {
-        "callCode": "v9fb66882-194e-462b-b85f-289201f15ccd",
+        "callCode": "v38a0a961-f038-4fec-8e24-6b1836bc65ba",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6596,7 +6607,7 @@
         ]
     },
     {
-        "callCode": "v0df0d5a6-f59c-423c-8700-fc33bafcf053",
+        "callCode": "v879f12fe-aa75-44cf-b557-f7892d886433",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6837,7 +6848,7 @@
         ]
     },
     {
-        "callCode": "v070c20b5-27ce-4447-a3d0-4cd7d3faafb9",
+        "callCode": "vcddf4675-1533-4bf5-a9cd-10e0c4c562fe",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7077,7 +7088,7 @@
         ]
     },
     {
-        "callCode": "vc2139acc-cf20-4306-8534-4261c727583c",
+        "callCode": "vcfe05f28-12ed-4a02-90ad-369afd6fdd28",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7470,7 +7481,7 @@
         ]
     },
     {
-        "callCode": "v5318c6f2-111f-4959-8e68-9687ecfdbd04",
+        "callCode": "v3a166bdf-0b4a-4854-9af1-4b3489e1aba5",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7743,7 +7754,7 @@
         ]
     },
     {
-        "callCode": "vd3d14be0-3674-4c37-9a42-8030ff103065",
+        "callCode": "vf832b205-4bc4-4c9e-8c55-62d50d53cecc",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7973,7 +7984,7 @@
         ]
     },
     {
-        "callCode": "v2004b418-c4f5-4ba1-a4eb-94f0d8511b8d",
+        "callCode": "v56518499-5e62-4ae6-9d63-4470e0cc8eee",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8223,7 +8234,7 @@
         ]
     },
     {
-        "callCode": "v1133e6b9-66e0-4489-88b0-408a164cbab2",
+        "callCode": "v0756fc4a-f0fc-4440-89cc-1d71e9919fa1",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8411,7 +8422,7 @@
         ]
     },
     {
-        "callCode": "vca50a4de-3eba-47a7-b31b-4d82f5f5ce17",
+        "callCode": "vb324fa56-5162-402a-be0e-01df4dfc0f91",
         "call_history": [
             {
                 "speaker": "查理苏",

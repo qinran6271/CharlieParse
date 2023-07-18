@@ -63,15 +63,22 @@ def extract_content(docx_path):
     if_choice = False
     if_reply = False
     choice_obj = {}
-
+    paragraphs = [] 
+    
     for paragraph in document.paragraphs:
-        line = paragraph.text.strip()
+        text_parts = paragraph.text.split('\n')
+        # print(text_parts)
+        for text_part in text_parts:
+                # 忽略空文本部分
+            paragraphs.append(text_part.strip())
+
+    for line in paragraphs:
 
         if not line:
             continue
 
         if ":" in line:
-            if ("查理苏:" in line or "我:" in line) and content: #reached start of next dialogue 
+            if ("查理苏:" in line or "我:" in line or "区域开始:" in line) and content: #reached start of next dialogue 
                 
                 if if_call:
                     
@@ -126,10 +133,12 @@ def extract_content(docx_path):
             elif speaker == "https":
                 call_url = line
 
-            elif speaker == "区域开始":  
-                regular = False
+            # elif speaker == "区域开始":  
+            #     print(person,content)
+            #     regular = False
 
             elif speaker == "Choice":
+                regular = False
                 if_choice = True
                 if_reply = False
                 if int(choice_name) > 1:
@@ -325,7 +334,7 @@ def main():
             type_name = "xieHou"
         elif type_name == "活动":
             type_name = "activities"
-        elif type_name == "真话冒险":
+        elif type_name == "真心话大冒险":
             type_name = "truthorDare"
         elif type_name == "茶歇":
             type_name = "teaParty"   
