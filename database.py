@@ -60,9 +60,9 @@ def delete_all(collection):
 if __name__ == '__main__':
 
     # delete_all(talk)
-    delete_all(day_night_chaps)
-    delete_all(day_night_subchaps)
-    read_many(day_night_chaps,'./主线/chaps.json')
-    read_many(day_night_subchaps,'./主线/subchaps.json')
+    # delete_all(day_night_chaps)
+    delete_all(track)
+    read_many(track,'./记忆-轨迹/轨迹DB.json')
+    # read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_many(chat_details,'./聊天记录/details.json')
     # read_one(furniture,'./家具/furniture.json')

@@ -412,6 +412,7 @@
         ]
     },
     {
+        "cardindex": 0,
         "sessionIndex": 1,
         "DiaOrMono": "mono",
         "videoUrl": "https://www.bilibili.com/video/BV11v4y1G76S?p=1&vd_source=9d1b2c54381adb90da533b11c1571745",
@@ -423,6 +424,7 @@
         ]
     },
     {
+        "cardindex": 0,
         "sessionIndex": 2,
         "DiaOrMono": "mono",
         "videoUrl": "https://www.bilibili.com/video/BV11v4y1G76S?p=6&vd_source=9d1b2c54381adb90da533b11c1571745",
@@ -830,6 +832,7 @@
         ]
     },
     {
+        "cardindex": 0,
         "sessionIndex": 5,
         "DiaOrMono": "mono",
         "videoUrl": "https://www.bilibili.com/video/BV11v4y1G76S?p=4&vd_source=9d1b2c54381adb90da533b11c1571745",
@@ -843,7 +846,7 @@
     {
         "cardindex": 1,
         "sessionIndex": 0,
-        "DiaOrMono": "dia",
+        "DiaorMemory": "dia",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf?p=3&vd_source=9d1b2c54381adb90da533b11c1571745",
         "subContent": [
             {
@@ -985,8 +988,9 @@
         ]
     },
     {
+        "cardindex": 1,
         "sessionIndex": 1,
-        "DiaOrMono": "mono",
+        "DiaorMemory": "memory",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf?p=2&vd_source=9d1b2c54381adb90da533b11c1571745",
         "subContent": [
             {
@@ -996,8 +1000,9 @@
         ]
     },
     {
+        "cardindex": 1,
         "sessionIndex": 2,
-        "DiaOrMono": "mono",
+        "DiaorMemory": "memory",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf/?spm_id_from=333.999.0.0&vd_source=9d1b2c54381adb90da533b11c1571745",
         "subContent": [
             {
@@ -1009,7 +1014,7 @@
     {
         "cardindex": 1,
         "sessionIndex": 3,
-        "DiaOrMono": "dia",
+        "DiaorMemory": "dia",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf?p=6",
         "subContent": [
             {
@@ -1109,7 +1114,7 @@
     {
         "cardindex": 1,
         "sessionIndex": 4,
-        "DiaOrMono": "dia",
+        "DiaorMemory": "dia",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf?p=5&vd_source=9d1b2c54381adb90da533b11c1571745",
         "subContent": [
             {
@@ -1225,7 +1230,7 @@
     {
         "cardindex": 1,
         "sessionIndex": 5,
-        "DiaOrMono": "dia",
+        "DiaorMemory": "dia",
         "videoUrl": "https://www.bilibili.com/video/BV1k84y1P7wf?p=4",
         "subContent": [
             {
