@@ -58,10 +58,11 @@ def delete_all(collection):
     collection.delete_many({})
 
 if __name__ == '__main__':
-    read_many(charlie_details,'./关于charlie/角色细节.json')
-    # read_many(moments_overview,'./朋友圈/朋友圈overview.json')
+
+    # delete_all(talk)
+    delete_all(day_night_chaps)
+    delete_all(day_night_subchaps)
+    read_many(day_night_chaps,'./主线/chaps.json')
+    read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_many(chat_details,'./聊天记录/details.json')
-    # delete_all(moments_details)
-    # delete_all(moments_overview)
-    #delete_all(day_night_subchaps)
     # read_one(furniture,'./家具/furniture.json')
