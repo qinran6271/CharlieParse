@@ -15,7 +15,7 @@ global call_data_list
 call_data_list = []
 
 # 提炼小节文本
-def extract_content(docx_path):
+def extract_content(docx_path,type):
 
     document = Document(docx_path)
 
@@ -37,6 +37,8 @@ def extract_content(docx_path):
             "intro": "", #聊天记录简介内容
             "indexCode": indexCode #聊天记录索引值，ch开头
         }
+    if 'lingXi' == type or 'xieHou'== type:
+                overview_inner_data["name"] = file_name_without_extension[1:]
     
     details_data = {
             "indexCode": indexCode, # 聊天记录索引值，ch开头
@@ -307,12 +309,11 @@ def extract_content(docx_path):
    
 
 def sort_by_integer(filename):
-    # 使用正则表达式提取文件名中的整数部分
-    match = re.match(r'(\d+)-', filename)
+    match = re.search(r'(\d+(\.\d+)?)', filename)
     if match:
-        number = int(match.group(1))
+        number = float(match.group(1))
         return number
-    return 10000  # 如果文件名不符合格式要求，则返回 0 进行排序
+    return 0.0  # 如果文件名不符合格式要求，则返回 0 进行排序
 
 def main():
     os.chdir('./聊天记录/聊天记录文本新') #mark data as root dir
@@ -351,7 +352,9 @@ def main():
         # subchap_nums = [] # 储存当前所有小节的编号
         # ending= []
 
-        type_list = os.listdir(type_path)
+        type_list = sorted(os.listdir(type_path),key=sort_by_integer)
+        print(type_list)
+        # type_list = os.listdir(type_path)
 
         # 填充type聊天记录的总数
         para_type_data["totalNum"] = len(type_list)
@@ -359,7 +362,7 @@ def main():
 
         for item in type_list: #每章节里面的所有文档/文件夹
             sub_path = os.path.join(type_path, item) # sub_path 是每个type里面文件的路径
-            para_type_data["data"].append(extract_content(sub_path))
+            para_type_data["data"].append(extract_content(sub_path,type_name))
 
 
         # 生成大章节json文件
