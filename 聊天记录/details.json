@@ -1,6 +1,6 @@
 [
     {
-        "indexCode": "ch04a28883-f413-4a12-adfb-74501092fd39",
+        "indexCode": "ch9f6512e6-18c5-4bb1-a011-324c20e1b102",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -87,30 +87,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "说起来，今天看到的这些动物里你最喜欢哪种呀？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我对动物可是很博爱的，无论是聪明的大象，还是优雅的孔雀，都一视同仁。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "如果非要选择一种的话，我只能说对鸟类有所偏爱。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "说起来，今天看到的这些动物里你最喜欢哪种呀？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我对动物可是很博爱的，无论是聪明的大象，还是优雅的孔雀，都一视同仁。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "如果非要选择一种的话，我只能说对鸟类有所偏爱。"
                     }
                 ]
             },
@@ -167,7 +169,7 @@
         ]
     },
     {
-        "indexCode": "cha75b52b0-7334-4a62-9775-1548401eb8a7",
+        "indexCode": "ch39d8e3e3-3435-42df-a509-fae742dee86d",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -254,37 +256,38 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "嘿嘿，你怎么突然问起这个？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "今天看到了科室同事秀恩爱的朋友圈。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "聊天界面的备注是一长串的亲昵称呼。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我就突然想到了你。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "嘿嘿，你怎么突然问起这个？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "今天看到了科室同事秀恩爱的朋友圈。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "聊天界面的备注是一长串的亲昵称呼。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我就突然想到了你。"
                     }
                 ]
             },
@@ -384,7 +387,7 @@
         ]
     },
     {
-        "indexCode": "ch13684b70-168f-4964-81a3-fa8a3b19d5bc",
+        "indexCode": "chee779452-46b0-490e-9e21-96f6555e13ae",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -471,6 +474,42 @@
                 ]
             },
             {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "在那之前，我想先问问你觉得我的缺点是什么？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那可多了。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "比如缺点对我们婚事的热情，缺点对未婚夫的爱意。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "不过后者就算你拥有再多，我也会觉得不够。"
+                    }
+                ]
+            },
+            {
                 "type": "choice",
                 "speaker": "我",
                 "content": [
@@ -545,7 +584,7 @@
         ]
     },
     {
-        "indexCode": "ch270fb183-7376-45d9-8234-e6abab4cdd41",
+        "indexCode": "ch4fba36c1-aba4-4294-a4ba-8e16d1a27021",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -632,30 +671,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "中奖了！虽然只是六等奖。",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "居然中奖了？",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "一定是未婚妻带来的好运气。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "中奖了！虽然只是六等奖。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "居然中奖了？"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "一定是未婚妻带来的好运气。"
                     }
                 ]
             },
@@ -734,7 +775,7 @@
         ]
     },
     {
-        "indexCode": "ch3da06a00-05da-45ec-87f2-2eccae3c0e16",
+        "indexCode": "ch26ae7212-3f82-4ab6-b99e-916309eb31c8",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -814,30 +855,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "对了，我最近睡眠质量不太好，有没有什么办法？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "睡眠质量和很多因素挂钩，具体情况需要具体分析。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "不如说说你最近的状况，或者你觉得可能的原因？",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "对了，我最近睡眠质量不太好，有没有什么办法？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "睡眠质量和很多因素挂钩，具体情况需要具体分析。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "不如说说你最近的状况，或者你觉得可能的原因？"
                     }
                 ]
             },
@@ -958,7 +1001,7 @@
         ]
     },
     {
-        "indexCode": "ch3df1364c-bf46-44a8-9464-050498bc9696",
+        "indexCode": "chf6b0824a-41a5-46b7-af2a-a71be1d2c506",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -1183,7 +1226,7 @@
         ]
     },
     {
-        "indexCode": "ch1bf32925-4bdd-479c-8232-a18200aac6be",
+        "indexCode": "ch4fdda3e5-9914-4e73-9c8e-a1f97d01b537",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -1248,30 +1291,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "恶补小说很容易踩雷，不如我来介绍几个经典模式，看你对哪种更感兴趣。",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "太好了，那就麻烦未婚妻了。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我已经准备好了纸笔，随时洗耳恭听。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "恶补小说很容易踩雷，不如我来介绍几个经典模式，看你对哪种更感兴趣。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "太好了，那就麻烦未婚妻了。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我已经准备好了纸笔，随时洗耳恭听。"
                     }
                 ]
             },
@@ -1350,7 +1395,7 @@
         ]
     },
     {
-        "indexCode": "chf1cc29ae-9b03-49e1-9401-1563749086ee",
+        "indexCode": "chd26f60e5-1309-428d-8111-488b45722a69",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -1451,37 +1496,38 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "原来是这样，没关系，我可以现在模仿你呀！",
-                        "reply": [
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "没有输掉游戏你也愿意模仿？未婚妻，你未免也太宠我了。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "早知道我就应该当面提出这个请求。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "不过没关系，完美的气质也可以通过谈吐展现出来，你模仿一句“查氏名言”也可以。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "原来是这样，没关系，我可以现在模仿你呀！"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "没有输掉游戏你也愿意模仿？未婚妻，你未免也太宠我了。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "早知道我就应该当面提出这个请求。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "不过没关系，完美的气质也可以通过谈吐展现出来，你模仿一句“查氏名言”也可以。"
                     }
                 ]
             },
@@ -1567,7 +1613,7 @@
         ]
     },
     {
-        "indexCode": "chdc96068e-dcf7-442d-b2eb-3690c15b64bb",
+        "indexCode": "cha72368fb-1175-4f2f-a85f-8955fa3a2737",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -1682,51 +1728,51 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "既然如此，语音速速拿来~",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "别着急，马上就来。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "榴莲流奶牛角包，榴莲牛角流奶包，流奶榴莲牛角包，牛角流奶榴莲包。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "收到了喜欢的礼物，就要记得夸夸我。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "下次见面，我要抽查。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "既然如此，语音速速拿来~"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "别着急，马上就来。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "榴莲流奶牛角包，榴莲牛角流奶包，流奶榴莲牛角包，牛角流奶榴莲包。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "收到了喜欢的礼物，就要记得夸夸我。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "下次见面，我要抽查。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "ch4765a651-44ce-4f8f-8c1b-858c7d8448ec",
+        "indexCode": "ch68d59fef-20aa-4264-b9fd-c7b26b1fd89b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -1813,30 +1859,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "恭喜查医生！",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "是你厉害，我的老师。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "多亏有你，完美男人不擅长的事又少了一件。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "恭喜查医生！"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "是你厉害，我的老师。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "多亏有你，完美男人不擅长的事又少了一件。"
                     }
                 ]
             },
@@ -1922,7 +1970,7 @@
         ]
     },
     {
-        "indexCode": "chd5a0e35f-e5a1-4f7d-81de-7f503c9bb7c2",
+        "indexCode": "chda51f174-c79d-4764-a33e-619aea9d244b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2016,30 +2064,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "提前开启蜜月旅程怎么样？反正那份攻略上的景点那么多，一时也逛不完。",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "当然可以！蜜月只是个title，重要的是和你一起的旅程。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "那未婚妻有什么想去的地方？",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "提前开启蜜月旅程怎么样？反正那份攻略上的景点那么多，一时也逛不完。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "当然可以！蜜月只是个title，重要的是和你一起的旅程。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那未婚妻有什么想去的地方？"
                     }
                 ]
             },
@@ -2118,7 +2168,7 @@
         ]
     },
     {
-        "indexCode": "chf8d85829-f015-4b37-b536-7b078aac90ca",
+        "indexCode": "ch252df23e-d88b-4d7d-8274-b09e8f177a4c",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2205,30 +2255,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "抱歉，昨天下班前被拉去开一个紧急会议，让你在公司楼下等了那么久。",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "等未婚妻下班是天经地义的事，不用放在心上。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我谴责的是这种临时开会，不懂得提前预约时间的行为。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "抱歉，昨天下班前被拉去开一个紧急会议，让你在公司楼下等了那么久。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "等未婚妻下班是天经地义的事，不用放在心上。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我谴责的是这种临时开会，不懂得提前预约时间的行为。"
                     }
                 ]
             },
@@ -2307,7 +2359,7 @@
         ]
     },
     {
-        "indexCode": "ch4abce701-0c0c-4c1e-9daf-f8100ad05fc2",
+        "indexCode": "chebd6cf4c-f73f-494a-b913-825230979821",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2466,37 +2518,39 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "这也太厉害了吧，我一定会好好品尝的！",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "没问题，希望这些小零食为未婚妻的生活增添一些小小的乐趣。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "至于更大的惊喜，还是交给我本人。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "这也太厉害了吧，我一定会好好品尝的！"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "没问题，希望这些小零食为未婚妻的生活增添一些小小的乐趣。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "至于更大的惊喜，还是交给我本人。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "ch3e97febc-4ffe-41e9-8127-ef4ef952008c",
+        "indexCode": "chbba767bf-f759-47fc-ba5e-a5bc506aad98",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2604,37 +2658,38 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "知道啦～对了，今天忘了问你，怎么突然想到带我去体验末日VR了？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "上次的真心话大冒险让我发现末日主题也是个绝妙的婚礼企划idea，或许能成为我们婚礼的备选方案之一。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "虽然我已经有了初步构想，但还是要听听你的看法。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "怎么样，今天体验下来，有没有什么印象深刻的场景？",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "知道啦～对了，今天忘了问你，怎么突然想到带我去体验末日VR了？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "上次的真心话大冒险让我发现末日主题也是个绝妙的婚礼企划idea，或许能成为我们婚礼的备选方案之一。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "虽然我已经有了初步构想，但还是要听听你的看法。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "怎么样，今天体验下来，有没有什么印象深刻的场景？"
                     }
                 ]
             },
@@ -2713,7 +2768,7 @@
         ]
     },
     {
-        "indexCode": "ch17bbd370-68a1-435c-be33-73d11dfb32cd",
+        "indexCode": "che162483c-1e23-4284-884e-83f17f9c7a54",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2741,7 +2796,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包恭喜发财.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/恭喜发财.png"
                     },
                     {
                         "ifVoice": false,
@@ -2765,7 +2820,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包恭喜发财.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/恭喜发财.png"
                     },
                     {
                         "ifVoice": false,
@@ -2818,13 +2873,6 @@
                 ]
             },
             {
-                "type": "choice",
-                "speaker": "我",
-                "content": [
-                    {}
-                ]
-            },
-            {
                 "type": "nomarl",
                 "speaker": "查理苏",
                 "content": [
@@ -2845,7 +2893,7 @@
         ]
     },
     {
-        "indexCode": "ch607187eb-1017-4d5f-a0b6-6a5759cdd1d4",
+        "indexCode": "che6fd5467-6260-41eb-8778-5e9a0411521b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -2857,13 +2905,6 @@
                         "ifImg": false,
                         "contentText": "查理苏，你有什么削苹果的秘诀吗？我连续试了好几天，苹果皮中间总是断掉，完全比不上周末你给我削的那只。"
                     }
-                ]
-            },
-            {
-                "type": "choice",
-                "speaker": "我",
-                "content": [
-                    {}
                 ]
             },
             {
@@ -3116,7 +3157,7 @@
         ]
     },
     {
-        "indexCode": "chafb6f1cf-3a99-4605-89f0-9a8b95dbc659",
+        "indexCode": "ch0788d038-21f0-40e6-870e-df00410eab99",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3129,7 +3170,7 @@
                         "call": {
                             "title": "2022觅甜工坊 甜品大师",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=19&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v18f256db-ab1e-41f6-a61f-ed5793e6a804"
+                            "callCode": "v4c344a41-1cf1-4af1-82b3-5a33ab05ecfe"
                         }
                     }
                 ]
@@ -3137,7 +3178,7 @@
         ]
     },
     {
-        "indexCode": "ch641d4008-aa04-45b4-958a-12fb544a8212",
+        "indexCode": "ch4ea781d0-1e96-4386-82b8-ad580a204831",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3171,7 +3212,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包我中奖啦.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/我中奖啦.png"
                     }
                 ]
             },
@@ -3342,7 +3383,7 @@
         ]
     },
     {
-        "indexCode": "ch7e6050c5-d0bd-48f9-8488-02a0c48d8312",
+        "indexCode": "chc3d9fb03-6405-4823-95df-8aaaebb2dbf5",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3569,7 +3610,7 @@
         ]
     },
     {
-        "indexCode": "ch43315b98-f387-4f1e-8094-c90dc7b752d7",
+        "indexCode": "ch56d377fe-f31d-44bf-aa01-c1c14f94df55",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3654,7 +3695,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包给最亲爱的你.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/给最爱的你.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -3690,7 +3731,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包给最亲爱的你.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/给最爱的你.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -3829,7 +3870,7 @@
         ]
     },
     {
-        "indexCode": "chf6569391-f03a-4a87-b291-dc9a15598062",
+        "indexCode": "chf490a287-0339-42e5-9393-4da89640b3ff",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3842,7 +3883,7 @@
                         "call": {
                             "title": "2021查理苏生日 坦率相待",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=7&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vf6259ae9-4f72-4d3d-a112-acc242ddc7c5"
+                            "callCode": "v2d716cb5-d120-450b-a653-85efdaee6936"
                         }
                     }
                 ]
@@ -3850,7 +3891,7 @@
         ]
     },
     {
-        "indexCode": "chc924f26b-cf47-4c6d-b033-f2d159c48e0a",
+        "indexCode": "ch2ca71656-4f46-4634-97db-688ddcb65936",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -3918,7 +3959,7 @@
                         "call": {
                             "title": "2022元宵 寻宝游戏",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=18&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v2686e4ff-a1af-47f6-9ea1-6a53f782849f"
+                            "callCode": "v849ac235-8cbd-4be8-89b9-88dde0969b6b"
                         }
                     }
                 ]
@@ -3926,7 +3967,7 @@
         ]
     },
     {
-        "indexCode": "ch5ff219c8-4c41-4d38-9add-197e540e5d02",
+        "indexCode": "cha2695be3-99c5-48c8-bbad-812eed340de4",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4151,7 +4192,7 @@
         ]
     },
     {
-        "indexCode": "ch3777c487-a2e5-4e8b-915e-04e386789ba0",
+        "indexCode": "ch128823ce-11c5-4a01-9cc9-c550c8d2b182",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4390,7 +4431,7 @@
         ]
     },
     {
-        "indexCode": "chb57b9728-e02a-450f-a42d-eeea0fdc27ef",
+        "indexCode": "ch98d4ef01-7477-4263-8bd0-8b46b5bddce9",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4400,7 +4441,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包迎财神.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/迎财神.png"
                     }
                 ]
             },
@@ -4455,30 +4496,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包传递财气.png",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "互送红包，这是未婚妻也把财气给我了？",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "那我可要好好收起来。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/传递财气.png"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "互送红包，这是未婚妻也把财气给我了？"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那我可要好好收起来。"
                     }
                 ]
             },
@@ -4606,7 +4649,7 @@
         ]
     },
     {
-        "indexCode": "ch4d8efa9d-bdaa-49fe-83fb-22ebdee94057",
+        "indexCode": "ch0014aa8d-5060-49a9-a079-4f1cd1d85078",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4648,7 +4691,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包未婚妻除夕快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/未婚妻除夕快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -4677,7 +4720,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包未婚妻除夕快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/未婚妻除夕快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -4792,44 +4835,45 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "差点忘了，还好你提醒我了。马上零点了，祝我们人美心善的查医生春节快乐！",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "比起“我们”，我更希望听到的是“我的”。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "春节快乐，我的未婚妻。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "对你的爱恒久不变。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "差点忘了，还好你提醒我了。马上零点了，祝我们人美心善的查医生春节快乐！"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "比起“我们”，我更希望听到的是“我的”。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "春节快乐，我的未婚妻。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "对你的爱恒久不变。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "ch49fc083f-a5d8-4a1c-a75d-5d31a06e37de",
+        "indexCode": "ch42cb7119-c103-4b59-9081-3b24556dd628",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4872,7 +4916,7 @@
                         "call": {
                             "title": "2022五月二十日 神秘代码",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=22&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vb4b3e3e2-b905-43c2-994a-ca842873ff5f"
+                            "callCode": "vef2bdbb2-df68-41c4-b60b-97757c7f3a7f"
                         }
                     }
                 ]
@@ -4880,7 +4924,7 @@
         ]
     },
     {
-        "indexCode": "chd64560d4-06b5-424d-993f-43c2da02dbf1",
+        "indexCode": "chc1b9cefd-33e5-4e79-af60-4dc3001d9eed",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4941,7 +4985,7 @@
                         "call": {
                             "title": "2023元宵节 落跑计划",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=34&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v2623d7a7-a79a-4faf-a3da-846f175175f3"
+                            "callCode": "v39e3605e-4275-4dd1-95b6-d349fbac686e"
                         }
                     }
                 ]
@@ -4949,7 +4993,7 @@
         ]
     },
     {
-        "indexCode": "ch881e2ecb-e6fa-4816-a0cc-a3831d72f538",
+        "indexCode": "ch054722cd-e2e5-46fd-9b14-5ba1e8599d3f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -4959,7 +5003,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包在忙吗.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/在忙吗.png"
                     }
                 ]
             },
@@ -5053,7 +5097,7 @@
                         "call": {
                             "title": "2021中秋 月圆礼盒",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=12&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vbc57f6b2-44cc-42f1-b1cb-8c1a0f2d6888"
+                            "callCode": "vdfb54370-0b72-49e1-a326-0b0b0c6a8e36"
                         }
                     }
                 ]
@@ -5152,30 +5196,33 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "哪里听到了？我记得没说过欸......",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我听到你心里这么说。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "哪里听到了？我记得没说过欸......"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我听到你心里这么说。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "ch7aa116ca-db54-4e89-841a-083af89702fb",
+        "indexCode": "chbcb37f00-99be-49ce-99ae-b2579b76714a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -5406,7 +5453,7 @@
         ]
     },
     {
-        "indexCode": "che12ccb88-fe15-483b-ba38-7ab5b804f235",
+        "indexCode": "ch6645df50-2201-447e-9cd3-94e6c7d9db32",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -5416,7 +5463,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包亲爱的未婚妻.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/亲爱的未婚妻.png"
                     }
                 ]
             },
@@ -5594,7 +5641,70 @@
         ]
     },
     {
-        "indexCode": "ch250ad1c2-85b0-4c46-aecb-31a9b0eed129",
+        "indexCode": "ch7af5c364-ab86-451a-9f30-52eaf0b7ed7b",
+        "chatHistory": [
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "这是我们的第二个新年，未婚妻。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "我",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "Charlie先生打算怎么度过这个跨年夜？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "正在考虑"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": true,
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/祝福我的未婚妻.png"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "遇事不决，先给未婚妻发个红包。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": true,
+                        "ifImg": false,
+                        "call": {
+                            "title": "2022跨年 依旧热气球",
+                            "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=32&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
+                            "callCode": "vc8b3fad8-5758-48f0-9a65-90bf74d4e720"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "indexCode": "chb57f8a1d-6201-4113-af79-6a888d4a35bb",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -5607,7 +5717,7 @@
                         "call": {
                             "title": "2022查理苏生日 心有灵犀",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=26&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vc58aa05a-fa79-4b8b-a87f-0369ad83fc03"
+                            "callCode": "va774efcb-1a74-42ce-a80a-fc4d7a8203a6"
                         }
                     }
                 ]
@@ -5615,7 +5725,7 @@
         ]
     },
     {
-        "indexCode": "ch95be7301-9856-4c55-b4db-b5c68522db99",
+        "indexCode": "ch610a3704-5064-4d0d-9bad-b191455c4a7f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -5847,7 +5957,7 @@
         ]
     },
     {
-        "indexCode": "ch5a55208b-7728-4b86-bb6c-5cf5f227230a",
+        "indexCode": "chb6d82640-ceb6-4dcc-9cb8-909cf2e1812d",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -5881,7 +5991,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包再猜猜看.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/再猜猜看！.png"
                     }
                 ]
             },
@@ -6069,7 +6179,7 @@
         ]
     },
     {
-        "indexCode": "ch46e18379-74ad-4d3d-af0a-e8a4ae214a77",
+        "indexCode": "ch6039e9dc-9942-47b8-af78-48fca1254175",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -6084,23 +6194,26 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "我回来了 !你发我的这是什么 ?",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "电子邀请函。今晚豪室酒店观景平台，庆祝你的回归。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "我回来了 !你发我的这是什么 ?"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "电子邀请函。今晚豪室酒店观景平台，庆祝你的回归。"
                     }
                 ]
             },
@@ -6290,49 +6403,30 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "不会有第三次了。以后请多指教。",
+                        "contentText": "对不起，让你等了这么久。以后我会好好疼你的~",
                         "reply": [
                             {
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": false,
-                                "contentText": "请多指教?听起来像是新婚夫妻会说的话了。",
+                                "contentText": "是不是搞错了什么?需要被疼的人是你。",
                                 "replySpeaker": "查理苏"
                             },
                             {
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": false,
-                                "contentText": "看来你确实成长了不少，对自己的社会角色也有了更清晰的认识。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "相信我，这个优点会为你带来数不尽的快乐。",
+                                "contentText": "你要做的事，就是接受我完美的一切，并享受它。",
                                 "replySpeaker": "查理苏"
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "type": "nomarl",
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
-                        "contentText": "你要做的事，就是接受我完美的一切，并享受它。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "chafd6704e-0e30-4ed2-b9e3-26c166b94c4c",
+        "indexCode": "ch2442638a-8c9f-46f6-b7e5-8981f218ea37",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -6374,7 +6468,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包周年快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/周年快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -6403,7 +6497,7 @@
                                 "ifVoice": false,
                                 "ifCall": false,
                                 "ifImg": true,
-                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包周年快乐.png",
+                                "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/周年快乐.png",
                                 "replySpeaker": "查理苏"
                             }
                         ]
@@ -6411,30 +6505,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "“周年快乐”——所以你遇见的东西和今天有关，难道是我们之前遇见过的？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "与我们的相遇有关，也与我们的未来有关。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我遇见了一支不错的街头乐队，然后有了个绝妙的想法。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "“周年快乐”——所以你遇见的东西和今天有关，难道是我们之前遇见过的？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "与我们的相遇有关，也与我们的未来有关。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我遇见了一支不错的街头乐队，然后有了个绝妙的想法。"
                     }
                 ]
             },
@@ -6562,7 +6658,7 @@
         ]
     },
     {
-        "indexCode": "che2f3d744-f85c-4052-9194-15f25ef68a98",
+        "indexCode": "chaab6bfe8-9150-4d35-a6a7-28c68a61c22d",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -6575,7 +6671,7 @@
                         "call": {
                             "title": "2021未婚妻生日 查理苏的生日祝福",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=5&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vb5d2d8ea-78ba-4030-9fda-301c2588685e"
+                            "callCode": "ve77ef16a-2888-4794-81f1-e46ad39d4fee"
                         }
                     }
                 ]
@@ -6583,7 +6679,7 @@
         ]
     },
     {
-        "indexCode": "ch6fcea9b4-dbec-454e-8731-dd896522a7d1",
+        "indexCode": "ch7e9f87be-b782-46e7-843a-31f62e9194a2",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -6836,7 +6932,7 @@
         ]
     },
     {
-        "indexCode": "ch3bb83ffb-b47d-4838-9b72-177ce0f87f37",
+        "indexCode": "chf83c1afc-5291-4d24-b1dd-50060e603065",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -6870,7 +6966,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包查医生辛苦了.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/查医生辛苦了.png"
                     }
                 ]
             },
@@ -7074,7 +7170,7 @@
         ]
     },
     {
-        "indexCode": "ch74101982-9652-4452-95e5-a5afd02ac92d",
+        "indexCode": "ch5471ced5-8731-44f5-88c5-f0cb7e55b817",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -7291,7 +7387,7 @@
         ]
     },
     {
-        "indexCode": "ch3c078c62-abe2-44d6-8fd7-dea2a76c2d55",
+        "indexCode": "ch4c4dd508-cefb-43b6-b33e-20da14698f79",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -7525,7 +7621,7 @@
         ]
     },
     {
-        "indexCode": "ch2571a994-68bb-4069-a42b-741a6335cbe0",
+        "indexCode": "chf936811e-98ee-429d-8012-afbe94d3019f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -7556,7 +7652,7 @@
                         "call": {
                             "title": "2022元旦 喜从天降",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=16&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vb257b233-6c63-432d-be03-7f409871d943"
+                            "callCode": "v9b899f3e-81e8-4e46-bfaa-aebd22b5296d"
                         }
                     }
                 ]
@@ -7569,7 +7665,7 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/红包模范未婚妻的红包.png"
+                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/模范未婚妻的红包.png"
                     }
                 ]
             },
@@ -7618,7 +7714,7 @@
         ]
     },
     {
-        "indexCode": "ch5eceb2b9-a212-4de9-a96c-aab4a8d9b1f1",
+        "indexCode": "chf1fbe90c-d804-4257-b037-50ab3472d758",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -7631,7 +7727,7 @@
                         "call": {
                             "title": "2022七夕 固定节目",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=28&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v757aaae4-4be8-4162-9c5c-cee7d7ffe70d"
+                            "callCode": "vabf5ee00-3796-4cda-8985-0b65ca767ebd"
                         }
                     }
                 ]
@@ -7639,7 +7735,7 @@
         ]
     },
     {
-        "indexCode": "ch248bd418-01ec-4ae0-933d-46658bec5eec",
+        "indexCode": "chba58b25b-8895-4d9b-9f5e-67314460d5da",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -7910,7 +8006,7 @@
         ]
     },
     {
-        "indexCode": "ch6c42ae65-7516-46dc-a1a1-b3df1b344dec",
+        "indexCode": "ch76e2da68-5525-4bad-afe0-b1d6baba3852",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -8206,7 +8302,7 @@
         ]
     },
     {
-        "indexCode": "ch1473b0c6-a305-4f6b-8632-353711c522cd",
+        "indexCode": "ch3e35516d-effd-49ae-9559-84afbc59a4d6",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -8451,7 +8547,7 @@
         ]
     },
     {
-        "indexCode": "chae62c545-2f63-4576-882e-6b255290de81",
+        "indexCode": "ch7827a675-361a-48b3-8160-ae1489a37dbe",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -8685,7 +8781,7 @@
         ]
     },
     {
-        "indexCode": "ch7468e505-b4c5-4871-8703-b1c5e0755179",
+        "indexCode": "ch2eb071c5-82f6-4c3e-b9d8-e04040cde6a2",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -8938,7 +9034,7 @@
         ]
     },
     {
-        "indexCode": "ch18244725-502c-4aa9-b5ac-eb7541666ccb",
+        "indexCode": "cheaa77b89-b73d-42e5-92c0-a40acb91ae7f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -9209,7 +9305,7 @@
         ]
     },
     {
-        "indexCode": "ch9871a693-1b7d-4071-9e34-99cd79f4e5f2",
+        "indexCode": "ch31543240-2ef0-40dd-b230-b8956a729e17",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -9477,7 +9573,7 @@
         ]
     },
     {
-        "indexCode": "ch61ffa9de-b2bd-43f7-9115-9c50ea1e23d3",
+        "indexCode": "ch4702b766-b912-41d6-b7b7-4ae52b537c19",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -9718,7 +9814,7 @@
         ]
     },
     {
-        "indexCode": "chb1029602-5fdd-4ae5-9f2a-e51f3e6ef136",
+        "indexCode": "ch15044262-edb3-4326-9cb4-bfa26e749ec7",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -9883,7 +9979,7 @@
         ]
     },
     {
-        "indexCode": "chc8c3f3ab-0133-4b09-8f00-f3e19dc7ca62",
+        "indexCode": "chacecec5e-221e-4973-85ae-30306c7292af",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -10136,7 +10232,7 @@
         ]
     },
     {
-        "indexCode": "chbdb8f2e0-f528-4805-ad1a-4fc6d348d7dd",
+        "indexCode": "chf09d5423-44d8-4e9f-8a34-4f74f5c70f6b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -10167,7 +10263,7 @@
                         "call": {
                             "title": "2021.10 新闻报道",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v492e3b95-e8b4-4c4e-a617-29f59e822b09"
+                            "callCode": "vf5d4b92d-5f73-4c17-9b76-590bd152f977"
                         }
                     }
                 ]
@@ -10175,7 +10271,7 @@
         ]
     },
     {
-        "indexCode": "ch2751c371-fe94-4bd6-aed7-c34d7b9fefc2",
+        "indexCode": "ch75f3171b-b36d-4214-a322-d24c90c70c9f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -10416,7 +10512,7 @@
         ]
     },
     {
-        "indexCode": "ch02314194-39e7-4975-9eb7-742daf31ebc8",
+        "indexCode": "chd9e85e54-4424-473e-8445-5ec9fbac8b98",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -10679,7 +10775,7 @@
         ]
     },
     {
-        "indexCode": "ch1f983047-750b-4239-a6c2-7aad40c23d06",
+        "indexCode": "ch3d0e6583-dbe3-4145-9fd1-9f552acc97b3",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -10912,7 +11008,7 @@
         ]
     },
     {
-        "indexCode": "ch1381ea69-2843-41a9-a1bb-6b50f18754c8",
+        "indexCode": "chdeedfe5e-d6fe-47b1-832e-c1312860b97f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11190,7 +11286,7 @@
         ]
     },
     {
-        "indexCode": "ch0283aff2-24bb-40cc-aefb-9256dbb73c68",
+        "indexCode": "chaf1d0715-aca7-4078-bf3e-125872b10868",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11203,7 +11299,7 @@
                         "call": {
                             "title": "主线第四章 古怪来电",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=4&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vd22b7d35-ffbc-4a49-8ef1-868c214de362"
+                            "callCode": "va75bfe97-29b7-44be-bafe-1145b9a3cae2"
                         }
                     }
                 ]
@@ -11211,7 +11307,7 @@
         ]
     },
     {
-        "indexCode": "cha5590e02-ab21-4da3-b729-076e7097b6c3",
+        "indexCode": "cheee54421-9e8b-4ccc-acea-4c5610cf6e13",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11387,7 +11483,7 @@
         ]
     },
     {
-        "indexCode": "che84e81d5-15c6-4004-aad7-08c8ea0bcdc7",
+        "indexCode": "chf7c0f9d7-5607-41a3-aaff-0e7ce7c5e817",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11418,7 +11514,7 @@
                         "call": {
                             "title": "主线第九章 予你新家",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=10&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "v22d1e1ba-d81f-45f3-bdb8-f17e689345d9"
+                            "callCode": "v35aae819-e204-40d0-ad45-fda50bd68278"
                         }
                     }
                 ]
@@ -11426,7 +11522,7 @@
         ]
     },
     {
-        "indexCode": "ch616a6f37-e9a9-481b-a746-7a0e8e107b13",
+        "indexCode": "ch6d9417a4-db36-44b3-a156-1fb766b4642a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11439,7 +11535,7 @@
                         "call": {
                             "title": "主线第十六章 未知来电",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=37&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v05f6fbe3-debb-430c-9ce3-45d02e9d0b51"
+                            "callCode": "v9b857e22-a559-4acb-bbdd-d3c30bf88e0f"
                         }
                     }
                 ]
@@ -11447,7 +11543,7 @@
         ]
     },
     {
-        "indexCode": "ch32d3bc1e-0293-412e-8801-ab74f36a337a",
+        "indexCode": "ch3f15394a-7b9a-4173-9bbc-b8cfba530b14",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11691,7 +11787,7 @@
         ]
     },
     {
-        "indexCode": "ch7656b10b-0b6c-4d38-821a-33acec348ec5",
+        "indexCode": "chce876660-58f7-4766-856f-f1c3398e1385",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11704,7 +11800,7 @@
                         "call": {
                             "title": "第三章 情寄此证",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=24&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vc412b229-1ca3-444f-8d51-2c0f00797560"
+                            "callCode": "v6cce180f-4ea7-4323-a28f-c8936dfbbc8c"
                         }
                     }
                 ]
@@ -11712,7 +11808,7 @@
         ]
     },
     {
-        "indexCode": "cha58e6c1d-482b-44cc-ae06-1af390221a88",
+        "indexCode": "ch7cb51599-b29b-4d4c-8072-004c570fd1fc",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -11725,7 +11821,7 @@
                         "call": {
                             "title": "第二章 深夜便利店",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=15&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v271f2573-da42-48c4-9532-1068f6c613cf"
+                            "callCode": "v6fc46640-872c-4997-97c8-9a2c5f64c5b9"
                         }
                     }
                 ]
@@ -11733,7 +11829,7 @@
         ]
     },
     {
-        "indexCode": "ch7be301d2-5d62-4bdc-b58c-4cf96f62ed77",
+        "indexCode": "ch03dbe0af-7ee5-42c8-a064-e0493ee094db",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -12015,7 +12111,7 @@
         ]
     },
     {
-        "indexCode": "ch84ee2e02-c16b-46da-a81c-57dfac3f1715",
+        "indexCode": "ch43dbb991-ef84-46a2-83bb-35837661e7ce",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -12290,7 +12386,7 @@
         ]
     },
     {
-        "indexCode": "cha608d248-fde6-49d8-820a-73ae17c81047",
+        "indexCode": "ch548671c0-dd83-4d67-8824-e13fb9d95a2e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -12309,7 +12405,7 @@
                         "call": {
                             "title": "第一章 祝你好眠",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=6&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "vfacff7c8-c939-449e-895f-d9bd2b7c2083"
+                            "callCode": "v97a6503b-65a5-46f8-878c-61e0a1f45b4b"
                         }
                     }
                 ]
@@ -12317,7 +12413,7 @@
         ]
     },
     {
-        "indexCode": "ch3d1f8f9a-bfe0-447c-8e0d-921105210d20",
+        "indexCode": "ch4b083c93-25f2-402a-9a25-49738222770e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -12490,37 +12586,38 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "查医生费心啦，我好喜欢这种交换午餐的形式，终于不用纠结每天吃什么了，还让我对午饭多了一份期待！",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "就知道你会喜欢这种形式。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "当然，能进行得这么顺利，还是因为我们对彼此的口味足够了解。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "对了，你对明天的午饭有什么想法？让我参考一下。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "查医生费心啦，我好喜欢这种交换午餐的形式，终于不用纠结每天吃什么了，还让我对午饭多了一份期待！"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "就知道你会喜欢这种形式。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "当然，能进行得这么顺利，还是因为我们对彼此的口味足够了解。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "对了，你对明天的午饭有什么想法？让我参考一下。"
                     }
                 ]
             },
@@ -12577,70 +12674,7 @@
         ]
     },
     {
-        "indexCode": "chbae58cfd-1323-443d-9296-714783fd3bb8",
-        "chatHistory": [
-            {
-                "type": "nomarl",
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
-                        "contentText": "这是我们的第二个新年，未婚妻。"
-                    }
-                ]
-            },
-            {
-                "type": "nomarl",
-                "speaker": "我",
-                "content": [
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
-                        "contentText": "Charlie先生打算怎么度过这个跨年夜？"
-                    }
-                ]
-            },
-            {
-                "type": "nomarl",
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
-                        "contentText": "正在考虑"
-                    },
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": true,
-                        "imgPath": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/chat-history/1红包-由查发出.png"
-                    },
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
-                        "contentText": "遇事不决，先给未婚妻发个红包。"
-                    },
-                    {
-                        "ifVoice": false,
-                        "ifCall": true,
-                        "ifImg": false,
-                        "call": {
-                            "title": "六星奢梦 依旧热气球",
-                            "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=32&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "va21a4e95-b381-491e-96f9-762adb298e33"
-                        }
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "indexCode": "ch25b7fa18-4903-4063-87cd-b24eebc8990f",
+        "indexCode": "chae50f40f-2fec-45c1-bea1-a46603ff332f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -12922,7 +12956,7 @@
         ]
     },
     {
-        "indexCode": "ch958a79b6-5eea-42f2-b406-f9ae5021541e",
+        "indexCode": "ch8400f49c-dcae-45f8-9912-163789258b40",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -13190,7 +13224,7 @@
         ]
     },
     {
-        "indexCode": "chdeac5a64-b078-4419-aef6-8ad032b71007",
+        "indexCode": "ch484d4418-3ca2-459c-833f-9984b816b739",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -13500,7 +13534,7 @@
         ]
     },
     {
-        "indexCode": "ch6f309edd-2911-412a-a5ec-bfe7c68716a6",
+        "indexCode": "chd2a61110-529b-4034-888f-b2aa795eeaaa",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -13513,7 +13547,7 @@
                         "call": {
                             "title": "六星奢梦 保龄球比赛",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=35&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "ve9adfbe2-a75a-474f-93c2-c891ad748844"
+                            "callCode": "v90513a55-859f-4628-864a-2260c34217f9"
                         }
                     }
                 ]
@@ -13521,7 +13555,7 @@
         ]
     },
     {
-        "indexCode": "ch7616c731-2f3a-47d5-8402-e3d2306683a1",
+        "indexCode": "ch327fefab-a1ee-442a-bd85-0a8ee3e1bcf1",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -13867,7 +13901,7 @@
         ]
     },
     {
-        "indexCode": "ch7c1e9c1f-1fec-42a1-8862-9aef5f42f703",
+        "indexCode": "ch14aaaf9d-f07c-4968-92ce-f3b7a2a00151",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14074,7 +14108,7 @@
         ]
     },
     {
-        "indexCode": "cha8e70e90-a555-4356-b3d2-5799c74f7107",
+        "indexCode": "chb49a5aa6-f1fd-41cf-8724-1ed0214fe933",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14087,7 +14121,7 @@
                         "call": {
                             "title": "六星夜幕缭绕 儿科医生",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=21&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v56914884-2522-44b3-b46d-178fdc8fc0bd"
+                            "callCode": "v5b8ffc24-c438-46b7-90fe-90063ffc2618"
                         }
                     }
                 ]
@@ -14095,7 +14129,7 @@
         ]
     },
     {
-        "indexCode": "ch5073b18b-fdc7-4c71-a3a8-517ce8ee8131",
+        "indexCode": "ch2f369aff-233e-4620-8f47-a75573bf5079",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14372,7 +14406,7 @@
         ]
     },
     {
-        "indexCode": "ch5aa5b519-3d20-4506-83c8-1c59878c1423",
+        "indexCode": "che809527b-50cb-4f91-9afd-cf68d87b0c77",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14385,7 +14419,7 @@
                         "call": {
                             "title": "六星致神谕 珍珠鸟",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=25&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "ved932e02-d336-4169-a01f-0a2361bcfac0"
+                            "callCode": "v97ddc1e0-db09-49aa-afd0-b3b52ac8655b"
                         }
                     }
                 ]
@@ -14393,7 +14427,7 @@
         ]
     },
     {
-        "indexCode": "ch5406221b-4d9e-413a-8bd7-d3729940325b",
+        "indexCode": "ch74558ceb-ed99-47b4-93fe-d2976fe131a5",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14632,7 +14666,7 @@
         ]
     },
     {
-        "indexCode": "ch024c9153-a7df-4333-9cce-e031bc234004",
+        "indexCode": "ch25cec7bd-b841-4792-a598-e0b323d7db04",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -14921,7 +14955,7 @@
         ]
     },
     {
-        "indexCode": "chcff52c0f-8ec4-43fa-894d-d7c0e3dafa28",
+        "indexCode": "chb04efb58-9b08-4a93-9b12-45dd42a47572",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15216,7 +15250,7 @@
         ]
     },
     {
-        "indexCode": "chb45d174d-33b2-4a83-a873-0b7fde18fe53",
+        "indexCode": "ch1614089b-a6fa-4475-b11e-a01d7e3594b3",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15448,7 +15482,7 @@
         ]
     },
     {
-        "indexCode": "ch6f78c6db-9ecf-4d63-8568-994571ffc870",
+        "indexCode": "ch9b24753d-1cc7-42d3-bb41-b8503c4924b8",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15461,7 +15495,7 @@
                         "call": {
                             "title": "六星狮心掠城 羽绒服",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=31&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "v3538a3cb-39d9-40bd-af00-b249934ef3df"
+                            "callCode": "vded9ba00-26c3-451b-b232-eebb70203f7a"
                         }
                     }
                 ]
@@ -15469,7 +15503,7 @@
         ]
     },
     {
-        "indexCode": "ch6a2f0b1c-c94a-40bd-b5c3-4b72f298474c",
+        "indexCode": "cha14c0644-c392-4635-a5dc-840a7b860736",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15730,7 +15764,7 @@
         ]
     },
     {
-        "indexCode": "ch7705d387-7c28-4232-b9eb-10bbe5963b9d",
+        "indexCode": "ch21411941-de06-4e05-b11f-37cdc6a2863b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15761,7 +15795,7 @@
                         "call": {
                             "title": "六星蝴蝶效应 最佳反派",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=17&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "ve592e98e-831d-4256-8d22-3cef84696776"
+                            "callCode": "v31bee1d5-13ab-4043-953b-5dc532aa00c0"
                         }
                     }
                 ]
@@ -15769,7 +15803,7 @@
         ]
     },
     {
-        "indexCode": "ch4097a5d4-4605-45bd-bf47-5dfc2da964d7",
+        "indexCode": "che8f7cc82-f916-4da6-8540-a74c10b7960b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -15782,7 +15816,7 @@
                         "call": {
                             "title": "六星仲夏鎏金 好医生",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=8&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vafb98bfe-98c8-4b6b-8bca-41289205afe3"
+                            "callCode": "v4f701d84-3a29-4b89-b8b3-49f78507776e"
                         }
                     }
                 ]
@@ -15790,7 +15824,7 @@
         ]
     },
     {
-        "indexCode": "ch4147f886-6669-4d22-85f5-7945f45a079d",
+        "indexCode": "ch88ebdb50-75b5-4d47-bddd-882902fb5bdd",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -16093,7 +16127,7 @@
         ]
     },
     {
-        "indexCode": "ch99057fcb-ade6-4e39-90e0-08606618f618",
+        "indexCode": "ch8571d180-6c1d-4676-a361-471f44b39b3e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -16108,44 +16142,44 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "发生什么事情了？",
-                        "reply": [
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "电路故障引发了火灾，丈夫为了保护妻子大面积烧伤。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "丈夫伤势很重，送来医院的时候意识已经模糊，情况非常危险，我们都以为要救不回来。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": " 而他妻子头部受伤，出现了暂时性失忆，关于事故的一切都不记得，但看到丈夫时却喊出了他的名字。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "那之后的抢救过程中，他的妻子一直叫着他的名宇，最后他真的醒过来了。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "发生什么事情了？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "电路故障引发了火灾，丈夫为了保护妻子大面积烧伤。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "丈夫伤势很重，送来医院的时候意识已经模糊，情况非常危险，我们都以为要救不回来。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": " 而他妻子头部受伤，出现了暂时性失忆，关于事故的一切都不记得，但看到丈夫时却喊出了他的名字。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "那之后的抢救过程中，他的妻子一直叫着他的名宇，最后他真的醒过来了。"
                     }
                 ]
             },
@@ -16267,7 +16301,7 @@
         ]
     },
     {
-        "indexCode": "chc532b956-b147-4a27-9f62-06bdb41f3840",
+        "indexCode": "ch7769431b-f077-45f8-9478-2bca197824c3",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -16425,23 +16459,26 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "咳，先不说这个啦，你的爱情语言又是什么呢？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "未婚妻应该很了解我，你来猜猜？",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "咳，先不说这个啦，你的爱情语言又是什么呢？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "未婚妻应该很了解我，你来猜猜？"
                     }
                 ]
             },
@@ -16520,7 +16557,7 @@
         ]
     },
     {
-        "indexCode": "ch935d2576-6b7f-4762-821d-90abe21b2df2",
+        "indexCode": "ch623bd8df-324d-40d6-a565-1491f1c43f11",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -16787,7 +16824,7 @@
         ]
     },
     {
-        "indexCode": "ch3586ca12-a365-49c7-a5ab-7e40f03d0e21",
+        "indexCode": "chb711b45d-7d99-4e12-bc7e-612a13da4d07",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17023,7 +17060,7 @@
         ]
     },
     {
-        "indexCode": "chf3a572c4-33d0-4bb5-995e-9c5e9cd79e26",
+        "indexCode": "chd884be6f-ee14-4b51-a4d8-75b7c65a6a36",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17036,7 +17073,7 @@
                         "call": {
                             "title": "六星我心降落 20个问题",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=11&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v65b80bb5-05f9-4b9b-9199-ef7a8d581c15"
+                            "callCode": "v71f510e7-9288-4313-a62c-8547209fbc10"
                         }
                     }
                 ]
@@ -17044,7 +17081,7 @@
         ]
     },
     {
-        "indexCode": "chc32260c3-8c59-4278-a0cf-3bdf11923814",
+        "indexCode": "ch48f63314-f38b-4e8a-9a01-4789c90de962",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17270,7 +17307,7 @@
         ]
     },
     {
-        "indexCode": "chb0e3ebd2-84b9-4403-8930-872be8312f1b",
+        "indexCode": "ch5ec231c4-49e4-4ff1-9567-d7eafa8493d0",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17289,7 +17326,7 @@
                         "call": {
                             "title": "六星向心引力 生理现象",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=14&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v90bc5d7e-8c92-45b4-9115-ed3fa7c1f347"
+                            "callCode": "v64ae0b07-fac6-4169-94e2-c2d1926a8177"
                         }
                     }
                 ]
@@ -17297,7 +17334,7 @@
         ]
     },
     {
-        "indexCode": "ch88c73b04-bb0f-4e8e-9df3-e7d7400e1303",
+        "indexCode": "chfe2a9982-71fd-4e23-ba10-ac897c0d117a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17515,7 +17552,7 @@
         ]
     },
     {
-        "indexCode": "chf3e4f43b-8c25-48ae-8732-a677896cf4a7",
+        "indexCode": "chabb6ea04-e3f4-4f4c-adbb-7c86cdf19844",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -17769,7 +17806,7 @@
         ]
     },
     {
-        "indexCode": "ch0ffeb2b5-8cb6-4178-81e7-fedeebccbcbc",
+        "indexCode": "chbbb6bd57-1998-436c-84e7-9b98903f968f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -18044,7 +18081,7 @@
         ]
     },
     {
-        "indexCode": "ch0fd82e09-8374-4d3a-b425-2ff45c2b9a35",
+        "indexCode": "chb28825a6-77b6-4641-9bab-5a70195fe206",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -18305,7 +18342,7 @@
         ]
     },
     {
-        "indexCode": "ch1f7b8d73-9961-43e0-a708-1314477bdb0f",
+        "indexCode": "chfb10b2a4-bb0f-49a4-960d-18ccfc2fb5d8",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -18585,7 +18622,7 @@
         ]
     },
     {
-        "indexCode": "ch3455e876-1bb0-4206-bca1-66bfcfb88ebb",
+        "indexCode": "chb0c62836-bf3e-438e-9dc8-31b6bed6ee20",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -18852,7 +18889,7 @@
         ]
     },
     {
-        "indexCode": "ch04a96f24-7979-4254-8e5e-6dc387e19960",
+        "indexCode": "ch7899a714-6df8-4901-818c-ec762f6874e4",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -18865,7 +18902,7 @@
                         "call": {
                             "title": "六星刺金花园 他的担忧",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=9&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v5034f507-888b-4fd8-8e19-a767e52f771f"
+                            "callCode": "vcfda4477-e6d0-436e-8ff3-1b03ce1bf5ba"
                         }
                     }
                 ]
@@ -18873,7 +18910,7 @@
         ]
     },
     {
-        "indexCode": "ch7dec5cad-a78c-4804-a594-d50b1d2c4b3d",
+        "indexCode": "chce488271-9c83-4828-982a-b015caa9bd1d",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -19072,7 +19109,7 @@
         ]
     },
     {
-        "indexCode": "ch5d4bbae2-3f3f-403b-8b26-209965d111e5",
+        "indexCode": "chb2c4586c-6e8b-435b-9150-5e90c9b3c697",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -19304,7 +19341,7 @@
         ]
     },
     {
-        "indexCode": "ch08b007ec-93fd-4e0a-a58a-e9970d929bfb",
+        "indexCode": "ch55a0b6b4-993e-4148-9e80-24b3cd0a2f3e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -19317,7 +19354,7 @@
                         "call": {
                             "title": "六星失控 发烧",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=29&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v4ec0ba92-e29b-4244-9508-9f3eb509c269"
+                            "callCode": "v15a8cfb1-d642-4ba1-851b-a8ee5e6ccafe"
                         }
                     }
                 ]
@@ -19325,7 +19362,7 @@
         ]
     },
     {
-        "indexCode": "ch8f15d3e1-fc72-41a0-b1e6-92a8e3ff8d84",
+        "indexCode": "ch1bba2660-cc66-4e0d-8ccb-4c26e9b90321",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -19586,14 +19623,7 @@
                                 "replySpeaker": "查理苏"
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "type": "choice",
-                "speaker": "我",
-                "content": [
-                    {},
+                    },
                     {
                         "ifVoice": false,
                         "ifCall": false,
@@ -19621,7 +19651,7 @@
         ]
     },
     {
-        "indexCode": "ch1c9859db-5689-42fc-80bb-72b6306503e7",
+        "indexCode": "cha4698564-503d-49a8-83ca-cb413a9b592a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -19882,7 +19912,7 @@
         ]
     },
     {
-        "indexCode": "ch5c21c995-5189-4e80-9842-0cf7379df009",
+        "indexCode": "chebad6083-734d-40d2-8ade-6f150b8d2a19",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -20130,7 +20160,7 @@
         ]
     },
     {
-        "indexCode": "chf3a0d2e5-e2e2-428f-a015-495c364037b2",
+        "indexCode": "ch6cd26a77-6176-4432-9442-e3d47b7117ff",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -20143,7 +20173,7 @@
                         "call": {
                             "title": "六星逃亡童话 亲书结局",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=30&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "vc412766a-ece0-46e6-ae4c-b4ec8a3f3c91"
+                            "callCode": "v6560c4f8-1469-4ecb-90b0-4f81ce0ad86f"
                         }
                     }
                 ]
@@ -20151,7 +20181,7 @@
         ]
     },
     {
-        "indexCode": "chaa62ad3e-56c2-4cda-ba62-0623108f6a1d",
+        "indexCode": "ch900e6102-eb44-431a-bf65-d459e4cae41c",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -20365,28 +20395,6 @@
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "我服了。",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "难得你那么大方地表达对我的钦佩。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "不过夫妻之间不用这样，真挚的爱才是维持良好关系的秘诀。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
-                    },
-                    {
-                        "ifVoice": false,
-                        "ifCall": false,
-                        "ifImg": false,
                         "contentText": "你真是一朵奇葩。",
                         "reply": [
                             {
@@ -20410,7 +20418,7 @@
         ]
     },
     {
-        "indexCode": "ch3cce74a0-2c9c-41c2-9a35-1b2680a5e5d8",
+        "indexCode": "chfd929a40-4eff-4026-a4f6-54a42fb7465c",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -20664,7 +20672,7 @@
         ]
     },
     {
-        "indexCode": "chb8406da5-a8c8-46b5-a0c8-f656fdae39c9",
+        "indexCode": "chc6a9ddb6-7fb4-4057-8f4f-dee46043b99b",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -20939,7 +20947,7 @@
         ]
     },
     {
-        "indexCode": "ch8e72cc34-db1a-44d0-9ec3-022f7f188ce4",
+        "indexCode": "ch3b57d6fd-f18f-4b5d-b87a-8f40287d5aae",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -21190,7 +21198,7 @@
         ]
     },
     {
-        "indexCode": "chc5d0c706-482d-4b18-810e-e9b616c1831c",
+        "indexCode": "chd10a4ff1-76c3-4371-b2c5-a1cb455534dd",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -21479,7 +21487,7 @@
         ]
     },
     {
-        "indexCode": "ch4f631b7f-5e34-4764-ad57-ab24834bfcaa",
+        "indexCode": "ch55060568-7614-4d45-8b6e-2bf77f57162e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -21775,7 +21783,7 @@
         ]
     },
     {
-        "indexCode": "ch6bffa79c-6cf1-4f35-8e33-b6d1155364f2",
+        "indexCode": "ch5ef6b003-0e8f-476b-8bfe-b0ad58141b8e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22092,7 +22100,7 @@
         ]
     },
     {
-        "indexCode": "ch2f67853f-734d-4911-8f9e-a5aca4f1daa8",
+        "indexCode": "ch5bcdb3a0-22dd-49e1-8dc7-e12ba5edfceb",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22367,7 +22375,7 @@
         ]
     },
     {
-        "indexCode": "ch6a53c223-ca64-418a-8cc8-a3e8e80cf73d",
+        "indexCode": "chaca3af0f-ebf7-4699-850c-8ec33c26d959",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22380,7 +22388,7 @@
                         "call": {
                             "title": "六星霓夜采香 异地恋",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=27&vd_source=e2d9186622bd5fed6c2731c489d2a21b",
-                            "callCode": "v937b1dfd-4443-4d63-bf27-e39a9e18a450"
+                            "callCode": "ve4e3237d-9732-41d1-bdac-eea4262d9822"
                         }
                     }
                 ]
@@ -22388,7 +22396,7 @@
         ]
     },
     {
-        "indexCode": "ch3ee9d1ea-079c-41ae-b13a-39ed4fcedb84",
+        "indexCode": "ch27d392fc-fdec-4983-b830-2085a8308bdb",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22419,7 +22427,7 @@
                         "call": {
                             "title": "六星缠绵游戏 边际效应",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=2&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v0e7fa833-6d3d-4a9a-b2da-f9b46fbcae23"
+                            "callCode": "ve4b62f0e-ccf4-4282-a954-eac20a5aa240"
                         }
                     }
                 ]
@@ -22427,7 +22435,7 @@
         ]
     },
     {
-        "indexCode": "ch3df3e30b-ad72-4f8e-a8eb-27178a637641",
+        "indexCode": "ch926f1f1c-c4a9-4df3-b38f-287d166e1a7e",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22514,30 +22522,32 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "我拆开快递了，里面是......甜品展览票？",
-                        "reply": [
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "最顶尖的甜品展览，中式西式的甜点一应俱全。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": false,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "我知道你喜欢甜品，所以特地准备了两张门票。不用太感动。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "我拆开快递了，里面是......甜品展览票？"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "最顶尖的甜品展览，中式西式的甜点一应俱全。"
+                    },
+                    {
+                        "ifVoice": false,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "我知道你喜欢甜品，所以特地准备了两张门票。不用太感动。"
                     }
                 ]
             },
@@ -22642,37 +22652,39 @@
                 ]
             },
             {
-                "type": "choice",
+                "type": "nomarl",
                 "speaker": "我",
                 "content": [
                     {
                         "ifVoice": false,
                         "ifCall": false,
                         "ifImg": false,
-                        "contentText": "好吧......感觉自己要变胖了呢。",
-                        "reply": [
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "恋爱的确会使人发胖，这是有科学依据的，叫做“幸福肥\"。",
-                                "replySpeaker": "查理苏"
-                            },
-                            {
-                                "ifVoice": true,
-                                "ifCall": false,
-                                "ifImg": false,
-                                "contentText": "放心，我很乐意和你一起，做一对幸福又完美的胖夫妻。",
-                                "replySpeaker": "查理苏"
-                            }
-                        ]
+                        "contentText": "好吧......感觉自己要变胖了呢。"
+                    }
+                ]
+            },
+            {
+                "type": "nomarl",
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "恋爱的确会使人发胖，这是有科学依据的，叫做“幸福肥\"。"
+                    },
+                    {
+                        "ifVoice": true,
+                        "ifCall": false,
+                        "ifImg": false,
+                        "contentText": "放心，我很乐意和你一起，做一对幸福又完美的胖夫妻。"
                     }
                 ]
             }
         ]
     },
     {
-        "indexCode": "ch8d71ecf5-3681-4b91-ac84-9437de2388cc",
+        "indexCode": "ch3909a83e-3bd1-4163-bb35-aee529c5d89a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -22904,7 +22916,7 @@
         ]
     },
     {
-        "indexCode": "ch6928f8e8-d0ce-42be-8188-362364116866",
+        "indexCode": "ch3a3d61fc-d523-48e6-90e9-5723c42f08c2",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23200,7 +23212,7 @@
         ]
     },
     {
-        "indexCode": "ch10d16a8b-b056-4bb1-b757-5728220d4008",
+        "indexCode": "ch5c888586-30e7-4d7c-a7de-1e4a73f27b2f",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23219,7 +23231,7 @@
                         "call": {
                             "title": "六星共犯 怪病问询",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=20&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v1ad11c91-90d1-4430-ae07-f5923481162b"
+                            "callCode": "v6cd72cb9-b855-4214-a436-a27edfcff18f"
                         }
                     }
                 ]
@@ -23227,7 +23239,7 @@
         ]
     },
     {
-        "indexCode": "ch995326cb-2fab-4a84-9d98-5260245aa912",
+        "indexCode": "ch84e64a83-da89-4ed4-827f-ec3db26e4aee",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23455,7 +23467,7 @@
         ]
     },
     {
-        "indexCode": "ch9085effe-6d2e-427f-98c6-2cbae4c3c6af",
+        "indexCode": "chacdce254-7bff-47ff-9a6a-530fb6201269",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23758,7 +23770,7 @@
         ]
     },
     {
-        "indexCode": "ch95e92922-f050-4f0f-82ed-dd6e0b24a59d",
+        "indexCode": "ch457b3f49-cf92-4e4c-8548-55847eef23a5",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23789,7 +23801,7 @@
                         "call": {
                             "title": "六星生而有翼 吃醋进行曲",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=3&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v9cb46085-9741-4990-81d5-5007755dedb9"
+                            "callCode": "v640b3485-6577-464b-a329-327f73c8b906"
                         }
                     }
                 ]
@@ -23797,7 +23809,7 @@
         ]
     },
     {
-        "indexCode": "ch6b0ecfba-f499-4893-8282-dbd377652c41",
+        "indexCode": "ch81211f9e-d6e8-4a53-8ed0-6430337ad2c6",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -23810,7 +23822,7 @@
                         "call": {
                             "title": "六星无眠区 车库事件",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=33&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "ve37f3b43-8b68-4b4c-894a-377a3621ec72"
+                            "callCode": "vf17f8d81-8542-40d5-b664-3f83855aadc2"
                         }
                     }
                 ]
@@ -23818,7 +23830,7 @@
         ]
     },
     {
-        "indexCode": "chab69e794-f91d-4327-84c0-c3c6b5d21b5d",
+        "indexCode": "ch8676cadb-a348-4d86-b203-035de1b74d5a",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -24076,7 +24088,7 @@
         ]
     },
     {
-        "indexCode": "ch210a4a68-d239-46b5-8039-47146f0023d6",
+        "indexCode": "ch6aa0fd78-e1d6-4545-b67e-02cb4580a9d7",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -24089,7 +24101,7 @@
                         "call": {
                             "title": "六星钻石之心 椭圆定义",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=23&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "v1d30d7be-cc59-4bbc-adbf-bd5171f9c062"
+                            "callCode": "v7ea56af0-8c49-4957-8d3a-a8aba199e322"
                         }
                     }
                 ]
@@ -24097,7 +24109,7 @@
         ]
     },
     {
-        "indexCode": "cha184bb26-f069-4fc2-8175-02b08422e4c7",
+        "indexCode": "ch5c13c60f-9c34-4aa4-b551-677cbfb2b6ee",
         "chatHistory": [
             {
                 "type": "nomarl",
@@ -24110,7 +24122,7 @@
                         "call": {
                             "title": "六星时与玫瑰 此物最相思",
                             "url": "https://www.bilibili.com/video/BV1xs4y1X7bu?p=13&vd_source=b32673d7f72558f8aa0f1cc84c5a5760",
-                            "callCode": "va39101f6-d78a-4964-b4ee-b9ba0d374949"
+                            "callCode": "v2c9c2cc1-b43c-429a-9dbd-204873cc491d"
                         }
                     }
                 ]

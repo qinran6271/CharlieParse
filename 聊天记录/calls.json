@@ -1,6 +1,6 @@
 [
     {
-        "callCode": "v18f256db-ab1e-41f6-a61f-ed5793e6a804",
+        "callCode": "v4c344a41-1cf1-4af1-82b3-5a33ab05ecfe",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "callCode": "vf6259ae9-4f72-4d3d-a112-acc242ddc7c5",
+        "callCode": "v2d716cb5-d120-450b-a653-85efdaee6936",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "callCode": "v2686e4ff-a1af-47f6-9ea1-6a53f782849f",
+        "callCode": "v849ac235-8cbd-4be8-89b9-88dde0969b6b",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -725,7 +725,7 @@
         ]
     },
     {
-        "callCode": "vb4b3e3e2-b905-43c2-994a-ca842873ff5f",
+        "callCode": "vef2bdbb2-df68-41c4-b60b-97757c7f3a7f",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -957,7 +957,7 @@
         ]
     },
     {
-        "callCode": "v2623d7a7-a79a-4faf-a3da-846f175175f3",
+        "callCode": "v39e3605e-4275-4dd1-95b6-d349fbac686e",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1244,7 +1244,7 @@
         ]
     },
     {
-        "callCode": "vbc57f6b2-44cc-42f1-b1cb-8c1a0f2d6888",
+        "callCode": "vdfb54370-0b72-49e1-a326-0b0b0c6a8e36",
         "call_history": [
             {
                 "speaker": "我",
@@ -1481,7 +1481,255 @@
         ]
     },
     {
-        "callCode": "vc58aa05a-fa79-4b8b-a87f-0369ad83fc03",
+        "callCode": "vc8b3fad8-5758-48f0-9a65-90bf74d4e720",
+        "call_history": [
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "查理苏，你今晚有什么安排吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "今晚除了待在未婚妻身边，还能有什么安排。现在我就在去往你家楼下的路上。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "楼下啊......我想起去年了，你在楼下给我打电话，让我看那个超大热气球。"
+                    },
+                    {
+                        "contentText": "噗，你还记不记得，说是为了把我们的感情公之于众。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然记得。而且上个跨年夜之后，我就做好了接下来五年的规划。"
+                    },
+                    {
+                        "contentText": "第二年，也就是今年，要带未婚妻躺在邮轮甲板上——"
+                    },
+                    {
+                        "contentText": "在最佳观景点欣赏我为你准备的烟火演出。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "顺便向去年看到热气球的人汇报一下，我们的感情非常稳定？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "确实有几种烟花是我定制的甜蜜字句，能起到这个作用。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "唔，你今天听起来有点不一样呢，少了点什么。"
+                    },
+                    {
+                        "contentText": "比如“这就是Charlie的深谋远虑”啊。"
+                    },
+                    {
+                        "contentText": "或者“快下楼和你的未婚夫一起享受这个夜晚吧”之类的。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "再一次被你看穿......不，“听穿”了。"
+                    },
+                    {
+                        "contentText": "虽然有点难以启齿，但深谋远虑的Charlie发现他还没问过未婚妻对于跨年夜的想法。"
+                    },
+                    {
+                        "contentText": "说不定她更喜欢两个人窝在家里，看看电视或者说说话，这种平淡的度过方式。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "为什么你突然有了这样的想法呢？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "不是突然。事实上，在这一年中我意识到——"
+                    },
+                    {
+                        "contentText": "和特别的那个人一起。"
+                    },
+                    {
+                        "contentText": "不管是骑自行车还是逛超市，哪怕什么都不干，都能收获同样的快乐。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "难道在此之前，你从没想过将来可以和特别的人一起这些？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "没想过。未婚妻，遇到你我才知道，恋爱原来真的有这种形态。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "这样啊......"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "等等，今天的你听起来也不太一样，有点像心理咨询师。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "咳咳，问题是有带你多。但我已经确认了，我们是一样的！"
+                    },
+                    {
+                        "contentText": "我......预定了个写着我们名字的热气球，想着可以一边俯瞰夜景，一边跨年。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "......给我几秒钟整理一下。"
+                    },
+                    {
+                        "contentText": "如果我没理解错，你在表达因为和我相处久了。"
+                    },
+                    {
+                        "contentText": "所以喜欢上了并开始选用这种之前对你来说过于“招摇“的恋爱方式？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "嗯......你比我自己说得还清楚。"
+                    },
+                    {
+                        "contentText": "总之呢，查理苏，新年——"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "先别说，未婚妻。当我们在你的热气球上迎来零点钟声的时候，再对我说。"
+                    },
+                    {
+                        "contentText": "那一刻我会是世界上最幸福的生物，不论物种和性别。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "莫非这是在撒娇吗？知道啦，超级有仪式感的查医生。"
+                    },
+                    {
+                        "contentText": "好期待啊，热气球跨年，像是做梦一样。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "我的期待中倒是带着一丝忧伤，未婚妻美梦般的体验，居然不是百分百由我策划。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "干嘛计划这点小事，少了你，这可就是噩梦了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "心胸宽广，但对未婚妻相关事宜锱铢必较，这才是完美的未婚夫。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "锱铢......呀！糟了，我都忘了问，你的邮轮是已经预定好了还是——"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "安心，待在城市上空不影响我们观看海岸线的烟火。"
+                    },
+                    {
+                        "contentText": "至于邮轮，那是私人的，会一直在码头等着我们。"
+                    },
+                    {
+                        "contentText": "但现在我想见到你，一刻也不能等。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "va774efcb-1a74-42ce-a80a-fc4d7a8203a6",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1708,7 +1956,7 @@
         ]
     },
     {
-        "callCode": "vb5d2d8ea-78ba-4030-9fda-301c2588685e",
+        "callCode": "ve77ef16a-2888-4794-81f1-e46ad39d4fee",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1784,7 +2032,7 @@
         ]
     },
     {
-        "callCode": "vb257b233-6c63-432d-be03-7f409871d943",
+        "callCode": "v9b899f3e-81e8-4e46-bfaa-aebd22b5296d",
         "call_history": [
             {
                 "speaker": "我",
@@ -1992,7 +2240,7 @@
         ]
     },
     {
-        "callCode": "v757aaae4-4be8-4162-9c5c-cee7d7ffe70d",
+        "callCode": "vabf5ee00-3796-4cda-8985-0b65ca767ebd",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2232,7 +2480,7 @@
         ]
     },
     {
-        "callCode": "v492e3b95-e8b4-4c4e-a617-29f59e822b09",
+        "callCode": "vf5d4b92d-5f73-4c17-9b76-590bd152f977",
         "call_history": [
             {
                 "speaker": "我",
@@ -2428,7 +2676,7 @@
         ]
     },
     {
-        "callCode": "vd22b7d35-ffbc-4a49-8ef1-868c214de362",
+        "callCode": "va75bfe97-29b7-44be-bafe-1145b9a3cae2",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2653,7 +2901,7 @@
         ]
     },
     {
-        "callCode": "v22d1e1ba-d81f-45f3-bdb8-f17e689345d9",
+        "callCode": "v35aae819-e204-40d0-ad45-fda50bd68278",
         "call_history": [
             {
                 "speaker": "我",
@@ -2852,7 +3100,7 @@
         ]
     },
     {
-        "callCode": "v05f6fbe3-debb-430c-9ce3-45d02e9d0b51",
+        "callCode": "v9b857e22-a559-4acb-bbdd-d3c30bf88e0f",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3123,7 +3371,7 @@
         ]
     },
     {
-        "callCode": "vc412b229-1ca3-444f-8d51-2c0f00797560",
+        "callCode": "v6cce180f-4ea7-4323-a28f-c8936dfbbc8c",
         "call_history": [
             {
                 "speaker": "我",
@@ -3379,7 +3627,7 @@
         ]
     },
     {
-        "callCode": "v271f2573-da42-48c4-9532-1068f6c613cf",
+        "callCode": "v6fc46640-872c-4997-97c8-9a2c5f64c5b9",
         "call_history": [
             {
                 "speaker": "我",
@@ -3667,7 +3915,7 @@
         ]
     },
     {
-        "callCode": "vfacff7c8-c939-449e-895f-d9bd2b7c2083",
+        "callCode": "v97a6503b-65a5-46f8-878c-61e0a1f45b4b",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3973,255 +4221,7 @@
         ]
     },
     {
-        "callCode": "va21a4e95-b381-491e-96f9-762adb298e33",
-        "call_history": [
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "查理苏，你今晚有什么安排吗？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "今晚除了待在未婚妻身边，还能有什么安排。现在我就在去往你家楼下的路上。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "楼下啊......我想起去年了，你在楼下给我打电话，让我看那个超大热气球。"
-                    },
-                    {
-                        "contentText": "噗，你还记不记得，说是为了把我们的感情公之于众。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "当然记得。而且上个跨年夜之后，我就做好了接下来五年的规划。"
-                    },
-                    {
-                        "contentText": "第二年，也就是今年，要带未婚妻躺在邮轮甲板上——"
-                    },
-                    {
-                        "contentText": "在最佳观景点欣赏我为你准备的烟火演出。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "顺便向去年看到热气球的人汇报一下，我们的感情非常稳定？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "确实有几种烟花是我定制的甜蜜字句，能起到这个作用。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "唔，你今天听起来有点不一样呢，少了点什么。"
-                    },
-                    {
-                        "contentText": "比如“这就是Charlie的深谋远虑”啊。"
-                    },
-                    {
-                        "contentText": "或者“快下楼和你的未婚夫一起享受这个夜晚吧”之类的。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "再一次被你看穿......不，“听穿”了。"
-                    },
-                    {
-                        "contentText": "虽然有点难以启齿，但深谋远虑的Charlie发现他还没问过未婚妻对于跨年夜的想法。"
-                    },
-                    {
-                        "contentText": "说不定她更喜欢两个人窝在家里，看看电视或者说说话，这种平淡的度过方式。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "为什么你突然有了这样的想法呢？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "不是突然。事实上，在这一年中我意识到——"
-                    },
-                    {
-                        "contentText": "和特别的那个人一起。"
-                    },
-                    {
-                        "contentText": "不管是骑自行车还是逛超市，哪怕什么都不干，都能收获同样的快乐。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "难道在此之前，你从没想过将来可以和特别的人一起这些？"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "没想过。未婚妻，遇到你我才知道，恋爱原来真的有这种形态。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "这样啊......"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "等等，今天的你听起来也不太一样，有点像心理咨询师。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "咳咳，问题是有带你多。但我已经确认了，我们是一样的！"
-                    },
-                    {
-                        "contentText": "我......预定了个写着我们名字的热气球，想着可以一边俯瞰夜景，一边跨年。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "......给我几秒钟整理一下。"
-                    },
-                    {
-                        "contentText": "如果我没理解错，你在表达因为和我相处久了。"
-                    },
-                    {
-                        "contentText": "所以喜欢上了并开始选用这种之前对你来说过于“招摇“的恋爱方式？"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "嗯......你比我自己说得还清楚。"
-                    },
-                    {
-                        "contentText": "总之呢，查理苏，新年——"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "先别说，未婚妻。当我们在你的热气球上迎来零点钟声的时候，再对我说。"
-                    },
-                    {
-                        "contentText": "那一刻我会是世界上最幸福的生物，不论物种和性别。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "莫非这是在撒娇吗？知道啦，超级有仪式感的查医生。"
-                    },
-                    {
-                        "contentText": "好期待啊，热气球跨年，像是做梦一样。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "我的期待中倒是带着一丝忧伤，未婚妻美梦般的体验，居然不是百分百由我策划。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "干嘛计划这点小事，少了你，这可就是噩梦了。"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "心胸宽广，但对未婚妻相关事宜锱铢必较，这才是完美的未婚夫。"
-                    }
-                ]
-            },
-            {
-                "speaker": "我",
-                "content": [
-                    {
-                        "contentText": "锱铢......呀！糟了，我都忘了问，你的邮轮是已经预定好了还是——"
-                    }
-                ]
-            },
-            {
-                "speaker": "查理苏",
-                "content": [
-                    {
-                        "contentText": "安心，待在城市上空不影响我们观看海岸线的烟火。"
-                    },
-                    {
-                        "contentText": "至于邮轮，那是私人的，会一直在码头等着我们。"
-                    },
-                    {
-                        "contentText": "但现在我想见到你，一刻也不能等。"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "callCode": "ve9adfbe2-a75a-474f-93c2-c891ad748844",
+        "callCode": "v90513a55-859f-4628-864a-2260c34217f9",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4374,7 +4374,7 @@
         ]
     },
     {
-        "callCode": "v56914884-2522-44b3-b46d-178fdc8fc0bd",
+        "callCode": "v5b8ffc24-c438-46b7-90fe-90063ffc2618",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4668,7 +4668,7 @@
         ]
     },
     {
-        "callCode": "ved932e02-d336-4169-a01f-0a2361bcfac0",
+        "callCode": "v97ddc1e0-db09-49aa-afd0-b3b52ac8655b",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4893,7 +4893,7 @@
         ]
     },
     {
-        "callCode": "v3538a3cb-39d9-40bd-af00-b249934ef3df",
+        "callCode": "vded9ba00-26c3-451b-b232-eebb70203f7a",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5146,7 +5146,7 @@
         ]
     },
     {
-        "callCode": "ve592e98e-831d-4256-8d22-3cef84696776",
+        "callCode": "v31bee1d5-13ab-4043-953b-5dc532aa00c0",
         "call_history": [
             {
                 "speaker": "我",
@@ -5367,7 +5367,7 @@
         ]
     },
     {
-        "callCode": "vafb98bfe-98c8-4b6b-8bca-41289205afe3",
+        "callCode": "v4f701d84-3a29-4b89-b8b3-49f78507776e",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5662,7 +5662,7 @@
         ]
     },
     {
-        "callCode": "v65b80bb5-05f9-4b9b-9199-ef7a8d581c15",
+        "callCode": "v71f510e7-9288-4313-a62c-8547209fbc10",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5959,7 +5959,7 @@
         ]
     },
     {
-        "callCode": "v90bc5d7e-8c92-45b4-9115-ed3fa7c1f347",
+        "callCode": "v64ae0b07-fac6-4169-94e2-c2d1926a8177",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6202,7 +6202,7 @@
         ]
     },
     {
-        "callCode": "v5034f507-888b-4fd8-8e19-a767e52f771f",
+        "callCode": "vcfda4477-e6d0-436e-8ff3-1b03ce1bf5ba",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6401,7 +6401,7 @@
         ]
     },
     {
-        "callCode": "v4ec0ba92-e29b-4244-9508-9f3eb509c269",
+        "callCode": "v15a8cfb1-d642-4ba1-851b-a8ee5e6ccafe",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6607,7 +6607,7 @@
         ]
     },
     {
-        "callCode": "vc412766a-ece0-46e6-ae4c-b4ec8a3f3c91",
+        "callCode": "v6560c4f8-1469-4ecb-90b0-4f81ce0ad86f",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6848,7 +6848,7 @@
         ]
     },
     {
-        "callCode": "v937b1dfd-4443-4d63-bf27-e39a9e18a450",
+        "callCode": "ve4e3237d-9732-41d1-bdac-eea4262d9822",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7088,7 +7088,7 @@
         ]
     },
     {
-        "callCode": "v0e7fa833-6d3d-4a9a-b2da-f9b46fbcae23",
+        "callCode": "ve4b62f0e-ccf4-4282-a954-eac20a5aa240",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7481,7 +7481,7 @@
         ]
     },
     {
-        "callCode": "v1ad11c91-90d1-4430-ae07-f5923481162b",
+        "callCode": "v6cd72cb9-b855-4214-a436-a27edfcff18f",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7754,7 +7754,7 @@
         ]
     },
     {
-        "callCode": "v9cb46085-9741-4990-81d5-5007755dedb9",
+        "callCode": "v640b3485-6577-464b-a329-327f73c8b906",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7984,7 +7984,7 @@
         ]
     },
     {
-        "callCode": "ve37f3b43-8b68-4b4c-894a-377a3621ec72",
+        "callCode": "vf17f8d81-8542-40d5-b664-3f83855aadc2",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8234,7 +8234,7 @@
         ]
     },
     {
-        "callCode": "v1d30d7be-cc59-4bbc-adbf-bd5171f9c062",
+        "callCode": "v7ea56af0-8c49-4957-8d3a-a8aba199e322",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8422,7 +8422,7 @@
         ]
     },
     {
-        "callCode": "va39101f6-d78a-4964-b4ee-b9ba0d374949",
+        "callCode": "v2c9c2cc1-b43c-429a-9dbd-204873cc491d",
         "call_history": [
             {
                 "speaker": "查理苏",
