@@ -59,10 +59,19 @@ def delete_all(collection):
 
 if __name__ == '__main__':
 
-    # delete_all(talk)
-    # delete_all(day_night_chaps)
+    # delete_all(chat_calls)
+    # delete_all(chat_overview)
     delete_all(track)
     read_many(track,'./记忆-轨迹/轨迹DB.json')
-    # read_many(day_night_subchaps,'./主线/subchaps.json')
+    # read_many(chat_overview,'./聊天记录/overview.json')
     # read_many(chat_details,'./聊天记录/details.json')
     # read_one(furniture,'./家具/furniture.json')
+
+
+    # 查询所有subchap为11-2的文档
+    # query = {"subchap_name": "11-2"}
+    # results = day_night_subchaps.find(query)
+
+    # # 更新subchap为11-2的文档为11-3
+    # for result in results:
+    #     day_night_subchaps.update_one({"_id": result["_id"]}, {"$set": {"subchap_name": "11-3"}})
