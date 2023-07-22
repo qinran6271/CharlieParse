@@ -191,6 +191,7 @@ def extract_chap(docx_path, item, data,json_path,chap_num):
         sub_behind = { 
             "chap_num" : chap_num,
             "subchap_name" : "",
+            "subchap_type": "普通",
             "para" : []
         }
         para_data = {

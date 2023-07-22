@@ -57,6 +57,7 @@
 {
     "_id" : "objectId",
     "chap_num" : "int",
+    "subchap_type": "普通",
     "subchap_name" : "string",
     "para" : [ //根据type来判断 （diaContent）
         { //正常对话
