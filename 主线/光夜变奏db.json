@@ -56,6 +56,7 @@
 //幕后
 {
     "_id" : "objectId",
+    "chap_num" : "int",
     "subchap_name" : "string",
     "para" : [ //根据type来判断 （diaContent）
         { //正常对话

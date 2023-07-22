@@ -159,7 +159,7 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
     # return data
 
 # 整合大章节信息
-def extract_chap(docx_path, item, data,json_path):
+def extract_chap(docx_path, item, data,json_path,chap_num):
     # print(docx_path)
     document = Document(docx_path)
     file_name = os.path.basename(docx_path)
@@ -189,6 +189,7 @@ def extract_chap(docx_path, item, data,json_path):
         #     "content" : []
         # }
         sub_behind = { 
+            "chap_num" : chap_num,
             "subchap_name" : "",
             "para" : []
         }
@@ -200,7 +201,6 @@ def extract_chap(docx_path, item, data,json_path):
         }    
         # print(file_name_without_extension)
         sub_behind["subchap_name"] = file_name_without_extension
-
         for paragraph in document.paragraphs:
             line = paragraph.text.strip()
             para_data["content"].append(line)
@@ -268,9 +268,9 @@ def main():
             elif os.path.isfile(sub_path): #docs 
                 json_path = "../chaps.json"
                 if item == "简介.docx":
-                    data = extract_chap(sub_path, item, data,json_path)
+                    data = extract_chap(sub_path, item, data,json_path,chap_num)
                 else: #处理幕后
-                    behind.append(extract_chap(sub_path, item, data,json_path))
+                    behind.append(extract_chap(sub_path, item, data,json_path,chap_num))
             
         # 把subchap list加入data
         subchap_nums = sorted(subchap_nums, key=lambda x: int(x.split('-')[1]))
