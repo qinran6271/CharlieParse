@@ -1,6 +1,7 @@
 import pymongo 
 import json
 import config
+import bson
 
 # 获取MongoDB Atlas连接字符串
 #手动输入url
@@ -36,6 +37,8 @@ talk = db.talk
 vinyl = db.vinyl
 characters = db.characters
 charlie_details = db.charlie_details
+date_overview = db.date_overview
+
 
 
 
@@ -43,7 +46,10 @@ charlie_details = db.charlie_details
 def read_one(collection, file_name):
     with open(file_name, 'r') as f:
         data = json.load(f)
-    collection.insert_one(data)
+    # 将JSON数据转换为Python字典
+    
+    collection.insert_one(data)   
+    # collection.insert_one(data)
 
 # 多个json文档读取
 def read_many(collection, file_name):
@@ -61,11 +67,11 @@ if __name__ == '__main__':
 
     # delete_all(chat_calls)
     # delete_all(chat_overview)
-    # delete_all(chat_details)
-    read_many(chat_calls,'./聊天记录/calls.json')
-    read_many(chat_overview,'./聊天记录/overview.json')
-    read_many(chat_details,'./聊天记录/details.json')
-    # read_one(furniture,'./家具/furniture.json')
+    delete_all(date_overview)
+    # read_many(date_overview,'./记忆-约会/date_overview.json')
+    # read_many(chat_overview,'./聊天记录/overview.json')
+    # read_many(chat_details,'./聊天记录/details.json')
+    read_one(date_overview,'./记忆-约会/test.json')
 
 
     # 查询所有subchap为11-2的文档
