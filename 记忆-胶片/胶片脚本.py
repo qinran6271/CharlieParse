@@ -32,7 +32,7 @@ def extract_content(card_name, total_num, docx_path):
 
 
     speaker = ""
-    content = []
+    content = ""
     current_list = data["para"]
 
     paragraphs = [] 
@@ -59,7 +59,7 @@ def extract_content(card_name, total_num, docx_path):
                 
             
             speaker = line.split(":")[0]
-            content = []
+            content = ""
             tag = ""
 
             if speaker == "视频链接":
@@ -76,7 +76,7 @@ def extract_content(card_name, total_num, docx_path):
 
 
         else: #continuous paragraph 
-            content.append(line)
+            content += line + '\n'
             
     if speaker and content: #end of doc
         current_list.append({

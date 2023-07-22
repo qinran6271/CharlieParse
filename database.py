@@ -68,11 +68,11 @@ if __name__ == '__main__':
 
     # delete_all(chat_calls)
     # delete_all(chat_overview)
-    # delete_all(date_overview)
+    # delete_all(film_chaps)
     # read_many(date_overview,'./记忆-约会/date_overview.json')
     # read_many(chat_overview,'./聊天记录/overview.json')
-    # read_many(chat_details,'./聊天记录/details.json')
-    read_one(test,'./记忆-约会/test.json')
+    read_many(film_chaps,'./记忆-胶片/film_chaps.json')
+    # read_one(test,'./记忆-约会/test.json')
 
 
     # 查询所有subchap为11-2的文档
