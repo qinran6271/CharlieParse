@@ -238,7 +238,7 @@ def main():
                 "intro" : "", 
                 "image" : "", 
                 "video" : "", 
-                "behind" : [], 
+                # "behind" : [], 
                 # "subchap" : [] 
         }
         print(chaps)
