@@ -236,6 +236,7 @@ def main():
                 if item == "简介.docx":
                     data = extract_chap(sub_path, item, data,json_path,chap_num)
                 else: #处理幕后（其实幕后可以放在普通主线里一起处理）
+                    print(item)
                     behind.append(extract_content(chap_num, '普通', sub_path, json_path))
             
         # 把subchap list加入data

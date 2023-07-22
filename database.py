@@ -38,7 +38,7 @@ vinyl = db.vinyl
 characters = db.characters
 charlie_details = db.charlie_details
 date_overview = db.date_overview
-test = db.test
+
 
 
 
@@ -67,11 +67,11 @@ def delete_all(collection):
 if __name__ == '__main__':
 
     # delete_all(chat_calls)
-    # delete_all(chat_overview)
-    # delete_all(film_chaps)
+    delete_all(day_night_chaps)
+    delete_all(day_night_subchaps)
     # read_many(date_overview,'./记忆-约会/date_overview.json')
-    # read_many(chat_overview,'./聊天记录/overview.json')
-    read_many(film_chaps,'./记忆-胶片/film_chaps.json')
+    read_many(day_night_chaps,'./主线/chaps.json')
+    read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_one(test,'./记忆-约会/test.json')
 
 
