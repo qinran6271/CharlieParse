@@ -20,7 +20,7 @@
     "para" : [
         { 
             "speaker" : "string",
-            "content" : [ "string ..." ],
+            "content" : "string ...",
             "tag" : "string" //me，charlie，pb, others
         }
     ]
