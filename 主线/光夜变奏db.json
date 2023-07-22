@@ -11,12 +11,12 @@
     "intro" : "string", //简介
     "image" : "string", //照片路径
     "video" : "string", //视频链接
-    "behind" : [ //幕后内容
-        {
-            "behind_name" : "string",
-            "content" : [ "string ..." ]
-        }
-    ], 
+    // "behind" : [ //幕后内容
+    //     {
+    //         "behind_name" : "string",
+    //         "content" : [ "string ..." ]
+    //     }
+    // ], 
     "subChap": ["string"] //所有小节名称
 }
 
@@ -50,6 +50,19 @@
                 ]
               },
             ]
-        }...
+        }...,
+    ]
+},
+//sub_chapters
+{
+    "_id" : "objectId",
+    "subchap_name" : "string",
+    "para" : [ //根据type来判断 （diaContent）
+        { //正常对话
+            "para_type" : "string", //normal，choice
+            "speaker" : "string",
+            "content" : [ "string ..." ],
+            "tag" : "string" //me，charlie，pb, others
+        }... ,
     ]
 }

@@ -159,9 +159,11 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
     # return data
 
 # 整合大章节信息
-def extract_chap(docx_path, item, data):
+def extract_chap(docx_path, item, data,json_path):
     # print(docx_path)
     document = Document(docx_path)
+    file_name = os.path.basename(docx_path)
+    file_name_without_extension = os.path.splitext(file_name)[0]
 
     if item == '简介.docx': #简介
         
@@ -180,26 +182,37 @@ def extract_chap(docx_path, item, data):
                 else:
                     data["video"] = line
         
-
+        return data
     else: #幕后
+        # sub_behind = { 
+        #     "behind_name" : "",
+        #     "content" : []
+        # }
         sub_behind = { 
-            "behind_name" : "",
-            "content" : []
+            "subchap_name" : "",
+            "para" : []
         }
-        file_name_without_extension = os.path.splitext(item)[0]
+        para_data = {
+            "para_type": "normal",
+            "speaker": "旁白",
+            "content": [],
+            "tag": "pb" 
+        }    
         # print(file_name_without_extension)
-        sub_behind["behind_name"] = file_name_without_extension
+        sub_behind["subchap_name"] = file_name_without_extension
 
         for paragraph in document.paragraphs:
             line = paragraph.text.strip()
-            sub_behind["content"].append(line)
+            para_data["content"].append(line)
+
+        sub_behind["para"].append(para_data)
+        subchap_data_list.append(sub_behind)
+        # data["behind"].append(sub_behind)
         
-        data["behind"].append(sub_behind)
+    with open(json_path, "w", encoding="utf-8") as json_file:
+        json.dump(subchap_data_list, json_file, ensure_ascii=False, indent=4)
         
-        # with open(json_path, "w", encoding="utf-8") as json_file:
-        #     json.dump(chap_data_list, json_file, ensure_ascii=False, indent=4)
-        
-    return data
+        return file_name_without_extension
 
 def sort_by_integer(filename):
     # 使用正则表达式提取文件名中的整数部分
@@ -231,6 +244,7 @@ def main():
         print(chaps)
         subchap_nums = [] # 储存当前所有小节的编号
         ending= []
+        behind = []
 
         for item in os.listdir(chap_path): #每章节里面的所有文档/文件夹
             sub_path = os.path.join(chap_path, item) 
@@ -253,11 +267,15 @@ def main():
 
             elif os.path.isfile(sub_path): #docs 
                 json_path = "../chaps.json"
-                data = extract_chap(sub_path, item, data)
+                if item == "简介.docx":
+                    data = extract_chap(sub_path, item, data,json_path)
+                else: #处理幕后
+                    behind.append(extract_chap(sub_path, item, data,json_path))
             
         # 把subchap list加入data
         subchap_nums = sorted(subchap_nums, key=lambda x: int(x.split('-')[1]))
-        subchap_nums = subchap_nums + ending
+        subchap_nums = subchap_nums + ending + behind
+        print(subchap_nums)
         data["subchap"] = subchap_nums
 
         # 生成大章节json文件
