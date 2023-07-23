@@ -12,6 +12,7 @@ chap_data_list = []
 
 # 提炼小节文本
 def extract_content(chap_num, sub_type, docx_path, json_path):
+    print(docx_path)
 
     document = Document(docx_path)
     #json 
@@ -148,6 +149,9 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
 
     # json_data = json.dumps(data, ensure_ascii=False).encode('utf-8')
     subchap_data_list.append(data)
+    print(data)
+    if docx_path == './21-新生•三/3-何国恒.docx':
+        print(subchap_data_list)
 
     with open(json_path, "w", encoding="utf-8") as json_file:
         json.dump(subchap_data_list, json_file, ensure_ascii=False, indent=4)
@@ -159,7 +163,7 @@ def extract_content(chap_num, sub_type, docx_path, json_path):
     # return data
 
 # 整合大章节信息
-def extract_chap(docx_path, item, data,json_path,chap_num):
+def extract_chap(docx_path, data):
     # print(docx_path)
     document = Document(docx_path)
    
@@ -232,12 +236,10 @@ def main():
                         ending.append(extract_content(chap_num, sub.split(".")[0], curr_path, json_path))
 
             elif os.path.isfile(sub_path): #docs 
-                json_path = "../chaps.json"
                 if item == "简介.docx":
-                    data = extract_chap(sub_path, item, data,json_path,chap_num)
+                    data = extract_chap(sub_path,data)
                 else: #处理幕后（其实幕后可以放在普通主线里一起处理）
-                    print(item)
-                    behind.append(extract_content(chap_num, '普通', sub_path, json_path))
+                    behind.append(extract_content(chap_num, '普通', sub_path, "../subchaps.json" ))
             
         # 把subchap list加入data
         subchap_nums = sorted(subchap_nums, key=lambda x: int(x.split('-')[1]))
@@ -246,6 +248,7 @@ def main():
         data["subchap"] = subchap_nums
 
         # 生成大章节json文件
+        json_path = "../chaps.json"
         chap_data_list.append(data)
         with open(json_path, "w", encoding="utf-8") as json_file:
             json.dump(chap_data_list, json_file, ensure_ascii=False, indent=4)
