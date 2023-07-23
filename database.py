@@ -67,15 +67,12 @@ def delete_all(collection):
 
 if __name__ == '__main__':
 
-<<<<<<< Updated upstream
+
     # delete_all(chat_calls)
     # delete_all(chat_overview)
     # delete_all(merch)
     read_many(merch,'./谷子/新谷子.json')
-    # read_many(chat_overview,'./聊天记录/overview.json')
-    # read_many(chat_details,'./聊天记录/details.json')
-    # read_one(test,'./记忆-约会/test.json')
-=======
+
     delete_all(date_details)
     # delete_all(day_night_chaps)
     # delete_all(day_night_subchaps)
@@ -83,7 +80,7 @@ if __name__ == '__main__':
     # read_many(day_night_chaps,'./主线/chaps.json')
     # read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_one(date_overview,'./记忆-约会/date_overview.json')
->>>>>>> Stashed changes
+
 
 
     # 查询所有subchap为11-2的文档
