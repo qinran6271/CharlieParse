@@ -68,10 +68,10 @@ if __name__ == '__main__':
 
     # delete_all(chat_calls)
     # delete_all(chat_overview)
-    # delete_all(chat_details)
-    read_many(chat_calls,'./聊天记录/calls.json')
-    read_many(chat_overview,'./聊天记录/overview.json')
-    read_many(chat_details,'./聊天记录/details.json')
+    # delete_all(merch)
+    read_many(merch,'./谷子/新谷子.json')
+    # read_many(chat_overview,'./聊天记录/overview.json')
+    # read_many(chat_details,'./聊天记录/details.json')
     # read_one(test,'./记忆-约会/test.json')
 
 
