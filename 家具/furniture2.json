@@ -1,362 +1,362 @@
 [
-{
-"id":1,
-"name":"海风盈室",
-"detail":"一幅精美的海岛风景画，看到它的瞬间，仿佛能感到扑面而来的海风。",
-"materials":"海风盈室图纸*1（朝花夕饰活动获取），心形七彩椒*5，五彩甜椒*27，娑罗木*15",
-"memory":null,
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb海风盈室.png"
-},
-{
-"id":2,
-"name":"《蓝天下》",
-"detail":"查理苏即兴完成的火柴人作品。蓝天下，他送给你色彩最热烈的花束。",
-"materials":"《蓝天下》图纸*1（羁梦镜影活动获取），心形七彩椒*5，五彩甜椒*28，花岗岩*15",
-"memory":"蓝天下大手拉着小手，我们像两个幼儿园的小朋友。可以和未婚妻一起长大吗？我用最开心的笑容给予他肯定的回答。",
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb蓝天下.png"
-},
-{
-"id":3,
-"name":"《拉小手》",
-"detail":"查理苏即兴完成的火柴人作品。每一寸笔触都洋溢着快乐。",
-"materials":"《拉小手》图纸*1（完成查理苏专属叶子信件获取），心形七彩椒*6，五彩甜椒*26，娑罗木*15",
-"memory":"查理苏边画边偷偷看我，嘴角挂着幸福的微笑他说他最浪漫的心愿，就是我们变成老爷爷老奶奶时，还能像这样牵着彼此的手。",
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb拉小手.png"
-},
-{
-"id":4,
-"name":"完美定格",
-"detail":"你的素描作品，不过并不算完全还原眼前所见，因为你的模特在和你交谈时似乎忘记了做表情管理。",
-"materials":"完美定格图纸*1（完成叶子邮件-甜憩之路·IV查理苏），心形七彩椒*6，五彩甜椒*30，娑罗木*15",
-"memory":"和他共度的时光流逝得飞快，想要永远记录下他神采飞扬的样子。哪怕表情管理不够充分，他也是心里最完美的那一个。",
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb完美定格.png"
-},
-{
-"id":5,
-"name":"《公主抱》",
-"detail":"查理苏即兴完成的火柴人作品。画面中的他像现实中一样，不费吹灰之力将你抱起。",
-"materials":"《公主抱》图纸*1（完成叶子邮件-甜憩之路·IV（查理苏），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
-"memory":"查理苏放下画笔，将正观赏“大作”的我一把抱起。在怀抱中惊呼，看到他正深情地凝望着我，“未婚妻，你就是我的灵感源泉。”",
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb公主抱.png"
-},
-{
-"id":6,
-"name":"色彩之宴",
-"detail":"当太阳淡淡的金色照在雪白的画板上，盛宴的前调已被奏响，缤纷的油彩即将登场。",
-"materials":"色彩之宴图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*6，五彩甜椒*27，娑罗木*15",
-"memory":"天光偷偷把我们的影子投在布满油彩的画板上，将这一刻入画，铭记成永恒。",
-"type":"drawing_board",
-"type_name":"画板",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshb色彩之宴.png"
-},
-{
-"id":7,
-"name":"绘彩支架",
-"detail":"非常稳固的木质画架，灵活的结构可以根据不同身高的作画人来调整，给予最舒适的绘画体验。",
-"materials":"彩绘支架图纸*1（羁梦花事活动获取），心形七彩椒*9，五彩甜椒*34，娑罗木*20",
-"memory":"非常稳固的木质画架，灵活的结构可以根据不同身高的作画人来调整，给予最舒适的绘画体验。",
-"type":"wooden_support ",
-"type_name":"木架",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsmj绘彩支架.png"
-},
-{
-"id":8,
-"name":"松香木刻",
-"detail":"色调厚重的画架，拥有与外表相称的高度稳定性，能够自由调节高度，以为画家提供舒适体验为追求。",
-"materials":"松香木刻图纸*1（羁梦镜影活动获取），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
-"memory":"调试画架的时候过于用心，没听到查理苏的呼唤，对上倚在旁边的他无奈眼神，忍俊不禁用了一个亲吻来告饶。",
-"type":"wooden_support ",
-"type_name":"木架",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsmj松香木刻.png"
-},
-{
-"id":9,
-"name":"逐影画架",
-"detail":"木中贵族制成的画架，柔和流畅的纹理间，恋人的记忆碎片散落其中。原来这世间也有不散的筵席。",
-"materials":"逐影画架图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*9，五彩甜椒*31，娑罗木*20",
-"memory":"“唔......”天旋地转间后背贴上了画架，温热贴近，画笔在布上描摹出曼妙的轮廓。显然，只有完美的未婚夫才能解锁它的隐藏用法。",
-"type":"wooden_support ",
-"type_name":"木架",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsmj逐影画架.png"
-},
-{
-"id":10,
-"name":"艺术画架",
-"detail":"可折叠的木制画架，在便于存储的同时轻便牢固设计感强。",
-"materials":"初次进入[工作室]赠送",
-"memory":null,
-"type":"wooden_support ",
-"type_name":"木架",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsmj艺术画架.png"
-},
-{
-"id":11,
-"name":"愿抵真心",
-"detail":"比起装饰品更像纪念品，十分有存在感，偶尔会被拿起来做一些两人之间有趣的射击游戏。",
-"materials":"愿抵真心图纸*1（查理苏失控养成奖励），心形七彩椒*5，五彩甜椒*26，花岗岩*15",
-"memory":null,
-"type":"painting_materials",
-"type_name":"画材",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshc愿抵真心.png"
-},
-{
-"id":12,
-"name":"狮心",
-"detail":"高清的分辨率按理来说会放大人身上哪怕一点瑕疵，奇怪的是这一定律在查理苏的面前失效了。",
-"materials":"狮心图纸*1（活动-绘心之镜获得），五彩甜椒*31，螺丝椒*49，坚木*50",
-"memory":null,
-"type":"painting_materials",
-"type_name":"画材",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshc狮心.png"
-},
-{
-"id":13,
-"name":"奇遇匣子",
-"detail":"貂毛和獾毛制成的画笔惬意地躺在大理石笔筒里，红黄蓝白四色“保湿”颜料，水润无比，据说为梵高心爱之物。",
-"materials":"奇遇匣子图纸*1（商城6区-园宅精选-历程达到屋舍俨然V级上架），螺丝椒*47，青椒*76，坚木*40",
-"memory":"正偷看着新晋画师，查理苏兴致勃勃地摆弄着画具，脸上突然感到一抹微凉，抬头望去，照见一双狡黠的眼眸。“给我的未婚妻盖个章。”",
-"type":"painting_materials",
-"type_name":"画材",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshc奇遇匣子.png"
-},
-{
-"id":14,
-"name":"流声铭梦",
-"detail":"巧思很多的装饰摆件，闲暇时候轻轻拨弄，似乎能听见悠扬复古的舞曲在其间缓慢流淌。",
-"materials":"流声铭梦图纸*1（朝花夕饰活动获取），心形七彩椒*8，五彩甜椒*31，花岗岩*20",
-"memory":null,
-"type":"music",
-"type_name":"音乐",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyy流声铭梦.png"
-},
-{
-"id":15,
-"name":"金粉世代",
-"detail":"无疑是增添起居情调的好物，独特的底色在古典之中平添一丝俏皮，似初入名利场的贵族少女。",
-"materials":"金粉世代图纸*1（活动-绘心之镜获得），心形七彩椒*6，五彩甜椒*26，花岗岩*15",
-"memory":null,
-"type":"music",
-"type_name":"音乐",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyy金粉世代.png"
-},
-{
-"id":16,
-"name":"心动与你",
-"detail":"红绿颜料的约会开始了，时间在此刻停驻，美好的瞬间被留在纸上。",
-"materials":"心动与你图纸*1（商城6区-园宅精选-历程达到屋舍俨然III级上架），五彩甜椒*26，螺丝椒*52，青石*50",
-"memory":"正感叹查医生红配绿的大胆配色，却见他露出了磕CP的满意笑容，墓地在灿如紫钻的眼眸中沉沦。",
-"type":"music",
-"type_name":"音乐",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyy心动与你.png"
-},
-{
-"id":17,
-"name":"织梦乐章",
-"detail":"唱针在黑胶唱片上缓缓划过，流淌的琴音里是一场绚烂的梦。",
-"materials":"织梦乐章心动与你图纸*1（完成叶子邮件-蓝星和阿榛·Ⅰ），心形七彩椒*9，五彩甜椒*39，青石*20",
-"memory":"晨光熹微，音符在厅室飞舞。他将我的手包在掌心，我们的画笔也在画布上旋转跳跃，勾勒出温馨的图画。",
-"type":"music",
-"type_name":"音乐",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyy织梦乐章.png"
-},
-{
-"id":18,
-"name":"循环爱意",
-"detail":"不规则的色块，随性的爱，无一不体现设计师理念:爱没有定律，会随意生长，爱是世间最柔软的东西。",
-"materials":"循环爱意图纸*1（活动-绘心之镜获得），心形七彩椒*5，五彩甜椒*29，花岗岩*15",
-"memory":null,
-"type":"chair",
-"type_name":"椅子",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyz循环爱意.png"
-},
-{
-"id":19,
-"name":"弧木圆凳",
-"detail":"古意盎然的小圆凳，无论充当歇脚的地方还是融入室内装潢的配件都十分合意，坐在上面不自觉就会注重起自己的仪态来。",
-"materials":"弧木圆凳图纸*1（羁梦花事活动获取），心形七彩椒*9，五彩甜椒*34，花岗岩*20",
-"memory":"虽然这只小圆凳空间有限，但查理苏坐在上面丝毫不显得局促，他大手一捞，路过的我就会跌坐在他膝盖上，看来就算是两个人的重量，它也完全可以负担呢。",
-"type":"chair",
-"type_name":"椅子",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyz弧木圆凳.png"
-},
-{
-"id":20,
-"name":"闲适一刻",
-"detail":"配有慢回弹坐垫的木质小矮凳，可以轻松将其拎起，有它的每个角落都那么舒适闲逸。",
-"materials":"闲适一刻图纸*1（完成叶子邮件-阿榛来做客·II），心形七彩椒*6，五彩甜椒*29，娑罗木*15",
-"memory":"查医生漫不经心地展示着肱二头肌，同时表示如此出色的家伙，得再买一个。",
-"type":"chair",
-"type_name":"椅子",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsyz闲适一刻.png"
-},
-{
-"id":21,
-"name":"矜贵之息",
-"detail":"圆桌的结构巧妙，线条流畅如少女裙摆，金属与木材的分布完美且和谐，互相映衬，细节之处尽显奢华。",
-"materials":"矜贵之息图纸*1（【查理苏-奢梦】养成奖励），心形七彩椒*5，五彩甜椒*29，娑罗木*15",
-"memory":"桌面上不时会出现查理苏的小礼物，有时候是一枚宝石胸针，有时是两张千金难求的宴会邀请函。",
-"type":"teapoy",
-"type_name":"小桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsxz矜贵之息.png"
-},
-{
-"id":22,
-"name":"留云软意",
-"detail":"实木圆桌铺上了从中古市场淘来的重工蕾丝桌布，垂坠感极好，顺着桌沿而下，像优雅少女的裙摆或是纹理繁复的流云。",
-"materials":"留云软意图纸*1（羁梦花事活动获取），心形七彩椒*7，五彩甜椒*34，娑罗木*20",
-"memory":"查理苏很喜欢这张桌子，特别是这块中古蕾丝桌布，在初次见到时就用了数分钟时间全方位夸赞了它。“当然，最需要肯定的是亲爱的未婚妻将它的作用与美感发挥到了极致。”他肯定地说。",
-"type":"teapoy",
-"type_name":"小桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsxz留云软意.png"
-},
-{
-"id":23,
-"name":"律动幻想",
-"detail":"咖色小几触手微凉，有它陪伴的每一天，美好的时光不期而遇。",
-"materials":"律动幻想图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*7，五彩甜椒*31，娑罗木*15",
-"memory":"在家的时候，咖色小几上总是摆满了零食。和他一起窝在沙发上观影，也是平凡生活里的一丝慰藉。",
-"type":"teapoy",
-"type_name":"小桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsxz律动幻想.png"
-},
-{
-"id":24,
-"name":"陈旧木桌",
-"detail":"有些不稳当的木制桌子，碰一下就会发出吱呀吱呀的响声。",
-"materials":"初次进入工作室赠送",
-"memory":"靠着它时，摇摇晃晃很不安稳。“看我的，未婚妻。”查理苏将一叠纸巾垫在桌下，平稳了它的躁动，也安定了我的心。",
-"type":"teapoy",
-"type_name":"小桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsxz陈旧木桌.png"
-},
-{
-"id":25,
-"name":"灵犀双通",
-"detail":"高度正好的双层方桌，简单的结构与造型没有抛却基本的美感，下层的空间可以用来放置许多精巧的小物件。",
-"materials":"灵犀双通图纸*1（查理苏失控养成奖励），五彩甜椒*26，螺丝椒*42，坚木*50",
-"memory":null,
-"type":"frame",
-"type_name":"画桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshz灵犀双通.png"
-},
-{
-"id":26,
-"name":"流光典印",
-"detail":"实用和装饰功能兼具的双层桌，即使线条十足方正也没有丝毫笨拙感，边角都暗藏了巧思。",
-"materials":"流光典印图纸*1（羁梦镜影活动奖励），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
-"memory":"在家转来转去找贪玩的雪莉酒，没想到小家伙藏在桌布半掩的暗角，和查理苏一起对它进行了严肃的批评教育。",
-"type":"frame",
-"type_name":"画桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshz流光典印.png"
-},
-{
-"id":27,
-"name":"浪漫营业",
-"detail":"当一块大理石结束自然之旅，又以另一种形式开启新的生命时，只需静静伫立，就可以见证恋情的甜蜜。",
-"materials":"浪漫经营图纸*1（完成叶子邮件-甜憩之路·III（查理苏）），五彩甜椒*30，螺丝椒*46，坚木*50",
-"memory":"两颗毛茸茸的脑袋聚在一起，研制着专属于二人的色彩，不经意间肌肤相触，甜蜜的气息氤氲满屋。",
-"type":"frame",
-"type_name":"画桌",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzshz浪漫营业.png"
-},
-{
-"id":28,
-"name":"轻球遐思",
-"detail":"错落有致的一束装饰气球，每只都浑圆鼓胀，让人不禁遐想或许每只都盛着一个美满轻盈的梦境。",
-"materials":"轻球遐思图纸*1（活动·朝花夕饰），五彩甜椒*32，螺丝椒*40，青石*50",
-"memory":null,
-"type":"decorate",
-"type_name":"装饰",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzszs轻球遐思.png"
-},
-{
-"id":29,
-"name":"音律永驻",
-"detail":"造型独特的雕塑，在灯下泛着金属色光泽，乐者手持的萨克斯似乎会在某个时刻流淌出音符。",
-"materials":"音律永驻图纸*1（羁梦镜影活动获取），心形七彩椒*8，五彩甜椒*33，花岗岩*20",
-"memory":"多亏了对萨克斯略通一二的查理苏，脾气古怪的策展人才松口转让，所以我们为雕塑先生举办了—场热烈的欢迎仪式。",
-"type":"decorate",
-"type_name":"装饰",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzszs音律永驻.png"
-},
-{
-"id":30,
-"name":"浪漫情思",
-"detail":"色彩充满浪漫气息的长绒地毯，总能让人联想到深藏在心底不轻易示人的少女情思，柔软而缤纷。",
-"materials":"浪漫情思图纸*1（羁梦镜影活动获取），心形七彩椒*8，五彩甜椒*30，娑罗木*20",
-"memory":"就这么静静地坐着一起画画，占据的方寸之地被甜蜜包围，周遭的一切似乎都成了默片电影里的背景。",
-"type":"carpet",
-"type_name":"地毯",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsdt浪漫情思.png"
-},
-{
-"id":31,
-"name":"织锦纺心",
-"detail":"图案鲜艳饱满，寓意吉祥的长毛圆毯，意外地很有分量，无论摆在哪里似乎都会让那处成为独具一格的风景角。",
-"materials":"织锦纺心图纸*1（羁梦花事活动获取），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
-"memory":"地毯的日常养护其实很繁琐，查理苏非常愉快地接下了这份工作。只是在每次完成一次“完美的护理”之后，都会非常迅速地过来向我索求相应的“丰厚奖励”。",
-"type":"carpet",
-"type_name":"地毯",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsdt织锦纺心.png"
-},
-{
-"id":32,
-"name":"秘密空间",
-"detail":"莫兰迪色调的小圆毯，恋人踏足其上，细腻的触感让彼此甘愿“画地为牢”。",
-"materials":"秘密空间图纸*1（完成叶子邮件-甜憩之路·III（查理苏）），五彩甜椒*27，螺丝椒*46，坚木*50",
-"memory":"就这么静静地坐着一起画画，占据的方寸之地被甜蜜包围，周遭的一切似乎都成了默片电影里的背景。",
-"type":"carpet",
-"type_name":"地毯",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsdt秘密空间.png"
-},
-{
-"id":33,
-"name":"强捻地毯",
-"detail":"老旧的毯面绒头方向性不确定，使其产生特殊的触感。",
-"materials":"初次进入工作室获得",
-"memory":null,
-"type":"carpet",
-"type_name":"地毯",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsdt强捻地毯.png"
-},
-{
-"id":34,
-"name":"啁啾爱巢",
-"detail":"独一无二的定制水晶球，底座和内容物都由世界上最追求完美的男人定制，不管是用料还是设计都毫无死角。",
-"materials":"啁啾爱巢图纸*1（长期计划-集齐查理苏专属家具·II），心形七彩椒*8，五彩甜椒*39，花岗岩*20",
-"memory":"偶尔会发现有人看向水晶球时目光复杂，打趣他是不是老父亲心态作祟，得到一个急匆匆的吻作回复。",
-"type":"cushion",
-"type_name":"抱枕",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsbz啁啾爱巢.png"
-},
-{
-"id":35,
-"name":"甜软如你",
-"detail":"把抱枕抱在怀里反复揉搓一番后，脑海中不由就会浮现出同款食物香甜诱人的口感。",
-"materials":"软甜如你图纸*1（羁梦花事活动获取），心形七彩椒*6，五彩甜椒*28，娑罗木*15",
-"memory":"松软的抱枕总是会形成视觉盲区。几天前查理苏的雪莉酒水晶像无故消失，哀嚎许久之后，却被我从抱枕下面找了出来。那一刻，他的笑容灿烂得像个小孩。",
-"type":"cushion",
-"type_name":"抱枕",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsbz甜软如你.png"
-},
-{
-"id":36,
-"name":"萌趣小憩",
-"detail":"柔软饱满的小鸭坐垫，可靠可坐，还能给你一个治愈的拥抱。在忙碌的当下，专属于你的小鸭时间start !",
-"materials":"萌趣小憩图纸*1（历程达到绳床瓦灶I），心形七彩椒*67五彩甜椒*29，娑罗木*15",
-"memory":"在一天的工作结束后，软乎乎的小黄鸭迎来了生命中不可承受之重:嘎，我是一人座!这是完美的未婚夫不完美的时刻，他却满不在乎。",
-"type":"cushion",
-"type_name":"抱枕",
-"file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/gzsbz萌趣小憩.png"
-}
+    {
+        "id":1,
+        "name":"海风盈室",
+        "detail":"一幅精美的海岛风景画，看到它的瞬间，仿佛能感到扑面而来的海风。",
+        "materials":"海风盈室图纸*1（朝花夕饰活动获取），心形七彩椒*5，五彩甜椒*27，娑罗木*15",
+        "memory":null,
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/海风盈室.png"
+    },
+    {
+        "id":2,
+        "name":"《蓝天下》",
+        "detail":"查理苏即兴完成的火柴人作品。蓝天下，他送给你色彩最热烈的花束。",
+        "materials":"《蓝天下》图纸*1（羁梦镜影活动获取），心形七彩椒*5，五彩甜椒*28，花岗岩*15",
+        "memory":"蓝天下大手拉着小手，我们像两个幼儿园的小朋友。可以和未婚妻一起长大吗？我用最开心的笑容给予他肯定的回答。",
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/《蓝天下》.png"
+    },
+    {
+        "id":3,
+        "name":"《拉小手》",
+        "detail":"查理苏即兴完成的火柴人作品。每一寸笔触都洋溢着快乐。",
+        "materials":"《拉小手》图纸*1（完成查理苏专属叶子信件获取），心形七彩椒*6，五彩甜椒*26，娑罗木*15",
+        "memory":"查理苏边画边偷偷看我，嘴角挂着幸福的微笑他说他最浪漫的心愿，就是我们变成老爷爷老奶奶时，还能像这样牵着彼此的手。",
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/《拉小手》.png"
+    },
+    {
+        "id":4,
+        "name":"完美定格",
+        "detail":"你的素描作品，不过并不算完全还原眼前所见，因为你的模特在和你交谈时似乎忘记了做表情管理。",
+        "materials":"完美定格图纸*1（完成叶子邮件-甜憩之路·IV查理苏），心形七彩椒*6，五彩甜椒*30，娑罗木*15",
+        "memory":"和他共度的时光流逝得飞快，想要永远记录下他神采飞扬的样子。哪怕表情管理不够充分，他也是心里最完美的那一个。",
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/完美定格.png"
+    },
+    {
+        "id":5,
+        "name":"《公主抱》",
+        "detail":"查理苏即兴完成的火柴人作品。画面中的他像现实中一样，不费吹灰之力将你抱起。",
+        "materials":"《公主抱》图纸*1（完成叶子邮件-甜憩之路·IV（查理苏），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
+        "memory":"查理苏放下画笔，将正观赏“大作”的我一把抱起。在怀抱中惊呼，看到他正深情地凝望着我，“未婚妻，你就是我的灵感源泉。”",
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/《公主抱 》.png"
+    },
+    {
+        "id":6,
+        "name":"色彩之宴",
+        "detail":"当太阳淡淡的金色照在雪白的画板上，盛宴的前调已被奏响，缤纷的油彩即将登场。",
+        "materials":"色彩之宴图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*6，五彩甜椒*27，娑罗木*15",
+        "memory":"天光偷偷把我们的影子投在布满油彩的画板上，将这一刻入画，铭记成永恒。",
+        "type":"drawing_board",
+        "type_name":"画板",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/色彩之宴.png"
+    },
+    {
+        "id":7,
+        "name":"绘彩支架",
+        "detail":"非常稳固的木质画架，灵活的结构可以根据不同身高的作画人来调整，给予最舒适的绘画体验。",
+        "materials":"彩绘支架图纸*1（羁梦花事活动获取），心形七彩椒*9，五彩甜椒*34，娑罗木*20",
+        "memory":"非常稳固的木质画架，灵活的结构可以根据不同身高的作画人来调整，给予最舒适的绘画体验。",
+        "type":"wooden_support ",
+        "type_name":"木架",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/绘彩支架.png"
+    },
+    {
+        "id":8,
+        "name":"松香木刻",
+        "detail":"色调厚重的画架，拥有与外表相称的高度稳定性，能够自由调节高度，以为画家提供舒适体验为追求。",
+        "materials":"松香木刻图纸*1（羁梦镜影活动获取），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
+        "memory":"调试画架的时候过于用心，没听到查理苏的呼唤，对上倚在旁边的他无奈眼神，忍俊不禁用了一个亲吻来告饶。",
+        "type":"wooden_support ",
+        "type_name":"木架",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/松香木刻.png"
+    },
+    {
+        "id":9,
+        "name":"逐影画架",
+        "detail":"木中贵族制成的画架，柔和流畅的纹理间，恋人的记忆碎片散落其中。原来这世间也有不散的筵席。",
+        "materials":"逐影画架图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*9，五彩甜椒*31，娑罗木*20",
+        "memory":"“唔......”天旋地转间后背贴上了画架，温热贴近，画笔在布上描摹出曼妙的轮廓。显然，只有完美的未婚夫才能解锁它的隐藏用法。",
+        "type":"wooden_support ",
+        "type_name":"木架",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/逐影画架.png"
+    },
+    {
+        "id":10,
+        "name":"艺术画架",
+        "detail":"可折叠的木制画架，在便于存储的同时轻便牢固设计感强。",
+        "materials":"初次进入[工作室]赠送",
+        "memory":null,
+        "type":"wooden_support ",
+        "type_name":"木架",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/艺术画架.png"
+    },
+    {
+        "id":11,
+        "name":"愿抵真心",
+        "detail":"比起装饰品更像纪念品，十分有存在感，偶尔会被拿起来做一些两人之间有趣的射击游戏。",
+        "materials":"愿抵真心图纸*1（查理苏失控养成奖励），心形七彩椒*5，五彩甜椒*26，花岗岩*15",
+        "memory":null,
+        "type":"painting_materials",
+        "type_name":"画材",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/愿抵真心.png"
+    },
+    {
+        "id":12,
+        "name":"狮心",
+        "detail":"高清的分辨率按理来说会放大人身上哪怕一点瑕疵，奇怪的是这一定律在查理苏的面前失效了。",
+        "materials":"狮心图纸*1（活动-绘心之镜获得），五彩甜椒*31，螺丝椒*49，坚木*50",
+        "memory":null,
+        "type":"painting_materials",
+        "type_name":"画材",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/狮心.png"
+    },
+    {
+        "id":13,
+        "name":"奇遇匣子",
+        "detail":"貂毛和獾毛制成的画笔惬意地躺在大理石笔筒里，红黄蓝白四色“保湿”颜料，水润无比，据说为梵高心爱之物。",
+        "materials":"奇遇匣子图纸*1（商城6区-园宅精选-历程达到屋舍俨然V级上架），螺丝椒*47，青椒*76，坚木*40",
+        "memory":"正偷看着新晋画师，查理苏兴致勃勃地摆弄着画具，脸上突然感到一抹微凉，抬头望去，照见一双狡黠的眼眸。“给我的未婚妻盖个章。”",
+        "type":"painting_materials",
+        "type_name":"画材",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/奇遇匣子.png"
+    },
+    {
+        "id":14,
+        "name":"流声铭梦",
+        "detail":"巧思很多的装饰摆件，闲暇时候轻轻拨弄，似乎能听见悠扬复古的舞曲在其间缓慢流淌。",
+        "materials":"流声铭梦图纸*1（朝花夕饰活动获取），心形七彩椒*8，五彩甜椒*31，花岗岩*20",
+        "memory":null,
+        "type":"music",
+        "type_name":"音乐",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/流声铭梦.png"
+    },
+    {
+        "id":15,
+        "name":"金粉世代",
+        "detail":"无疑是增添起居情调的好物，独特的底色在古典之中平添一丝俏皮，似初入名利场的贵族少女。",
+        "materials":"金粉世代图纸*1（活动-绘心之镜获得），心形七彩椒*6，五彩甜椒*26，花岗岩*15",
+        "memory":null,
+        "type":"music",
+        "type_name":"音乐",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/金粉世代.png"
+    },
+    {
+        "id":16,
+        "name":"心动与你",
+        "detail":"红绿颜料的约会开始了，时间在此刻停驻，美好的瞬间被留在纸上。",
+        "materials":"心动与你图纸*1（商城6区-园宅精选-历程达到屋舍俨然III级上架），五彩甜椒*26，螺丝椒*52，青石*50",
+        "memory":"正感叹查医生红配绿的大胆配色，却见他露出了磕CP的满意笑容，墓地在灿如紫钻的眼眸中沉沦。",
+        "type":"music",
+        "type_name":"音乐",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/心动与你.png"
+    },
+    {
+        "id":17,
+        "name":"织梦乐章",
+        "detail":"唱针在黑胶唱片上缓缓划过，流淌的琴音里是一场绚烂的梦。",
+        "materials":"织梦乐章心动与你图纸*1（完成叶子邮件-蓝星和阿榛·Ⅰ），心形七彩椒*9，五彩甜椒*39，青石*20",
+        "memory":"晨光熹微，音符在厅室飞舞。他将我的手包在掌心，我们的画笔也在画布上旋转跳跃，勾勒出温馨的图画。",
+        "type":"music",
+        "type_name":"音乐",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/织梦乐章.png"
+    },
+    {
+        "id":18,
+        "name":"循环爱意",
+        "detail":"不规则的色块，随性的爱，无一不体现设计师理念:爱没有定律，会随意生长，爱是世间最柔软的东西。",
+        "materials":"循环爱意图纸*1（活动-绘心之镜获得），心形七彩椒*5，五彩甜椒*29，花岗岩*15",
+        "memory":null,
+        "type":"chair",
+        "type_name":"椅子",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/循环爱意.png"
+    },
+    {
+        "id":19,
+        "name":"弧木圆凳",
+        "detail":"古意盎然的小圆凳，无论充当歇脚的地方还是融入室内装潢的配件都十分合意，坐在上面不自觉就会注重起自己的仪态来。",
+        "materials":"弧木圆凳图纸*1（羁梦花事活动获取），心形七彩椒*9，五彩甜椒*34，花岗岩*20",
+        "memory":"虽然这只小圆凳空间有限，但查理苏坐在上面丝毫不显得局促，他大手一捞，路过的我就会跌坐在他膝盖上，看来就算是两个人的重量，它也完全可以负担呢。",
+        "type":"chair",
+        "type_name":"椅子",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/弧木圆凳.png"
+    },
+    {
+        "id":20,
+        "name":"闲适一刻",
+        "detail":"配有慢回弹坐垫的木质小矮凳，可以轻松将其拎起，有它的每个角落都那么舒适闲逸。",
+        "materials":"闲适一刻图纸*1（完成叶子邮件-阿榛来做客·II），心形七彩椒*6，五彩甜椒*29，娑罗木*15",
+        "memory":"查医生漫不经心地展示着肱二头肌，同时表示如此出色的家伙，得再买一个。",
+        "type":"chair",
+        "type_name":"椅子",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/闲适一刻.png"
+    },
+    {
+        "id":21,
+        "name":"矜贵之息",
+        "detail":"圆桌的结构巧妙，线条流畅如少女裙摆，金属与木材的分布完美且和谐，互相映衬，细节之处尽显奢华。",
+        "materials":"矜贵之息图纸*1（【查理苏-奢梦】养成奖励），心形七彩椒*5，五彩甜椒*29，娑罗木*15",
+        "memory":"桌面上不时会出现查理苏的小礼物，有时候是一枚宝石胸针，有时是两张千金难求的宴会邀请函。",
+        "type":"teapoy",
+        "type_name":"小桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/矜贵之息.png"
+    },
+    {
+        "id":22,
+        "name":"留云软意",
+        "detail":"实木圆桌铺上了从中古市场淘来的重工蕾丝桌布，垂坠感极好，顺着桌沿而下，像优雅少女的裙摆或是纹理繁复的流云。",
+        "materials":"留云软意图纸*1（羁梦花事活动获取），心形七彩椒*7，五彩甜椒*34，娑罗木*20",
+        "memory":"查理苏很喜欢这张桌子，特别是这块中古蕾丝桌布，在初次见到时就用了数分钟时间全方位夸赞了它。“当然，最需要肯定的是亲爱的未婚妻将它的作用与美感发挥到了极致。”他肯定地说。",
+        "type":"teapoy",
+        "type_name":"小桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/留云软意.png"
+    },
+    {
+        "id":23,
+        "name":"律动幻想",
+        "detail":"咖色小几触手微凉，有它陪伴的每一天，美好的时光不期而遇。",
+        "materials":"律动幻想图纸*1（完成叶子邮件-甜憩之路·I（查理苏）），心形七彩椒*7，五彩甜椒*31，娑罗木*15",
+        "memory":"在家的时候，咖色小几上总是摆满了零食。和他一起窝在沙发上观影，也是平凡生活里的一丝慰藉。",
+        "type":"teapoy",
+        "type_name":"小桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/律动幻想.png"
+    },
+    {
+        "id":24,
+        "name":"陈旧木桌",
+        "detail":"有些不稳当的木制桌子，碰一下就会发出吱呀吱呀的响声。",
+        "materials":"初次进入工作室赠送",
+        "memory":"靠着它时，摇摇晃晃很不安稳。“看我的，未婚妻。”查理苏将一叠纸巾垫在桌下，平稳了它的躁动，也安定了我的心。",
+        "type":"teapoy",
+        "type_name":"小桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/陈旧木桌.png"
+    },
+    {
+        "id":25,
+        "name":"灵犀双通",
+        "detail":"高度正好的双层方桌，简单的结构与造型没有抛却基本的美感，下层的空间可以用来放置许多精巧的小物件。",
+        "materials":"灵犀双通图纸*1（查理苏失控养成奖励），五彩甜椒*26，螺丝椒*42，坚木*50",
+        "memory":null,
+        "type":"frame",
+        "type_name":"画桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/灵犀双通.png"
+    },
+    {
+        "id":26,
+        "name":"流光典印",
+        "detail":"实用和装饰功能兼具的双层桌，即使线条十足方正也没有丝毫笨拙感，边角都暗藏了巧思。",
+        "materials":"流光典印图纸*1（羁梦镜影活动奖励），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
+        "memory":"在家转来转去找贪玩的雪莉酒，没想到小家伙藏在桌布半掩的暗角，和查理苏一起对它进行了严肃的批评教育。",
+        "type":"frame",
+        "type_name":"画桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/流光典印.png"
+    },
+    {
+        "id":27,
+        "name":"浪漫营业",
+        "detail":"当一块大理石结束自然之旅，又以另一种形式开启新的生命时，只需静静伫立，就可以见证恋情的甜蜜。",
+        "materials":"浪漫经营图纸*1（完成叶子邮件-甜憩之路·III（查理苏）），五彩甜椒*30，螺丝椒*46，坚木*50",
+        "memory":"两颗毛茸茸的脑袋聚在一起，研制着专属于二人的色彩，不经意间肌肤相触，甜蜜的气息氤氲满屋。",
+        "type":"frame",
+        "type_name":"画桌",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/浪漫营业.png"
+    },
+    {
+        "id":28,
+        "name":"轻球遐思",
+        "detail":"错落有致的一束装饰气球，每只都浑圆鼓胀，让人不禁遐想或许每只都盛着一个美满轻盈的梦境。",
+        "materials":"轻球遐思图纸*1（活动·朝花夕饰），五彩甜椒*32，螺丝椒*40，青石*50",
+        "memory":null,
+        "type":"decorate",
+        "type_name":"装饰",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/轻球遐思.png"
+    },
+    {
+        "id":29,
+        "name":"音律永驻",
+        "detail":"造型独特的雕塑，在灯下泛着金属色光泽，乐者手持的萨克斯似乎会在某个时刻流淌出音符。",
+        "materials":"音律永驻图纸*1（羁梦镜影活动获取），心形七彩椒*8，五彩甜椒*33，花岗岩*20",
+        "memory":"多亏了对萨克斯略通一二的查理苏，脾气古怪的策展人才松口转让，所以我们为雕塑先生举办了—场热烈的欢迎仪式。",
+        "type":"decorate",
+        "type_name":"装饰",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/音律永驻.png"
+    },
+    {
+        "id":30,
+        "name":"浪漫情思",
+        "detail":"色彩充满浪漫气息的长绒地毯，总能让人联想到深藏在心底不轻易示人的少女情思，柔软而缤纷。",
+        "materials":"浪漫情思图纸*1（羁梦镜影活动获取），心形七彩椒*8，五彩甜椒*30，娑罗木*20",
+        "memory":"就这么静静地坐着一起画画，占据的方寸之地被甜蜜包围，周遭的一切似乎都成了默片电影里的背景。",
+        "type":"carpet",
+        "type_name":"地毯",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/浪漫情思.png"
+    },
+    {
+        "id":31,
+        "name":"织锦纺心",
+        "detail":"图案鲜艳饱满，寓意吉祥的长毛圆毯，意外地很有分量，无论摆在哪里似乎都会让那处成为独具一格的风景角。",
+        "materials":"织锦纺心图纸*1（羁梦花事活动获取），心形七彩椒*6，五彩甜椒*32，娑罗木*15",
+        "memory":"地毯的日常养护其实很繁琐，查理苏非常愉快地接下了这份工作。只是在每次完成一次“完美的护理”之后，都会非常迅速地过来向我索求相应的“丰厚奖励”。",
+        "type":"carpet",
+        "type_name":"地毯",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/织锦纺心.png"
+    },
+    {
+        "id":32,
+        "name":"秘密空间",
+        "detail":"莫兰迪色调的小圆毯，恋人踏足其上，细腻的触感让彼此甘愿“画地为牢”。",
+        "materials":"秘密空间图纸*1（完成叶子邮件-甜憩之路·III（查理苏）），五彩甜椒*27，螺丝椒*46，坚木*50",
+        "memory":"就这么静静地坐着一起画画，占据的方寸之地被甜蜜包围，周遭的一切似乎都成了默片电影里的背景。",
+        "type":"carpet",
+        "type_name":"地毯",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/秘密空间.png"
+    },
+    {
+        "id":33,
+        "name":"强捻地毯",
+        "detail":"老旧的毯面绒头方向性不确定，使其产生特殊的触感。",
+        "materials":"初次进入工作室获得",
+        "memory":null,
+        "type":"carpet",
+        "type_name":"地毯",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/强捻地毯.png"
+    },
+    {
+        "id":34,
+        "name":"啁啾爱巢",
+        "detail":"独一无二的定制水晶球，底座和内容物都由世界上最追求完美的男人定制，不管是用料还是设计都毫无死角。",
+        "materials":"啁啾爱巢图纸*1（长期计划-集齐查理苏专属家具·II），心形七彩椒*8，五彩甜椒*39，花岗岩*20",
+        "memory":"偶尔会发现有人看向水晶球时目光复杂，打趣他是不是老父亲心态作祟，得到一个急匆匆的吻作回复。",
+        "type":"cushion",
+        "type_name":"抱枕",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/啁啾爱巢.png"
+    },
+    {
+        "id":35,
+        "name":"软甜如你",
+        "detail":"把抱枕抱在怀里反复揉搓一番后，脑海中不由就会浮现出同款食物香甜诱人的口感。",
+        "materials":"软甜如你图纸*1（羁梦花事活动获取），心形七彩椒*6，五彩甜椒*28，娑罗木*15",
+        "memory":"松软的抱枕总是会形成视觉盲区。几天前查理苏的雪莉酒水晶像无故消失，哀嚎许久之后，却被我从抱枕下面找了出来。那一刻，他的笑容灿烂得像个小孩。",
+        "type":"cushion",
+        "type_name":"抱枕",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/软甜如你.png"
+    },
+    {
+        "id":36,
+        "name":"萌趣小憩",
+        "detail":"柔软饱满的小鸭坐垫，可靠可坐，还能给你一个治愈的拥抱。在忙碌的当下，专属于你的小鸭时间start !",
+        "materials":"萌趣小憩图纸*1（历程达到绳床瓦灶I），心形七彩椒*67五彩甜椒*29，娑罗木*15",
+        "memory":"在一天的工作结束后，软乎乎的小黄鸭迎来了生命中不可承受之重:嘎，我是一人座!这是完美的未婚夫不完美的时刻，他却满不在乎。",
+        "type":"cushion",
+        "type_name":"抱枕",
+        "file_path":"https:\/\/charlie-backend.oss-cn-hongkong.aliyuncs.com\/studio\/furniture\/萌趣小憩.png"
+    }
 ]
