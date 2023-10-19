@@ -7,9 +7,6 @@ import re
 global data_list 
 data_list  = []
 
-global chap_data_list
-chap_data_list = []
-
 # 提炼文本
 def extract_details(docx_path, json_path):
 
@@ -39,6 +36,9 @@ def extract_details(docx_path, json_path):
     content = []
 
     isIden = False 
+
+    if (file_name_without_extension+'.png') in os.listdir('../立绘'):
+        data["img"] = "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/" + file_name_without_extension+'.png'
 
     for paragraph in document.paragraphs:
         line = paragraph.text.strip()
@@ -79,15 +79,18 @@ def extract_details(docx_path, json_path):
     with open(json_path, "w", encoding="utf-8") as json_file:
         json.dump(data_list, json_file, ensure_ascii=False, indent=4)
 
+
     return file_name_without_extension
 
 
 def main():
-    os.chdir('./关于charlie/charlie关系梳理')
+    # os.chdir('./关于charlie/charlie关系梳理')
+    os.chdir('./关于charlie/charlie关系梳理更新') #更新时
 
     relationships = os.listdir()
     for re in relationships:
-        extract_details(re,"../人物关系.json")
+        # extract_details(re,"../人物关系.json")
+        extract_details(re,"../人物关系1.json")
 
 
 if __name__ == '__main__':

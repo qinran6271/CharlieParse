@@ -1,0 +1,44 @@
+[
+    {
+        "name": "蒋部长",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/蒋部长.png",
+        "details": {
+            "identities": [
+                "查理苏父亲合作对象",
+                "连山会部长"
+            ],
+            "overview": [
+                "听命于连山会，运用神的血清实验，制约血族。但连山会好像有更大的图谋，却不得而知……",
+                "当初双胞胎陷入火灾中也有他的手笔，为达目的不择手段。"
+            ]
+        }
+    },
+    {
+        "name": "王受",
+        "img": "https://charlie-backend.oss-cn-hongkong.aliyuncs.com/characters/王受.png",
+        "details": {
+            "identities": [
+                "前世的受王",
+                "再世风投公司的创始人"
+            ],
+            "overview": [
+                "前世的受王，身负许多秘密。尘世与地下之间连接的重要一环，一直为追逐“神”、长生不老。",
+                "拥有夺舍能力，从前世活到至今，为打开通道来找寻查理苏。",
+                "似乎还有更多的秘密……"
+            ]
+        }
+    },
+    {
+        "name": "喳喳",
+        "img": "",
+        "details": {
+            "identities": [
+                "查理苏哥哥"
+            ],
+            "overview": [
+                "聪慧稳重，是查理苏崇敬的哥哥。",
+                "五岁死于火场，因而查理苏一直以哥哥的性格要求自己，试图赎罪，还给哥哥原本的人生。"
+            ]
+        }
+    }
+]
