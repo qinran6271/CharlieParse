@@ -18,6 +18,8 @@ def main():
 
     # 提取文本内容
     for filename in os.listdir("文本"):
+        if filename == ".DS_Store":
+            continue
         document = Document("文本/" + filename)
         filetitle = filename.split('-')[1].split('.')[0]
         entry = filename.split('-')[0]
