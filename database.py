@@ -68,19 +68,19 @@ def delete_all(collection):
 if __name__ == '__main__':
 
 
-    # delete_all(moments_details)
-    # delete_all(moments_overview)
+    # delete_all(day_night_chaps)
+    # delete_all(day_night_subchaps)
     # delete_all(chat_calls)
     # delete_all(chat_overview)
     # delete_all(chat_details)
     # read_many(merch,'./谷子/新谷子.json')
 
     # delete_all(day_night_subchaps)
-    # read_many(chat_calls,'./聊天记录/calls.json')
-    # read_many(chat_overview,'./聊天记录/overview.json')
+    read_many(day_night_chaps,'./主线/chaps.json')
+    read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_many(chat_details,'./聊天记录/details.json')
-    read_many(moments_details,'./朋友圈/朋友圈details.json')
-    read_many(moments_overview,'./朋友圈/朋友圈overview.json')
+    # read_many(moments_details,'./朋友圈/朋友圈details.json')
+    # read_many(moments_overview,'./朋友圈/朋友圈overview.json')
     # read_many(day_night_subchaps,'./主线/subchaps.json')
     # read_one(date_overview,'./记忆-约会/date_overview.json')
 
