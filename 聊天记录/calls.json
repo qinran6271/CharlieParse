@@ -1,6 +1,6 @@
 [
     {
-        "callCode": "v8ee7a3d3-3ac1-43f0-98a8-d9c1ce9eb3ca",
+        "callCode": "v6cfbc051-fb9c-4c05-a99a-2e2d0899ee34",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -273,7 +273,7 @@
         ]
     },
     {
-        "callCode": "vd5e785b9-92b5-4321-a699-a82d6b4fbf39",
+        "callCode": "va72b780c-4f8c-4444-a6f7-c552d94c9780",
         "call_history": [
             {
                 "speaker": "我",
@@ -510,7 +510,7 @@
         ]
     },
     {
-        "callCode": "va184608a-cb36-493d-bfbf-b0168c7fa352",
+        "callCode": "v5fdc9c61-2d96-4ef2-9e11-4485ff46aecc",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -586,7 +586,7 @@
         ]
     },
     {
-        "callCode": "v0431666d-3c3c-481c-88ef-f64465153171",
+        "callCode": "v3a7ed7e3-ca36-4c18-9c7b-3afdc049ecaf",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -761,7 +761,7 @@
         ]
     },
     {
-        "callCode": "vc8741611-84e0-440e-9a89-743756188c2c",
+        "callCode": "v04c97d76-9b20-4a44-aef3-5662c2eb32fb",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1038,7 +1038,7 @@
         ]
     },
     {
-        "callCode": "vb0024034-1162-4ad1-96a0-56ab534f86d8",
+        "callCode": "v4e99c33f-e7c7-44b3-9503-c9b00fe35830",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1270,7 +1270,7 @@
         ]
     },
     {
-        "callCode": "v9d53ea47-76d4-48c9-bb16-f1dee4a239db",
+        "callCode": "vf3b33050-be87-4fb2-ae40-ad26fd33ff83",
         "call_history": [
             {
                 "speaker": "我",
@@ -1518,7 +1518,7 @@
         ]
     },
     {
-        "callCode": "vd44ee6a7-6a01-425b-ba43-d5d954163c09",
+        "callCode": "vb64d8784-24a9-4148-9ae4-03093d3179e7",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -1745,7 +1745,7 @@
         ]
     },
     {
-        "callCode": "ve8ac15ee-d1c8-4f1c-a925-d820d090ef62",
+        "callCode": "vba76c5bb-9514-4d2f-a305-161c7549253b",
         "call_history": [
             {
                 "speaker": "我",
@@ -1953,7 +1953,7 @@
         ]
     },
     {
-        "callCode": "v2182d592-e96d-4b36-a956-43bea96e8f44",
+        "callCode": "v4e5995cf-1f1c-4d9a-b28b-a316c08a59d2",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2193,7 +2193,343 @@
         ]
     },
     {
-        "callCode": "v083ba43a-5bbd-44a1-8c30-d60a53849ab8",
+        "callCode": "va067fa18-62a7-4fa5-bc0d-641e3e0d5f5e",
+        "call_history": [
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "未婚妻，你到家了吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "今天下班晚了一点，不过马上就到家啦。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "那你应该已经看到放在你家门口，画着巨大爱心的快递纸箱了吧？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "看到啦看到啦，这么华丽的包装，一看就是你的手笔。"
+                    },
+                    {
+                        "contentText": "你帮我买了什么呀？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "这可是用金钱都买不到的珍贵礼物，你拆开看看就知道了。"
+                    },
+                    {
+                        "contentText": "不过拆的时候要小小些，最好是顺着盒子上标记好的虚线轻轻地拆。"
+                    },
+                    {
+                        "contentText": "未婚妻有一双大设计师的巧手，这点小事一定难不倒你。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "嗯，我已经在拆啦，啊，这些是……？！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "这些就是上次你陪我过生日的时候，在游轮上拍的照片。"
+                    },
+                    {
+                        "contentText": "我特地聘请了二十多位专业摄影师在我们周围抓拍，这才捕捉到这么多属于我们两人的完美时刻。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "抓拍的事，吉叔是有跟我提前说过啦不过，我也没想到出片效果会这么好。"
+                    },
+                    {
+                        "contentText": "尤其是这张我喂你吃蛋糕的照片，你笑得可真开心！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "那当然，未婚妻在我身边的每一秒，我的快乐都会呈几倍数增长。"
+                    },
+                    {
+                        "contentText": "对了，放照片的盒子沿着虚线折叠之后，会变成一个小房子形状的相框。"
+                    },
+                    {
+                        "contentText": "这是我为你准备的”爱心小屋”，你可以把最喜欢的照片放在相框里面。"
+                    },
+                    {
+                        "contentText": "顺便说一句，现在我的家里已经有制作完成的同款了。"
+                    },
+                    {
+                        "contentText": "而且除了相框，我还在家里布置了一整面照片墙，这样我只要一回家，就能看到未婚妻的笑容了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "听到你的描述，我还真有点等不及想动手了！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "放心吧，实物效果保证不会让你失望。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "不过查理苏，你怎么会突然想到用纸盒做手工呀？"
+                    },
+                    {
+                        "contentText": "还以为以你的风格，会喜欢更稀有的材质呢。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "其实”爱心小屋”这个点子，还是受你启发的。"
+                    },
+                    {
+                        "contentText": "我把你送我的生日礼物摆了起来。贺卡打开，"
+                    },
+                    {
+                        "contentText": "锡兵站在旁白，翅膀和硬币放在中间，放在一起看，莫名像一座小房子。"
+                    },
+                    {
+                        "contentText": "连雪莉酒都非常感兴趣，说住在这样的房子里一定很感觉。"
+                    },
+                    {
+                        "contentText": "不过我已经用防尘罩把礼物罩好了，就算是雪莉酒，我也不能让她住得这么奢侈。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "要是真的喜欢，就让她住吧！我以后还会送你很多可爱的小东西的。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "那可不行，你送我的每一件礼物，我都不准它受到任何磕碰。"
+                    },
+                    {
+                        "contentText": "就是这件事，让我注意到”纸房子”这个概念很有意思。"
+                    },
+                    {
+                        "contentText": "只属于我们两人的小房子，想想就觉得很浪漫，甚至小小激发了我的筑巢本能。"
+                    },
+                    {
+                        "contentText": "想到这里，我就查了一些资料，设计了这款包装纸盒。"
+                    },
+                    {
+                        "contentText": "既注重环保，又有DIY的趣味。而且纯手工打造的过程，更能体现我们相互之间的心意。"
+                    },
+                    {
+                        "contentText": "需要操作流程说明的话，随时可以找我。"
+                    },
+                    {
+                        "contentText": "等不及的话，待会儿开一下门，就可以立刻收获我的现场教学。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "既然这样，我当然要等你亲自教学咯！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "那么，就期待一下未婚夫为你亲手打造的完美爱心小屋吧。"
+                    },
+                    {
+                        "contentText": "希望今后完美一起度过的每一天，都能像爱心小屋里的笑容一样甜蜜。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "ve88c3119-82fa-4b13-bf46-c380d6a222f3",
+        "call_history": [
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "亲爱的，收到花了吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "刚签收完，你的电话就打来啦。"
+                    },
+                    {
+                        "contentText": "感觉这次的花和平时相比，造型和包装都有些不一样。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "哦？那你说说看，有哪里不一样？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "总体来说，很富贵。"
+                    },
+                    {
+                        "contentText": "花朵上均匀地洒了金粉，包装纸用的还是你衬衣的用款印花，sea silk系列。"
+                    },
+                    {
+                        "contentText": "一看就是完美男人查理苏的手笔。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "我的未婚妻，果然是最了解我的人。"
+                    },
+                    {
+                        "contentText": "那你看看，除了这些，还有什么特别的地方？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "花束中间好像还有东西......是雪莉酒的羊毛毡？"
+                    },
+                    {
+                        "contentText": "这不是我上次在你家做的吗？怎么也放到花束里了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "派雪莉酒来，当然是有重要的事要告诉未婚妻。"
+                    },
+                    {
+                        "contentText": "听说七夕的传说中，牛郎织女要踏着鹊桥相见。"
+                    },
+                    {
+                        "contentText": "但那样的话，小鸟们也太辛苦了。"
+                    },
+                    {
+                        "contentText": "所以我派雪莉酒过来，呼唤未婚妻和我一起过节。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "也想请雪莉酒帮我问问，查医生有没有收到我的小礼物？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "如果你是说那束红玫瑰的话，我已经收到了。"
+                    },
+                    {
+                        "contentText": "没想到在过节这件事情上，我和未婚妻的庆祝方式也是如此心有灵犀。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "轮到我来问你了，那我的小惊喜，你发现了吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然，第一时间就发现了。"
+                    },
+                    {
+                        "contentText": "那张情意绵绵的留言卡，我也放进了钱夹里。"
+                    },
+                    {
+                        "contentText": "这样我就能随时随地，感受未婚妻对我的浓浓爱意了。"
+                    },
+                    {
+                        "contentText": "现在，打开窗户向下看。"
+                    },
+                    {
+                        "contentText": "节日快乐，未婚妻。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v78bf6716-87b1-4acd-af7d-490e27857ed1",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2480,7 +2816,7 @@
         ]
     },
     {
-        "callCode": "va7b81177-44d8-4dd7-a59a-e3a36a900d93",
+        "callCode": "vbd8b6285-eaeb-45b6-b808-f6c950e4384b",
         "call_history": [
             {
                 "speaker": "我",
@@ -2676,7 +3012,7 @@
         ]
     },
     {
-        "callCode": "v31473e6c-6d50-4e3c-b760-c0ca09dfa0c8",
+        "callCode": "v1518f539-15c7-4f91-92e0-8b0ac4a7cc85",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -2901,7 +3237,7 @@
         ]
     },
     {
-        "callCode": "vd901089a-b451-49fa-969d-068c7a8348a3",
+        "callCode": "v06eed586-2cf0-445b-9bd8-093c4dd25a73",
         "call_history": [
             {
                 "speaker": "我",
@@ -3100,7 +3436,7 @@
         ]
     },
     {
-        "callCode": "v3dc3991d-0ed5-4350-a3e9-5c57c4e325bd",
+        "callCode": "v788f3c55-8ec6-4270-8ae4-069cf2771cca",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3371,7 +3707,7 @@
         ]
     },
     {
-        "callCode": "vbbcc1c4d-4fc6-451a-8a65-c0397a604afb",
+        "callCode": "vb60e836a-68f5-47d5-b061-889871c1c875",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -3677,7 +4013,7 @@
         ]
     },
     {
-        "callCode": "ved95d9e7-94dc-46fa-b01e-33524681a520",
+        "callCode": "v9cefa02f-e2b7-42b7-bc19-290489e3f623",
         "call_history": [
             {
                 "speaker": "我",
@@ -3965,7 +4301,7 @@
         ]
     },
     {
-        "callCode": "va79a7690-56ac-4b1d-a8a8-271b3b704a3c",
+        "callCode": "vcd20ea37-ca5a-4521-9384-381004c0fc7e",
         "call_history": [
             {
                 "speaker": "我",
@@ -4221,7 +4557,7 @@
         ]
     },
     {
-        "callCode": "v53d8f180-ec45-47e3-be4c-d39fcc320983",
+        "callCode": "v90df85a3-0b2c-481c-a455-5d8fa11dc979",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4494,7 +4830,7 @@
         ]
     },
     {
-        "callCode": "vc1e244d0-f62c-4049-b88e-d7c0e61033d7",
+        "callCode": "v120be86f-0fd3-46b9-8379-af3e6324948d",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4724,7 +5060,7 @@
         ]
     },
     {
-        "callCode": "vd9d559bb-3757-4edf-b2a0-5a0d3050ced3",
+        "callCode": "vbc2c4c13-b484-4491-bbbb-570c8e549565",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -4964,7 +5300,7 @@
         ]
     },
     {
-        "callCode": "vf0f45d3c-c1a9-417c-8fb8-3823942773aa",
+        "callCode": "v29551926-9bd4-486b-a485-dfe8426f1a00",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5152,7 +5488,7 @@
         ]
     },
     {
-        "callCode": "v5538f013-2b1f-4eb2-88e0-55f574730793",
+        "callCode": "v69cc714d-66a4-49e6-b6a1-bb59bd7c075b",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5393,7 +5729,7 @@
         ]
     },
     {
-        "callCode": "v1c343d6a-f158-4b9d-b432-b33261530b79",
+        "callCode": "v600098b2-25bb-4927-b49f-bd9ba31914ed",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -5643,7 +5979,7 @@
         ]
     },
     {
-        "callCode": "v0ea81a87-36c2-4ba5-8828-69b24d038976",
+        "callCode": "v523e07b6-6ca6-475c-8f4b-5a4e2e226282",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6036,7 +6372,214 @@
         ]
     },
     {
-        "callCode": "vcdfe3e0f-261e-4246-82a1-c93edefcc67a",
+        "callCode": "v8d72fe53-cff0-4e26-8583-7b378525777d",
+        "call_history": [
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "本日天气晴朗，早上好，我的未婚妻，不知道在你醒来的那一刻阳光是否照到了你的窗台？"
+                    },
+                    {
+                        "contentText": "例行的表白环节略微迟了几个小时，不过请你相信，我的爱意永远不会缺席。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "好啦好啦，不就是飞机延误嘛！"
+                    },
+                    {
+                        "contentText": "我已经成功挤上地铁，正在向你飞奔而来了！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "地铁？可我看到你留言的信息，一大早你就从家里出发了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "是连接机场航站楼的短驳地铁啦！"
+                    },
+                    {
+                        "contentText": "我来的时候跑错地方了，怎么都找不到你发给我的那个出站口。"
+                    },
+                    {
+                        "contentText": "后来才发现，新修的航站楼在完全相反的方向。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "原来如此。"
+                    },
+                    {
+                        "contentText": "一会我要先等一等托运的行李，还有一段时间才能出来，所以你可以不用着急。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "好。那我正好可以休息一会，我刚才到处跑，折回来看了指引地图三次。"
+                    },
+                    {
+                        "contentText": "最后工作人员都看不下去了，主动上来问我是不是迷路了。"
+                    },
+                    {
+                        "contentText": "唉，想想还是觉得好丢脸啊！"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "相信我，这没什么的。说来正巧，这次参加国外的医学会议，我也经历了一次迷路的乌龙。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "完美的Charlie也会犯这样的小错误吗？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然了。完美是一门不断自我进修的课程，这可是我的终生学习内容。"
+                    },
+                    {
+                        "contentText": "那天我们与会的酒店里举办的大型会议不止一个，指引和分流做得不是很清晰，于是我在门口向别人求助了。"
+                    },
+                    {
+                        "contentText": "但是那位老先生并不懂英文。"
+                    },
+                    {
+                        "contentText": "我们只好比划着手势交流，然后我看见他露出恍然大悟的表情。"
+                    },
+                    {
+                        "contentText": "我当时非常高兴，满怀信任地跟着他走了。"
+                    },
+                    {
+                        "contentText": "直到几分钟后，我发现他把我领导到了卫生间的门口。‘"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "哈哈哈！所以其实你们的手势交流完全没有顺利传达到各自的真正的意思！"
+                    },
+                    {
+                        "contentText": "那最后怎么样了呢？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "还好，最后我还是找到会议室了，而且没有迟到。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "那就好，话说，我终于到站了！看到走出的乘客了，好多人呀。"
+                    },
+                    {
+                        "contentText": "这好像还是你第一次坐经济舱，你的感受如何？"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "这趟航班刚好载了一个返程的旅行团，他们都是家庭结伴出游，所以整个飞行旅程都十分热闹。"
+                    },
+                    {
+                        "contentText": "前座那位鼾声响亮的老爷爷也为这份热闹作出了不小的贡献。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "看来你的适应力非常强哦。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "遇见不同的人，享受因此而诞生的不同故事，这也是生活的一种意义。"
+                    },
+                    {
+                        "contentText": "我喜欢这样的经历，因为我和你的故事也是在同样奇迹般的碰撞下开始的。"
+                    },
+                    {
+                        "contentText": "就像......在我提到你的这一刻，我就看见你了。"
+                    },
+                    {
+                        "contentText": "你今天穿的是一条格纹的裙子吗？、"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "是的！我还带了一顶格纹帽子！"
+                    },
+                    {
+                        "contentText": "你在哪儿呀，出口的人太多了，我还没看到你。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "你只要站在原地就好，我在走向你。"
+                    },
+                    {
+                        "contentText": "未婚妻你看，真是一个奇迹的巧合，我现在佩戴的正好也是格纹图案的领带。"
+                    },
+                    {
+                        "contentText": "据说两个人在一起久了，灵魂会变得越来越相似，我们之间是不是也拥有了某种心灵感应？"
+                    },
+                    {
+                        "contentText": "好了亲爱的，回头看看，你的小鸟已经归巢了。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v8149cde7-61a2-4319-87a5-a36491ae52b6",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6277,7 +6820,197 @@
         ]
     },
     {
-        "callCode": "vab9df9b5-ce20-4d4a-b532-404b00cfc491",
+        "callCode": "v4543c357-fb1b-4cfd-9d2d-4afc5515101b",
+        "call_history": [
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "查理苏，我发现这个月跟你一起运动之后状态真的好了很多呀。"
+                    },
+                    {
+                        "contentText": "无论是睡眠还是工作都能更快进入状态。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "其实我也发现了。"
+                    },
+                    {
+                        "contentText": "未婚妻之前酝酿睡意的时间要更长，而现在沾上枕头之后很快就能入眠。"
+                    },
+                    {
+                        "contentText": "本来你的皮肤状态就很好，经过良好的休息以后更是光滑细致。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "真的嘛，那真是太好啦！"
+                    },
+                    {
+                        "contentText": "不过，我能保持这恶一个月打网球主要还是因为它挺有意思的。"
+                    },
+                    {
+                        "contentText": "再运动之余能调节状态，同时保持心情愉快也是一个意外的收获。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "嗯，双人网球可是一项很考验默契程度和技术水准的运动。"
+                    },
+                    {
+                        "contentText": "如果搭档之间无法配合，那就会变成一个噩梦。"
+                    },
+                    {
+                        "contentText": "我相信未婚妻感觉到的应该不仅仅是运动的乐趣，还有我们默契配合带来的快乐。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "哈哈，那当然啦！和你配合得确实挺好的，还被我们的对手认为是老搭档呢。"
+                    },
+                    {
+                        "contentText": "不过......刚才收到通知，周末有一件紧急的工作要忙......"
+                    },
+                    {
+                        "contentText": "看来这周只能先暂停一次了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "当然可以，如果已经处在身心疲惫的状态，就不要再勉强自己运动了。"
+                    },
+                    {
+                        "contentText": "等你恢复精力之后，我们再进行第二轮的网球教学。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "好呀！"
+                    },
+                    {
+                        "contentText": "虽然这么说......但整周都不运动一下好像也不行。"
+                    },
+                    {
+                        "contentText": "我在考虑，如果工作太忙，是不是可以像上学的时候那样做一套早操。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "做早操？"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "是呀，难道你没有......对哦，你可能真的没有做过早操，哈哈哈。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "的确没有，听上去是未婚妻学生时代的一个重要回忆，我突然好奇起来了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "哼哼，下次方便的时候，要不我也为你提供一场私人教学？"
+                    },
+                    {
+                        "contentText": "在室内做也很方便，不像球类运动需要专门的场馆。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "既然未婚妻主动提出，那我自然非常乐意地接受你的提议。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "对了，除了早操，我还可以教你我们的眼保健操，有缓解疲劳的作用哦。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "眼保健操？又是一个全新的概念。"
+                    },
+                    {
+                        "contentText": "要不是未婚妻的介绍，我还以为自己对这里的文化已经足够精通了。"
+                    },
+                    {
+                        "contentText": "看来，以后我还要再多深度参与一下你的生活才行。"
+                    }
+                ]
+            },
+            {
+                "speaker": "我",
+                "content": [
+                    {
+                        "contentText": "你这么说，我突然想到，我们还可以体验好多光启人民的特别项目。"
+                    },
+                    {
+                        "contentText": "比如一起打太极拳，在公园的石头路上光脚散步......"
+                    },
+                    {
+                        "contentText": "还有一大片蓝海等着我们挖掘。"
+                    },
+                    {
+                        "contentText": "怎么办，嘴上说着工作很忙，但我已经开始幻想和你一起体验这些项目了。"
+                    }
+                ]
+            },
+            {
+                "speaker": "查理苏",
+                "content": [
+                    {
+                        "contentText": "不用着急，我们的时间还有很长很长，未来我可以陪未婚妻去体验一切想做的事情。"
+                    },
+                    {
+                        "contentText": "更别提这些有益身心健康的活动，自然会多多益善的。"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "callCode": "v7bc8890f-8e8c-4ac4-909f-f3dfcd6f9a27",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6476,7 +7209,7 @@
         ]
     },
     {
-        "callCode": "v597a6a3a-3327-43b4-af07-2b9496c8b9f9",
+        "callCode": "v919c9c18-a4ea-4274-8ef1-10ac92e07097",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6682,7 +7415,7 @@
         ]
     },
     {
-        "callCode": "v1c1f823a-9052-4e25-ac72-32fb77777fe0",
+        "callCode": "vedb4f8ca-6e9e-4675-a35c-724b0ddc68d6",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -6977,7 +7710,7 @@
         ]
     },
     {
-        "callCode": "vb7a67ffd-0375-4568-9d90-b71716b9afb3",
+        "callCode": "vb794b023-0567-44b7-ad8e-ff15bc2aaea1",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7230,7 +7963,7 @@
         ]
     },
     {
-        "callCode": "v9440a501-a2ca-4098-bfdc-1ff9ad0995ba",
+        "callCode": "v2d68a824-5e5f-41b8-835a-8a211762e8fb",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7473,7 +8206,7 @@
         ]
     },
     {
-        "callCode": "vdcdb4aba-8710-4562-b5da-5a047e9e9727",
+        "callCode": "v717d17eb-1221-4103-8f46-579b29280c4f",
         "call_history": [
             {
                 "speaker": "我",
@@ -7694,7 +8427,7 @@
         ]
     },
     {
-        "callCode": "vaa98756c-3a3d-4be8-be91-0dffff75e3df",
+        "callCode": "v51c24711-8842-4f11-ac47-a50a6e2c404c",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -7991,7 +8724,7 @@
         ]
     },
     {
-        "callCode": "v727203d8-2b0d-41a8-9ab9-edcbf3c6418b",
+        "callCode": "v6ccc83b2-f94a-46d7-9d5d-1df17c2ef185",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8285,7 +9018,7 @@
         ]
     },
     {
-        "callCode": "v61040492-805b-4cfe-b28c-31c0d5eb1059",
+        "callCode": "vb15992c2-16ef-486c-ac21-f349ea13dfcb",
         "call_history": [
             {
                 "speaker": "查理苏",
@@ -8438,7 +9171,7 @@
         ]
     },
     {
-        "callCode": "v4a28a90a-9b5a-4c81-90e1-e7d35c6a9ba2",
+        "callCode": "v30a86f0a-dbbf-48ae-be9b-8ec52cdda67c",
         "call_history": [
             {
                 "speaker": "查理苏",
